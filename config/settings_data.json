@@ -432,6 +432,14 @@
               "action_to": "search"
             }
           },
+          "6af60981-e602-4eaa-8501-8d4518fba450": {
+            "type": "action",
+            "settings": {
+              "icon": "<svg viewbox=\"0 0 30 30\" class=\"icon icon-cart\" enable-background=\"new 0 0 30 30\">\n  <g>\n    <g>\n      <path d=\"M20,6V5c0-2.761-2.239-5-5-5s-5,2.239-5,5v1H4v24h22V6H20z M12,5c0-1.657,1.343-3,3-3s3,1.343,3,3v1h-6V5z M24,28H6V8h4v3    h2V8h6v3h2V8h4V28z\"><\/path>\n    <\/g>\n  <\/g>\n<\/svg>",
+              "text": "Cart",
+              "action_to": "cart"
+            }
+          },
           "f4af0dce-6553-449a-9db4-4720a4836ef7": {
             "type": "link",
             "settings": {
@@ -447,22 +455,14 @@
               "text": "Account",
               "action_to": "account"
             }
-          },
-          "6af60981-e602-4eaa-8501-8d4518fba450": {
-            "type": "action",
-            "settings": {
-              "icon": "<svg viewbox=\"0 0 30 30\" class=\"icon icon-cart\" enable-background=\"new 0 0 30 30\">\n  <g>\n    <g>\n      <path d=\"M20,6V5c0-2.761-2.239-5-5-5s-5,2.239-5,5v1H4v24h22V6H20z M12,5c0-1.657,1.343-3,3-3s3,1.343,3,3v1h-6V5z M24,28H6V8h4v3    h2V8h6v3h2V8h4V28z\"><\/path>\n    <\/g>\n  <\/g>\n<\/svg>",
-              "text": "Cart",
-              "action_to": "cart"
-            }
           }
         },
         "block_order": [
           "ff736cd3-bd2d-452d-b620-6f30e5896e28",
           "7635fde1-aff2-4094-84c8-586f0dfcde6b",
+          "6af60981-e602-4eaa-8501-8d4518fba450",
           "f4af0dce-6553-449a-9db4-4720a4836ef7",
-          "5d6d32ae-e121-47c0-84be-ab16049c7872",
-          "6af60981-e602-4eaa-8501-8d4518fba450"
+          "5d6d32ae-e121-47c0-84be-ab16049c7872"
         ],
         "settings": {
           "display_section": true,
