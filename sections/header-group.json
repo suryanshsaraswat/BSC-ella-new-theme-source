@@ -346,8 +346,8 @@
         "35a78c4e-5d64-42fc-95b1-c6506b165f91"
       ],
       "settings": {
-        "container": "1770",
-        "padding_full_width": 0,
+        "container": "1570",
+        "padding_full_width": 10,
         "header_navigation_bg": "#ffffff",
         "header_navigation_bg_gradient": "",
         "sticky_header_type": "always",
