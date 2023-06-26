@@ -142,13 +142,16 @@
     "product_quick_view_type": "icon",
     "product_content_text_align": "center",
     "badge_postion": "left",
-    "sale_badge_type": "text",
+    "new_badge_type": "manual",
+    "sale_badge_type": "text_discount",
     "point_product_swatch_custom": "30px",
     "show_action": true,
+    "show_quick_shop": false,
     "quick_shop_type": "1",
     "show_product_marquee": false,
     "product_marquee_background_color": "radial-gradient(rgba(137, 143, 239, 1), rgba(120, 196, 245, 1) 100%)",
     "product_marquee_text_color": "#232323",
+    "product_marquee_type": "sale-discount",
     "product_marquee_text": "SALE",
     "product_marquee_text_size": 12,
     "product_marquee_text_mobile_size": 14,
@@ -199,19 +202,23 @@
     "search_type": "all",
     "show_quick_cart": true,
     "quick_cart_redirect_button": "none",
-    "quick_cart_redirect_button_link": "",
+    "quick_cart_redirect_button_link": "shopify:\/\/collections\/best-seller",
     "quick_cart_sidebar_item_bg": "#ffffff",
     "quick_cart_sidebar_item_border": "#e8e8e8",
     "quick_cart_sidebar_item_borderw": 1,
     "quick_cart_sidebar_item_borders": "solid",
+    "show_cart_note": false,
+    "show_cart_gift": false,
     "cart_product_gift": "gift-wrapping",
-    "gift_content": "Do you want a gift wrap?",
-    "main_cart_gift_content": "DO YOU WANT A GIFT WRAP? <span style=\"font-weight: bold\">ONLY FOR $10.00<span><\/span><\/span>",
-    "show_cart_shipping": true,
+    "gift_content": "",
+    "main_cart_gift_content": "<!--DO YOU WANT A GIFT WRAP? <span style=\"font-weight: bold\">ONLY FOR $10.00<span><\/span><\/span> -->",
+    "show_cart_shipping": false,
     "shipping_rate_calculator_default_country": "United States",
+    "show_shipping_note": false,
+    "show_cart_discount": false,
     "show_quick_cart_popular_product": true,
     "quick_cart_popular_product_title": "You May Also Like",
-    "quick_cart_popular_product_collection": "suito",
+    "quick_cart_popular_product_collection": "bath-soaps-1",
     "quick_cart_popular_product_dots": false,
     "quick_cart_popular_product_arrows": true,
     "show_quick_edit_cart": true,
@@ -756,6 +763,40 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "14060646107696862457": {
+        "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "12120936241911852800": {
+        "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/reviews_tab\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": true,
+        "settings": {
+          "position": "right"
+        }
+      },
+      "3584220813331830442": {
+        "type": "shopify:\/\/apps\/superspeed-googles-page-speed\/blocks\/ss-v3\/ea1b2c2c-4644-44b9-b10b-fdb914884a8c",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "6897698614501909729": {
+        "type": "shopify:\/\/apps\/superspeed-googles-page-speed\/blocks\/app-embed\/ea1b2c2c-4644-44b9-b10b-fdb914884a8c",
+        "disabled": false,
+        "settings": {
+          "optimization_level": "extreme"
+        }
+      },
+      "12278696032673699304": {
+        "type": "shopify:\/\/apps\/email-sms-whatsapp-marketing\/blocks\/app-embed\/70d9c67e-448e-4001-9f78-84753c8bf461",
+        "disabled": true,
+        "settings": {
+        }
+      }
+    }
   }
 }
