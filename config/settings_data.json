@@ -341,7 +341,7 @@
     "spinner_right_color": "#0d5ea8",
     "spinner_bottom_color": "#0d5ea8",
     "spinner_left_color": "#0d5ea8",
-    "banner_animation": "effect_1",
+    "banner_animation": "none",
     "use_custom_js": false,
     "enable_sticky_notification": false,
     "enable_sticky_notification_mb": false,
