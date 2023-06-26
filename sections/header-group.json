@@ -346,12 +346,12 @@
         "35a78c4e-5d64-42fc-95b1-c6506b165f91"
       ],
       "settings": {
-        "container": "1370",
+        "container": "1770",
         "padding_full_width": 0,
         "header_navigation_bg": "#ffffff",
         "header_navigation_bg_gradient": "",
         "sticky_header_type": "always",
-        "sticky_header_width": "default",
+        "sticky_header_width": "full",
         "enable_transparent": false,
         "transparent_color": "#0d5ea8",
         "transparent_color_hover": "#0d5ea8"
