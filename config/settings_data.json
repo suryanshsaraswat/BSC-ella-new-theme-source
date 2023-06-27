@@ -772,6 +772,60 @@
           "lv_title_text_transform": "capitalize",
           "show_nav_all": true
         }
+      },
+      "Nav-bar": {
+        "type": "Nav-bar",
+        "blocks": {
+          "04d213e7-98e4-46c6-928c-cd28e15e4617": {
+            "type": "testimonial",
+            "settings": {
+              "text": "Best Sellers",
+              "linkurl": "shopify:\/\/collections\/best-seller",
+              "linkopen": false
+            }
+          },
+          "0fa0d9bc-fa50-4a3b-abe4-75fb79eee635": {
+            "type": "testimonial",
+            "settings": {
+              "text": "Enter name here",
+              "linkurl": "",
+              "linkopen": false
+            }
+          },
+          "bc3e48bc-5cc1-4430-8feb-f042d0d7402d": {
+            "type": "testimonial",
+            "settings": {
+              "text": "Enter name here",
+              "linkurl": "",
+              "linkopen": false
+            }
+          },
+          "f22197eb-0ca3-48ff-baaf-897f023a3ed1": {
+            "type": "testimonial",
+            "settings": {
+              "text": "Enter name here",
+              "linkurl": "",
+              "linkopen": false
+            }
+          },
+          "a06f34c8-c9d6-4a7d-b6c7-75f5b9335b79": {
+            "type": "testimonial",
+            "settings": {
+              "text": "Enter name here",
+              "linkurl": "",
+              "linkopen": false
+            }
+          }
+        },
+        "block_order": [
+          "04d213e7-98e4-46c6-928c-cd28e15e4617",
+          "0fa0d9bc-fa50-4a3b-abe4-75fb79eee635",
+          "bc3e48bc-5cc1-4430-8feb-f042d0d7402d",
+          "f22197eb-0ca3-48ff-baaf-897f023a3ed1",
+          "a06f34c8-c9d6-4a7d-b6c7-75f5b9335b79"
+        ],
+        "settings": {
+        }
       }
     },
     "content_for_index": [
