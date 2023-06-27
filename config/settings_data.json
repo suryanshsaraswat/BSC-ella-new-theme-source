@@ -627,7 +627,7 @@
           "bg_color_active": "#000000",
           "bg_color_gradient_active": "",
           "image_type": "jpg",
-          "image_style": "circle",
+          "image_style": "rectangle",
           "show_icon": true,
           "icon_type": "image",
           "icon_width": 35,
