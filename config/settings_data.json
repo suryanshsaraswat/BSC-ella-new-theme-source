@@ -482,13 +482,14 @@
             "type": "menu-1",
             "settings": {
               "show_banner": true,
-              "heading": "Trimmer",
+              "banner_lv_2": "shopify:\/\/shop_images\/CPM5.jpg",
+              "heading": "Trimmers for men",
               "url": "shopify:\/\/pages\/trimmers-for-men",
               "menu": "",
               "label": "",
               "icon": "",
               "image": "shopify:\/\/shop_images\/Trimmer_1.png",
-              "show_custom_style": false,
+              "show_custom_style": true,
               "text_color": "#000000",
               "label_bg_color": "#000000",
               "label_text_color": "#ffffff"
