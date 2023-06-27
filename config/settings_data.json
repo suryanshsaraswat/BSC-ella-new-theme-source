@@ -495,12 +495,6 @@
               "label_text_color": "#ffffff"
             }
           },
-          "5652f74b-a473-489d-8cb2-19de4cba63d7": {
-            "type": "menu-3",
-            "settings": {
-              "menu": "bath"
-            }
-          },
           "92f0be40-5079-474b-bd77-8e44dfdf1f2f": {
             "type": "menu-1",
             "disabled": true,
@@ -616,7 +610,6 @@
         },
         "block_order": [
           "32a5a3ab-3967-4d9b-a9a9-cdc87bec6641",
-          "5652f74b-a473-489d-8cb2-19de4cba63d7",
           "92f0be40-5079-474b-bd77-8e44dfdf1f2f",
           "78124338-291a-4228-93f1-73f8a53a356e",
           "f53ca8ed-b57c-4730-97e5-a381e92c78c7",
@@ -628,14 +621,14 @@
         "settings": {
           "heading": "Menu",
           "text_color": "#808080",
-          "bg_color": "#000000",
+          "bg_color": "#0d5ea8",
           "bg_color_gradient": "",
           "text_color_active": "#ffffff",
           "bg_color_active": "#000000",
           "bg_color_gradient_active": "",
           "image_type": "jpg",
-          "image_style": "rectangle",
-          "show_icon": true,
+          "image_style": "circle",
+          "show_icon": false,
           "icon_type": "image",
           "icon_width": 35,
           "icon_height": 35,
