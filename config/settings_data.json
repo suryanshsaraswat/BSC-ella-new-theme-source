@@ -1,7 +1,7 @@
 {
   "current": {
     "layout_body": "full",
-    "mobile_menu": "default",
+    "mobile_menu": "custom",
     "product_page_layout": "left_right_sidebar",
     "type_font_1": "shopify_fonts",
     "type_font_1_name": "Poppins",
@@ -484,7 +484,7 @@
               "show_banner": true,
               "heading": "Home",
               "url": "#",
-              "menu": "",
+              "menu": "mega-menu",
               "label": "",
               "icon": "",
               "show_custom_style": false,
@@ -618,7 +618,7 @@
           "bg_color_active": "#000000",
           "bg_color_gradient_active": "",
           "image_type": "jpg",
-          "image_style": "circle",
+          "image_style": "rectangle",
           "show_icon": true,
           "icon_type": "image",
           "icon_width": 35,
@@ -647,6 +647,7 @@
         "blocks": {
           "ecf7e6cc-4e95-4d03-9abf-b3cef53d7423": {
             "type": "menu-1",
+            "disabled": true,
             "settings": {
               "show_banner": false,
               "heading": "Home Page",
@@ -662,6 +663,7 @@
           },
           "af1b388e-5d4a-4c6c-a185-be3a8f29d54d": {
             "type": "menu-1",
+            "disabled": true,
             "settings": {
               "show_banner": false,
               "heading": "Product",
@@ -677,6 +679,7 @@
           },
           "1f4cbfd6-f77f-422e-8d6d-c098ff0f74ad": {
             "type": "menu-1",
+            "disabled": true,
             "settings": {
               "show_banner": false,
               "heading": "Collections",
@@ -697,7 +700,7 @@
           "1f4cbfd6-f77f-422e-8d6d-c098ff0f74ad"
         ],
         "settings": {
-          "heading": "Demo",
+          "heading": "",
           "text_color": "#808080",
           "bg_color": "#000000",
           "bg_color_gradient": "",
