@@ -604,6 +604,51 @@
               "label_bg_color": "#000000",
               "label_text_color": "#ffffff"
             }
+          },
+          "cf385d3d-88ca-4d26-9d72-a6477235f69c": {
+            "type": "menu-2",
+            "settings": {
+              "heading": "Best Sellers",
+              "url": "",
+              "label": "",
+              "icon": "",
+              "image": "shopify:\/\/shop_images\/CPM4.jpg",
+              "show_item_1": true,
+              "image_1": "shopify:\/\/shop_images\/Card_6_6f6fa444-cb5f-496d-8828-ac5e71756941.jpg",
+              "heading_1": "Trimmer",
+              "link_1": "",
+              "show_item_2": false,
+              "heading_2": "",
+              "link_2": "",
+              "show_item_3": false,
+              "heading_3": "",
+              "link_3": "",
+              "show_item_4": false,
+              "heading_4": "",
+              "link_4": "",
+              "show_item_5": false,
+              "heading_5": "",
+              "link_5": "",
+              "show_item_6": false,
+              "heading_6": "",
+              "link_6": "",
+              "show_item_7": false,
+              "heading_7": "",
+              "link_7": "",
+              "show_item_8": false,
+              "heading_8": "",
+              "link_8": "",
+              "show_item_9": false,
+              "heading_9": "",
+              "link_9": "",
+              "show_item_10": false,
+              "heading_10": "",
+              "link_10": "",
+              "show_custom_style": false,
+              "text_color": "#000000",
+              "label_bg_color": "#000000",
+              "label_text_color": "#FFFFFF"
+            }
           }
         },
         "block_order": [
@@ -614,7 +659,8 @@
           "c52874dc-e1b2-47fc-b98d-e387fde5711b",
           "72807e66-c239-4f75-943b-7c1a276efca6",
           "2763f325-7d56-4247-b496-4d9b64828fc9",
-          "e26ff796-a152-40b1-8e3f-e02a35e5b778"
+          "e26ff796-a152-40b1-8e3f-e02a35e5b778",
+          "cf385d3d-88ca-4d26-9d72-a6477235f69c"
         ],
         "settings": {
           "heading": "Menu",
