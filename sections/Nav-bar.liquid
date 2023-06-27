@@ -1,0 +1,59 @@
+<style>
+.homebar{text-align:center;background:#fff}
+.homebar ul{list-style:none;white-space:nowrap;width:100%;overflow-x:scroll;padding:6p 0 6px;overflow-y:hidden}
+.homebar ul li{display:inline-block;font-size:13px;font-weight:500}
+.homebar ul li:first-child{margin-left:8px}
+/* .homebar ul li a{padding:10px;position:relative}
+.homebar ul li a:before{position:absolute;content:"";bottom:7px;left:10px;width:calc(100% - 20px);height:1px;text-align:center;background:0 0}
+.homebar ul li a:hover::before{background:#000} */
+.homebar ul li {background: #0d5ea84a;padding: 2px 6px;margin-right: 6px;color: #0d4a82;border-radius: 0 10px;letter-spacing: 1.2px;font-weight:500}
+</style>
+<div class="homebar">
+  <ul>
+    {%- for block in section.blocks -%}
+    <li><a href="{{ block.settings.linkurl }}" {% if block.settings.linkopen == true %}target="_blank"{% endif %}>{{ block.settings.text }}</a></li>
+    {%- endfor -%}
+  </ul>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Mobile Navigation Bar",
+    "settings": [],
+    "blocks": [
+        {
+          "type": "testimonial",
+          "name": "Navigation Item",
+          "settings": [
+            {
+              "type": "text",
+              "id": "text",
+              "label": "Name",
+              "default": "Enter name here",
+              "info": "Enter Name of the Collection up here"
+            },
+            {
+              "type": "url",
+              "id": "linkurl",
+              "label": "Link"
+            },
+            {
+              "type": "checkbox",
+              "id": "linkopen",
+              "label": "Open in new window",
+              "default": false
+            }            
+          ]
+        }
+      ],
+    "presets": [
+        {
+          "category": "Header",
+          "name": "Mobile Navigation Bar"
+          
+          
+        }
+      ]
+  }
+{% endschema %}
