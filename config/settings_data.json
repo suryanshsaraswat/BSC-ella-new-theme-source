@@ -491,7 +491,7 @@
               "show_custom_style": false,
               "text_color": "#000000",
               "label_bg_color": "#000000",
-              "label_text_color": "#FFFFFF"
+              "label_text_color": "#ffffff"
             }
           },
           "76a53228-2775-4a8f-9e8a-975aba767915": {
@@ -507,7 +507,7 @@
               "show_custom_style": false,
               "text_color": "#000000",
               "label_bg_color": "#000000",
-              "label_text_color": "#FFFFFF"
+              "label_text_color": "#ffffff"
             }
           },
           "fa3f92d7-a95e-47e5-9ec4-a2490e64cc0f": {
@@ -523,7 +523,7 @@
               "show_custom_style": false,
               "text_color": "#000000",
               "label_bg_color": "#000000",
-              "label_text_color": "#FFFFFF"
+              "label_text_color": "#ffffff"
             }
           },
           "6d65141c-24c8-4199-bf5b-71c44ea31cfa": {
@@ -539,7 +539,7 @@
               "show_custom_style": false,
               "text_color": "#000000",
               "label_bg_color": "#000000",
-              "label_text_color": "#FFFFFF"
+              "label_text_color": "#ffffff"
             }
           },
           "998150f5-47d1-4593-97d9-52bf88d883c1": {
@@ -555,7 +555,7 @@
               "show_custom_style": false,
               "text_color": "#000000",
               "label_bg_color": "#000000",
-              "label_text_color": "#FFFFFF"
+              "label_text_color": "#ffffff"
             }
           },
           "49798dae-d2ad-41d2-bdef-87aef180ed35": {
@@ -587,7 +587,7 @@
               "show_custom_style": false,
               "text_color": "#000000",
               "label_bg_color": "#000000",
-              "label_text_color": "#FFFFFF"
+              "label_text_color": "#ffffff"
             }
           },
           "5f03e0ff-8416-46ab-ae7c-4ef9f4371190": {
@@ -609,11 +609,11 @@
         ],
         "settings": {
           "heading": "Menu",
-          "text_color": "#fff",
-          "bg_color": "#fff",
+          "text_color": "#ffffff",
+          "bg_color": "#ffffff",
           "bg_color_gradient": "linear-gradient(54deg, rgba(114, 255, 179, 1) 14%, rgba(255, 250, 99, 1) 85%)",
           "text_color_active": "#232323",
-          "bg_color_active": "#fff",
+          "bg_color_active": "#ffffff",
           "bg_color_gradient_active": "",
           "image_type": "jpg",
           "image_style": "rectangle",
@@ -644,11 +644,11 @@
         "type": "halo-navigation-mobile-2",
         "settings": {
           "heading": "",
-          "text_color": "#fff",
-          "bg_color": "#fff",
+          "text_color": "#ffffff",
+          "bg_color": "#ffffff",
           "bg_color_gradient": "",
           "text_color_active": "#ffffff",
-          "bg_color_active": "#fff",
+          "bg_color_active": "#ffffff",
           "bg_color_gradient_active": "",
           "image_type": "jpg",
           "image_style": "circle",
