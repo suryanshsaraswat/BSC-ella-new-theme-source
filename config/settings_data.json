@@ -478,20 +478,20 @@
       "halo-navigation-mobile": {
         "type": "halo-navigation-mobile",
         "blocks": {
-          "49798dae-d2ad-41d2-bdef-87aef180ed35": {
+          "1ebf7aa4-c324-4fa2-af0e-bf7572fcc180": {
             "type": "menu-1",
             "settings": {
               "show_banner": false,
-              "heading": "Bath Care",
-              "url": "",
-              "menu": "for-bath-care",
+              "heading": "Trimmer for men",
+              "url": "shopify:\/\/pages\/trimmers-for-men",
+              "menu": "",
               "label": "",
               "icon": "",
-              "image": "shopify:\/\/shop_images\/SheaButter_BathSoap.jpg",
+              "image": "shopify:\/\/shop_images\/Grey-trimmer-removebg-preview.png",
               "show_custom_style": false,
               "text_color": "#000000",
               "label_bg_color": "#000000",
-              "label_text_color": "#ffffff"
+              "label_text_color": "#FFFFFF"
             }
           },
           "76a53228-2775-4a8f-9e8a-975aba767915": {
@@ -504,6 +504,22 @@
               "label": "",
               "icon": "",
               "image": "shopify:\/\/shop_images\/Post-Shave-Balm_7f0b2add-a724-417f-a753-de0c002e5c32-removebg-preview.png",
+              "show_custom_style": false,
+              "text_color": "#000000",
+              "label_bg_color": "#000000",
+              "label_text_color": "#FFFFFF"
+            }
+          },
+          "fa3f92d7-a95e-47e5-9ec4-a2490e64cc0f": {
+            "type": "menu-1",
+            "settings": {
+              "show_banner": false,
+              "heading": "Skin care for men",
+              "url": "",
+              "menu": "for-skin-care",
+              "label": "",
+              "icon": "",
+              "image": "shopify:\/\/shop_images\/SKIN_Charcoal_FaceWash_45g_1.373570c53e18_307ba80e-7b7f-43f2-8a60-895f67af8559-removebg-preview.png",
               "show_custom_style": false,
               "text_color": "#000000",
               "label_bg_color": "#000000",
@@ -542,16 +558,32 @@
               "label_text_color": "#FFFFFF"
             }
           },
-          "fa3f92d7-a95e-47e5-9ec4-a2490e64cc0f": {
+          "49798dae-d2ad-41d2-bdef-87aef180ed35": {
             "type": "menu-1",
             "settings": {
               "show_banner": false,
-              "heading": "Skin care for men",
+              "heading": "Bath Care for men",
               "url": "",
-              "menu": "for-skin-care",
+              "menu": "for-bath-care",
               "label": "",
               "icon": "",
-              "image": "shopify:\/\/shop_images\/SKIN_Charcoal_FaceWash_45g_1.373570c53e18_307ba80e-7b7f-43f2-8a60-895f67af8559-removebg-preview.png",
+              "image": "shopify:\/\/shop_images\/SheaButter_BathSoap.jpg",
+              "show_custom_style": false,
+              "text_color": "#000000",
+              "label_bg_color": "#000000",
+              "label_text_color": "#ffffff"
+            }
+          },
+          "9b5bd165-0970-418c-85c7-3855ae05b940": {
+            "type": "menu-1",
+            "settings": {
+              "show_banner": false,
+              "heading": "Gifting Kits for men",
+              "url": "shopify:\/\/pages\/gifts-for-men-online",
+              "menu": "",
+              "label": "",
+              "icon": "",
+              "image": "shopify:\/\/shop_images\/Bombay-Shaving-Company-Premium-Shaving-DIY-Gift-Kit-removebg-preview.png",
               "show_custom_style": false,
               "text_color": "#000000",
               "label_bg_color": "#000000",
@@ -560,11 +592,13 @@
           }
         },
         "block_order": [
-          "49798dae-d2ad-41d2-bdef-87aef180ed35",
+          "1ebf7aa4-c324-4fa2-af0e-bf7572fcc180",
           "76a53228-2775-4a8f-9e8a-975aba767915",
+          "fa3f92d7-a95e-47e5-9ec4-a2490e64cc0f",
           "6d65141c-24c8-4199-bf5b-71c44ea31cfa",
           "998150f5-47d1-4593-97d9-52bf88d883c1",
-          "fa3f92d7-a95e-47e5-9ec4-a2490e64cc0f"
+          "49798dae-d2ad-41d2-bdef-87aef180ed35",
+          "9b5bd165-0970-418c-85c7-3855ae05b940"
         ],
         "settings": {
           "heading": "Menu",
