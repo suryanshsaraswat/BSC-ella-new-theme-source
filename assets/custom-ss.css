@@ -1,0 +1,2 @@
+@media(max-width:500px){
+a.menu-lv-1__action.list-menu__item.link.focus-inset.menu-lv__flex.menu_mobile_link {flex-direction: row-reverse;justify-content: space-between;padding: 24px 16px;background: linear-gradient(263deg, #0d5ea8, transparent);}}
