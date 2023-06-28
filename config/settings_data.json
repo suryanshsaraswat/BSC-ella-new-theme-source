@@ -491,12 +491,77 @@
               "show_custom_style": false,
               "text_color": "#000000",
               "label_bg_color": "#000000",
+              "label_text_color": "#ffffff"
+            }
+          },
+          "76a53228-2775-4a8f-9e8a-975aba767915": {
+            "type": "menu-1",
+            "settings": {
+              "show_banner": false,
+              "heading": "Demo",
+              "url": "",
+              "menu": "for-shave-care",
+              "label": "Shave care for men",
+              "icon": "",
+              "image": "shopify:\/\/shop_images\/Post-Shave-Balm_7f0b2add-a724-417f-a753-de0c002e5c32-removebg-preview.png",
+              "show_custom_style": false,
+              "text_color": "#000000",
+              "label_bg_color": "#000000",
+              "label_text_color": "#FFFFFF"
+            }
+          },
+          "6d65141c-24c8-4199-bf5b-71c44ea31cfa": {
+            "type": "menu-1",
+            "settings": {
+              "show_banner": false,
+              "heading": "Demo",
+              "url": "",
+              "menu": "",
+              "label": "",
+              "icon": "",
+              "show_custom_style": false,
+              "text_color": "#000000",
+              "label_bg_color": "#000000",
+              "label_text_color": "#FFFFFF"
+            }
+          },
+          "998150f5-47d1-4593-97d9-52bf88d883c1": {
+            "type": "menu-1",
+            "settings": {
+              "show_banner": false,
+              "heading": "Demo",
+              "url": "",
+              "menu": "",
+              "label": "",
+              "icon": "",
+              "show_custom_style": false,
+              "text_color": "#000000",
+              "label_bg_color": "#000000",
+              "label_text_color": "#FFFFFF"
+            }
+          },
+          "fa3f92d7-a95e-47e5-9ec4-a2490e64cc0f": {
+            "type": "menu-1",
+            "settings": {
+              "show_banner": false,
+              "heading": "Demo",
+              "url": "",
+              "menu": "",
+              "label": "",
+              "icon": "",
+              "show_custom_style": false,
+              "text_color": "#000000",
+              "label_bg_color": "#000000",
               "label_text_color": "#FFFFFF"
             }
           }
         },
         "block_order": [
-          "49798dae-d2ad-41d2-bdef-87aef180ed35"
+          "49798dae-d2ad-41d2-bdef-87aef180ed35",
+          "76a53228-2775-4a8f-9e8a-975aba767915",
+          "6d65141c-24c8-4199-bf5b-71c44ea31cfa",
+          "998150f5-47d1-4593-97d9-52bf88d883c1",
+          "fa3f92d7-a95e-47e5-9ec4-a2490e64cc0f"
         ],
         "settings": {
           "heading": "Menu",
