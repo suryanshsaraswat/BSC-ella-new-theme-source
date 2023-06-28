@@ -589,6 +589,12 @@
               "label_bg_color": "#000000",
               "label_text_color": "#FFFFFF"
             }
+          },
+          "5f03e0ff-8416-46ab-ae7c-4ef9f4371190": {
+            "type": "menu-3",
+            "settings": {
+              "menu": "customer-services"
+            }
           }
         },
         "block_order": [
@@ -598,7 +604,8 @@
           "6d65141c-24c8-4199-bf5b-71c44ea31cfa",
           "998150f5-47d1-4593-97d9-52bf88d883c1",
           "49798dae-d2ad-41d2-bdef-87aef180ed35",
-          "9b5bd165-0970-418c-85c7-3855ae05b940"
+          "9b5bd165-0970-418c-85c7-3855ae05b940",
+          "5f03e0ff-8416-46ab-ae7c-4ef9f4371190"
         ],
         "settings": {
           "heading": "Menu",
