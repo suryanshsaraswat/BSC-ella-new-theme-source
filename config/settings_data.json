@@ -478,13 +478,13 @@
       "halo-navigation-mobile": {
         "type": "halo-navigation-mobile",
         "blocks": {
-          "e42c0b31-5e50-4d71-9da3-89b4cf67b42c": {
+          "49798dae-d2ad-41d2-bdef-87aef180ed35": {
             "type": "menu-1",
             "settings": {
               "show_banner": false,
-              "heading": "Demo",
+              "heading": "",
               "url": "",
-              "menu": "for-shave-care",
+              "menu": "for-bath-care",
               "label": "",
               "icon": "",
               "show_custom_style": false,
@@ -495,7 +495,7 @@
           }
         },
         "block_order": [
-          "e42c0b31-5e50-4d71-9da3-89b4cf67b42c"
+          "49798dae-d2ad-41d2-bdef-87aef180ed35"
         ],
         "settings": {
           "heading": "Menu",
