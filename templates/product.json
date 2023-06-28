@@ -5,6 +5,7 @@
       "blocks": {
         "2e8c7c14-a0ad-4930-a1d8-3def05310426": {
           "type": "breadcrumb",
+          "disabled": true,
           "settings": {
             "breadcrumb_layout": "full",
             "breadcrumb_alignment": "left",
@@ -23,13 +24,14 @@
           "settings": {
             "fontsize_text": 21,
             "fontsize_text_mb": 15,
-            "color_title": "#0d5ea8",
+            "color_title": "#232323",
             "spacing_top": 0,
             "spacing_bottom": 0
           }
         },
         "0e4ea696-4820-4c98-aaa6-806d41782a3d": {
           "type": "meta",
+          "disabled": true,
           "settings": {
             "spacing_top": 0,
             "spacing_bottom": 0,
