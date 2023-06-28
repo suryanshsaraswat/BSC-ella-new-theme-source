@@ -1,4 +1,4 @@
 @media(max-width:500px){
 a.menu-lv-1__action.list-menu__item.link.focus-inset.menu-lv__flex.menu_mobile_link {flex-direction: row-reverse;justify-content: space-between;padding: 20px 16px;background: linear-gradient(263deg, #0d5ea8, transparent);}
-#MenuMobileListSection-menu .custom-icon img{width:100px; height:100px}
+#MenuMobileListSection-menu .custom-icon img{width:100px!important; height:100px!important}
 }
