@@ -478,145 +478,24 @@
       "halo-navigation-mobile": {
         "type": "halo-navigation-mobile",
         "blocks": {
-          "32a5a3ab-3967-4d9b-a9a9-cdc87bec6641": {
+          "e42c0b31-5e50-4d71-9da3-89b4cf67b42c": {
             "type": "menu-1",
-            "settings": {
-              "show_banner": true,
-              "banner_lv_2": "shopify:\/\/shop_images\/CPM5.jpg",
-              "heading": "Trimmers for men",
-              "url": "shopify:\/\/pages\/trimmers-for-men",
-              "menu": "",
-              "label": "",
-              "icon": "",
-              "image": "shopify:\/\/shop_images\/Trimmer_1.png",
-              "show_custom_style": true,
-              "text_color": "#000000",
-              "label_bg_color": "#000000",
-              "label_text_color": "#ffffff"
-            }
-          },
-          "92f0be40-5079-474b-bd77-8e44dfdf1f2f": {
-            "type": "menu-1",
-            "disabled": true,
-            "settings": {
-              "show_banner": true,
-              "heading": "New In",
-              "url": "",
-              "menu": "",
-              "label": "",
-              "icon": "",
-              "show_custom_style": true,
-              "text_color": "#000000",
-              "label_bg_color": "#000000",
-              "label_text_color": "#ffffff"
-            }
-          },
-          "78124338-291a-4228-93f1-73f8a53a356e": {
-            "type": "menu-1",
-            "disabled": true,
-            "settings": {
-              "show_banner": true,
-              "heading": "Accessories",
-              "url": "",
-              "menu": "",
-              "label": "",
-              "icon": "",
-              "show_custom_style": false,
-              "text_color": "#000000",
-              "label_bg_color": "#000000",
-              "label_text_color": "#ffffff"
-            }
-          },
-          "f53ca8ed-b57c-4730-97e5-a381e92c78c7": {
-            "type": "menu-1",
-            "disabled": true,
-            "settings": {
-              "show_banner": true,
-              "heading": "Shop This Look",
-              "url": "",
-              "menu": "",
-              "label": "",
-              "icon": "",
-              "show_custom_style": false,
-              "text_color": "#000000",
-              "label_bg_color": "#000000",
-              "label_text_color": "#ffffff"
-            }
-          },
-          "c52874dc-e1b2-47fc-b98d-e387fde5711b": {
-            "type": "menu-1",
-            "disabled": true,
-            "settings": {
-              "show_banner": true,
-              "heading": "Blog",
-              "url": "",
-              "menu": "",
-              "label": "",
-              "icon": "",
-              "show_custom_style": false,
-              "text_color": "#000000",
-              "label_bg_color": "#000000",
-              "label_text_color": "#ffffff"
-            }
-          },
-          "72807e66-c239-4f75-943b-7c1a276efca6": {
-            "type": "menu-1",
-            "disabled": true,
             "settings": {
               "show_banner": false,
-              "heading": "Buy Theme",
+              "heading": "Demo",
               "url": "",
-              "menu": "",
+              "menu": "for-shave-care",
               "label": "",
               "icon": "",
               "show_custom_style": false,
               "text_color": "#000000",
               "label_bg_color": "#000000",
-              "label_text_color": "#ffffff"
-            }
-          },
-          "2763f325-7d56-4247-b496-4d9b64828fc9": {
-            "type": "menu-1",
-            "disabled": true,
-            "settings": {
-              "show_banner": false,
-              "heading": "My Wish List",
-              "url": "",
-              "menu": "",
-              "label": "",
-              "icon": "",
-              "show_custom_style": false,
-              "text_color": "#000000",
-              "label_bg_color": "#000000",
-              "label_text_color": "#ffffff"
-            }
-          },
-          "e26ff796-a152-40b1-8e3f-e02a35e5b778": {
-            "type": "menu-1",
-            "disabled": true,
-            "settings": {
-              "show_banner": false,
-              "heading": "My Account",
-              "url": "",
-              "menu": "",
-              "label": "",
-              "icon": "",
-              "show_custom_style": false,
-              "text_color": "#000000",
-              "label_bg_color": "#000000",
-              "label_text_color": "#ffffff"
+              "label_text_color": "#FFFFFF"
             }
           }
         },
         "block_order": [
-          "32a5a3ab-3967-4d9b-a9a9-cdc87bec6641",
-          "92f0be40-5079-474b-bd77-8e44dfdf1f2f",
-          "78124338-291a-4228-93f1-73f8a53a356e",
-          "f53ca8ed-b57c-4730-97e5-a381e92c78c7",
-          "c52874dc-e1b2-47fc-b98d-e387fde5711b",
-          "72807e66-c239-4f75-943b-7c1a276efca6",
-          "2763f325-7d56-4247-b496-4d9b64828fc9",
-          "e26ff796-a152-40b1-8e3f-e02a35e5b778"
+          "e42c0b31-5e50-4d71-9da3-89b4cf67b42c"
         ],
         "settings": {
           "heading": "Menu",
