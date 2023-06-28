@@ -1,5 +1,5 @@
 @media(max-width:500px){
-a.menu-lv-1__action.list-menu__item.link.focus-inset.menu-lv__flex.menu_mobile_link {flex-direction: row-reverse;justify-content: space-between;padding: 6px 16px;background: linear-gradient(263deg, #0d5ea8, transparent);}
+a.menu-lv-1__action.list-menu__item.link.focus-inset.menu-lv__flex.menu_mobile_link:nth-child(1) {flex-direction: row-reverse;justify-content: space-between;padding: 6px 16px;background: linear-gradient(263deg, #0d5ea8, transparent);}
 #MenuMobileListSection-menu .custom-icon img{max-width:100px!important; max-height:100px!important}
   #MenuMobileListSection-menu .menu-lv-1__action{font-size:15px!important}
 }
