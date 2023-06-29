@@ -339,7 +339,7 @@
         "1180d91b-75f9-49d9-a9db-2b9f5a49408d"
       ],
       "settings": {
-        "container": "default",
+        "container": "1170",
         "padding_full_width": 0,
         "show_sticky_info": true,
         "mg_top_desktop": 0,
@@ -354,7 +354,7 @@
         "main_image_enable_parallax_mb": false,
         "main_image_show_zoom_icon_mb": true,
         "main_image_position": "left",
-        "main_image_layout": "2",
+        "main_image_layout": "1",
         "main_image_show_custom_cursor": true,
         "count_color": "#191919",
         "icon_color": "#000000",
