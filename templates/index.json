@@ -1472,7 +1472,7 @@
         "padding_full_width": 0,
         "disable_padding_content": false,
         "mg_minus_desktop": 0,
-        "block_layout": "slider",
+        "block_layout": "grid",
         "spotlight_block_swipe_on_mobile": "scroll",
         "column": "4",
         "column_mb": "1",
