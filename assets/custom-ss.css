@@ -5,6 +5,6 @@ a.menu-lv-1__action.list-menu__item.link.focus-inset.menu-lv__flex.menu_mobile_l
 /*   a.menu_mobile_link:nth-child(1){background: linear-gradient(263deg, #0d5ea8, transparent);} */
 }
 .section-block-template--16129472299162__9ac55911-f286-442f-9490-36c188bd6ef1 .spotlight-item .img-box a {
-    border-radius: 17px;
+    border-radius: 17px!important;
     box-shadow: 2px -1px 1px 0px #ddd;
 }
