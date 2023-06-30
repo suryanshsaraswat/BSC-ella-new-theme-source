@@ -532,6 +532,7 @@
     .spotlight-block .halo-row:not(.not-distance) .halo-item {
         padding-left: var(--item-distance-style);
         padding-right: var(--item-distance-style);
+        padding-top: var(--item-distance-style);
     }
     
     .spotlight-item.enable_border_color .spotlight-button{
