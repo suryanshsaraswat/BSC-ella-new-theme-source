@@ -8,3 +8,4 @@ a.menu-lv-1__action.list-menu__item.link.focus-inset.menu-lv__flex.menu_mobile_l
     border-radius: 17px!important;
     box-shadow: 2px -1px 1px 0px #ddd;
 }
+.article-card__author {display: flex;justify-content: space-between;flex-direction: row;margin-top: 10px;}
