@@ -13,6 +13,8 @@ a.menu-lv-1__action.list-menu__item.link.focus-inset.menu-lv__flex.menu_mobile_l
 
 /* PRODUCT PAGE CHANGES  - CRO */
 .pr_mobile{display:none}
+.mobile_displaynone {display: block;}
 @media(max-width:450px){
   .pr_mobile{display:block}
+  .mobile_displaynone {display: none;}
 }
