@@ -970,7 +970,8 @@
                                             --spacing-bottom: {{ spacing_bottom | append: 'px' }};
                                             --fontsize-text: {{ fontsize_text | append: 'px' }}"
                                         >
-                                            {% if has_product_combo %}
+                                  <div class="mobile_displaynone">
+                                  {% if has_product_combo %}
                                                 <div>
                                                     {%- if combo_discount_rate > 0 -%}
                                                         <span class="old-price bundle-old-price-in-main">
@@ -993,7 +994,8 @@
                                                         price_class: 'price--medium'
                                                     -%}
                                                 </div>
-                                            {% endif %}
+                                            {% endif %}</div>
+                                            
                                         </div>
                                     {%- when 'countdown' -%}
                                         {%- liquid
