@@ -474,8 +474,11 @@
             {%- endif -%}
                 <div class="productView-top">
                   <div class="pr_mobile">
-                    <h2>{{ product.title }}</h2>
-                                  {% render 'product-title',
+                    <div class="productView-moreItem"
+                                            style="--spacing-top: {{ spacing_top | append: 'px' }};
+                                            --spacing-bottom: {{ spacing_bottom | append: 'px' }}"
+                                        >
+                                            {% render 'product-title',
                                                 block: block,
                                                 product: product,
                                                 check_show_share: check_show_share,
@@ -483,15 +486,8 @@
                                                 share_product_script: share_product_script,
                                                 share_layout: check_show_share
                                             %}
-                                            {% render 'product-rating',
-                                                            product: product
-                                                        %}
-                                                        {%- render 'price',
-                                                        product: product,
-                                                        use_variant: true,
-                                                        price_class: 'price--medium'
-                                                    -%}
-                                </div>
+                                        </div>
+                  </div>
                     <div class="halo-productView-left productView-images clearfix" data-image-gallery>
                         {%- if main_image_show_custom_cursor -%}
                             <div class="cursor-wrapper handleMouseLeave">
