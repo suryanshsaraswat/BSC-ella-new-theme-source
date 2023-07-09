@@ -865,22 +865,22 @@
                                             %}
                                         </div>
                                     {%- when 'title' -%}
-                                  <div class="mobile_displaynone">
-                                  <div class="productView-moreItem"
+                                  
+                                        <div class="productView-moreItem"
                                             style="--spacing-top: {{ spacing_top | append: 'px' }};
                                             --spacing-bottom: {{ spacing_bottom | append: 'px' }}"
                                         >
-                                            {% render 'product-title',
+                                  <div class="mobile_displaynone">
+                                  {% render 'product-title',
                                                 block: block,
                                                 product: product,
                                                 check_show_share: check_show_share,
                                                 share_product_type: share_product_type,
                                                 share_product_script: share_product_script,
                                                 share_layout: check_show_share
-                                            %}
+                                            %}</div>
+                                            
                                         </div>
-                                  </div>
-                                        
                                     {%- when 'meta' -%}
                                         {%- liquid 
                                             assign show_review = block.settings.show_review
