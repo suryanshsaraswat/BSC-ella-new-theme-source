@@ -14,10 +14,12 @@ a.menu-lv-1__action.list-menu__item.link.focus-inset.menu-lv__flex.menu_mobile_l
 /* PRODUCT PAGE CHANGES  - CRO */
 .pr_mobile{display:none}
 .mobile_displaynone {display: block;}
+.sale_label {margin-left: 19px;background-color: red;padding: 0px 8px;color: #fff;font-size: 14px;}
 @media(max-width:450px){
   .pr_mobile{display:block; padding:15px 0}
   .mobile_displaynone {display: none;}
   .mobile_title>.productView-moreItem>.productView-title>span {font-size: 20px;font-weight: 700;}
   .price-item.price-item--sale {font-size: 20px !important;}
   .price_mobile {padding-top: 7px;}
+  
 }
