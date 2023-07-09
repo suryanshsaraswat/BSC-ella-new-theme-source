@@ -474,7 +474,6 @@
             {%- endif -%}
                 <div class="productView-top">
                   <div class="pr_mobile">
-                    testingggggg
                     <div class="productView-moreItem"
                                             style="--spacing-top: {{ spacing_top | append: 'px' }};
                                             --spacing-bottom: {{ spacing_bottom | append: 'px' }}"
@@ -487,6 +486,37 @@
                                                 share_product_script: share_product_script,
                                                 share_layout: check_show_share
                                             %}
+                                        </div>
+                    {% assign fontsize_text = block.settings.fontsize_text %}
+                                        <div class="productView-moreItem"
+                                            style="--spacing-top: {{ spacing_top | append: 'px' }};
+                                            --spacing-bottom: {{ spacing_bottom | append: 'px' }};
+                                            --fontsize-text: {{ fontsize_text | append: 'px' }}"
+                                        >
+                                            {% if has_product_combo %}
+                                                <div>
+                                                    {%- if combo_discount_rate > 0 -%}
+                                                        <span class="old-price bundle-old-price-in-main">
+                                                            {{ cart.total_price | money }}
+                                                        </span>
+                                                        <span class="bundle-price-in-main" data-bundle-product-price data-bundle-discount-rate="{{ combo_discount_rate }}">
+                                                            {%- assign compensation = 1 | minus: combo_discount_rate -%}
+                                                            {{ cart.total_price | times: compensation | money }}
+                                                        </span>
+                                                    {%- endif -%}
+                                                    <span class="price price-in-main" data-combo-product-total style="display: none">
+                                                        {{ cart.total_price | money }}
+                                                    </span>
+                                                </div>
+                                            {% else %}
+                                                <div class="productView-price no-js-hidden clearfix" id="product-price-{{ product.id }}">
+                                                    {%- render 'price',
+                                                        product: product,
+                                                        use_variant: true,
+                                                        price_class: 'price--medium'
+                                                    -%}
+                                                </div>
+                                            {% endif %}
                                         </div>
                   </div>
                     <div class="halo-productView-left productView-images clearfix" data-image-gallery>
