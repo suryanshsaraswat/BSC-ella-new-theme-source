@@ -865,7 +865,8 @@
                                             %}
                                         </div>
                                     {%- when 'title' -%}
-                                        <div class="productView-moreItem"
+                                  <div class="mobile_displaynone">
+                                  <div class="productView-moreItem"
                                             style="--spacing-top: {{ spacing_top | append: 'px' }};
                                             --spacing-bottom: {{ spacing_bottom | append: 'px' }}"
                                         >
@@ -878,6 +879,8 @@
                                                 share_layout: check_show_share
                                             %}
                                         </div>
+                                  </div>
+                                        
                                     {%- when 'meta' -%}
                                         {%- liquid 
                                             assign show_review = block.settings.show_review
