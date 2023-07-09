@@ -10,3 +10,9 @@ a.menu-lv-1__action.list-menu__item.link.focus-inset.menu-lv__flex.menu_mobile_l
 }
 /*BLOG CHANGES*/
 .article-card__author {display: flex;justify-content: space-between;flex-direction: row;margin-top: 10px;}
+
+/* PRODUCT PAGE CHANGES  - CRO */
+.pr_mobile{display:none}
+@media screen and(max-width:450px){
+  .pr_mobile{display:block}
+}
