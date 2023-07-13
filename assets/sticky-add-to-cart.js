@@ -32,7 +32,7 @@ class StickyAddToCart extends HTMLElement {
         })
 
         const height = this.closest('[data-sticky-add-to-cart]').clientHeight;
-        this.sticky.querySelector('.sticky-product-mobile').style.bottom = height + 'px';
+        this.sticky.querySelector('.sticky-product-mobile').style.bottom = 0 + 'px';
     }
 
     openStickyModal() {
