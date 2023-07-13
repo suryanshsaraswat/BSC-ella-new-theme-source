@@ -31,8 +31,8 @@ class StickyAddToCart extends HTMLElement {
             }
         })
 
-        const height = this.closest('[data-sticky-add-to-cart]').clientHeight;
-        this.sticky.querySelector('.sticky-product-mobile').style.bottom = 0 + 'px';
+        const height = 0;
+        this.sticky.querySelector('.sticky-product-mobile').style.bottom = height + 'px';
     }
 
     openStickyModal() {
