@@ -97,7 +97,7 @@ class StickyAddToCart extends HTMLElement {
     }
 
     hide() {
-        // this.sticky.classList.remove('show-sticky', 'hidden-sticky', 'full-sticky', 'animate');
+        this.sticky.classList.remove('show-sticky', 'hidden-sticky', 'full-sticky', 'animate');
         document.body.classList.remove('show-mobile-options');
     }
 
