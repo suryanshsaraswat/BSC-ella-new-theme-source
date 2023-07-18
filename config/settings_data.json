@@ -2,7 +2,7 @@
   "current": {
     "layout_body": "full",
     "mobile_menu": "custom",
-    "collection_layout": "banner_adv",
+    "collection_layout": "default",
     "list_collections_layout": "collections_01_grid",
     "product_page_layout": "default",
     "type_font_1": "shopify_fonts",
