@@ -121,7 +121,7 @@
         "7b7edcea-7483-4880-8cb0-e9d230d1ab14": {
           "type": "megamenu_style_5",
           "settings": {
-            "layout_block": "full",
+            "layout_block": "custom_width",
             "header_custom_width_size": 1200,
             "mega_tyle": "style2",
             "item": "BEST SELLERS",
@@ -141,7 +141,7 @@
         "93ec1985-1578-4a5a-9971-af43eb67b77f": {
           "type": "megamenu_style_5",
           "settings": {
-            "layout_block": "full",
+            "layout_block": "custom_width",
             "header_custom_width_size": 1200,
             "mega_tyle": "style2",
             "item": "TRIMMERS",
@@ -160,7 +160,7 @@
         "89d814e8-53fb-4f55-91e0-ac3a0a2f2733": {
           "type": "megamenu_style_5",
           "settings": {
-            "layout_block": "full",
+            "layout_block": "custom_width",
             "header_custom_width_size": 1200,
             "mega_tyle": "style2",
             "item": "SHAVE",
@@ -179,7 +179,7 @@
         "d5bab243-048e-461c-b7c0-3488055e3e80": {
           "type": "megamenu_style_5",
           "settings": {
-            "layout_block": "full",
+            "layout_block": "custom_width",
             "header_custom_width_size": 1200,
             "mega_tyle": "style2",
             "item": "BEARD",
@@ -198,7 +198,7 @@
         "ce3df1fe-a03e-4cbb-92db-bd9968a12e56": {
           "type": "megamenu_style_5",
           "settings": {
-            "layout_block": "full",
+            "layout_block": "custom_width",
             "header_custom_width_size": 1200,
             "mega_tyle": "style2",
             "item": "HAIR",
@@ -217,7 +217,7 @@
         "69808827-38aa-4897-bedd-94847c3b092f": {
           "type": "megamenu_style_5",
           "settings": {
-            "layout_block": "full",
+            "layout_block": "custom_width",
             "header_custom_width_size": 1200,
             "mega_tyle": "style1",
             "item": "SKIN",
@@ -255,7 +255,7 @@
         "35a78c4e-5d64-42fc-95b1-c6506b165f91": {
           "type": "megamenu_style_5",
           "settings": {
-            "layout_block": "full",
+            "layout_block": "custom_width",
             "header_custom_width_size": 1200,
             "mega_tyle": "style2",
             "item": "FRAGRANCES",
@@ -349,7 +349,7 @@
         "633f9dae-3f65-4bda-9ca8-9d3e231aaf9d"
       ],
       "settings": {
-        "background": "#fff",
+        "background": "#ffffff",
         "gradient": "",
         "sticky_header_type": "on_scroll",
         "padding_top": 0,
