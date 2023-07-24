@@ -863,6 +863,56 @@
         "content_border_color": "#e2e2e2"
       }
     },
+    "daaa5e22-8eac-4662-9bd1-3afa11dc6856": {
+      "type": "marquee",
+      "blocks": {
+        "template--16129472299162__daaa5e22-8eac-4662-9bd1-3afa11dc6856-marquee-1": {
+          "type": "marquee",
+          "settings": {
+            "text": "<p>Reimagine hair removal<\/p>",
+            "color": "#ea5839",
+            "color_mb": "#ea5839"
+          }
+        },
+        "template--16129472299162__daaa5e22-8eac-4662-9bd1-3afa11dc6856-marquee-2": {
+          "type": "marquee",
+          "settings": {
+            "text": "<p>Welcome to our store<\/p>",
+            "color": "#000000",
+            "color_mb": "#000000"
+          }
+        },
+        "template--16129472299162__daaa5e22-8eac-4662-9bd1-3afa11dc6856-marquee-3": {
+          "type": "marquee",
+          "settings": {
+            "text": "<p>Welcome to our store<\/p>",
+            "color": "#000000",
+            "color_mb": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "template--16129472299162__daaa5e22-8eac-4662-9bd1-3afa11dc6856-marquee-1",
+        "template--16129472299162__daaa5e22-8eac-4662-9bd1-3afa11dc6856-marquee-2",
+        "template--16129472299162__daaa5e22-8eac-4662-9bd1-3afa11dc6856-marquee-3"
+      ],
+      "settings": {
+        "mq_background": "",
+        "mq_gradient": "",
+        "text_size": 40,
+        "gap_blocks": 20,
+        "border": "none",
+        "border_color": "#000000",
+        "icon": "none",
+        "icon_color": "#000000",
+        "text_size_mb": 26,
+        "border_color_mb": "#000000",
+        "icon_color_mb": "#000000",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "minus_spacing_top": 0
+      }
+    },
     "163247026462da6862": {
       "type": "product-block",
       "settings": {
@@ -2254,6 +2304,7 @@
     "16321237356a896dad",
     "bb59a85e-e877-4dd3-a37a-15ea92b72479",
     "9ac55911-f286-442f-9490-36c188bd6ef1",
+    "daaa5e22-8eac-4662-9bd1-3afa11dc6856",
     "163247026462da6862",
     "aa9c81af-6f52-4b5e-b688-2b760dba3271",
     "22cc656f-545c-42f5-98ce-6441dc81e15d",
