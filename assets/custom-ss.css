@@ -19,7 +19,7 @@ a.menu-lv-1__action.list-menu__item.link.focus-inset.menu-lv__flex.menu_mobile_l
   .pr_mobile{display:block; padding:15px 0}
   .mobile_displaynone {display: none;}
   .mobile_title>.productView-moreItem>.productView-title>span {font-size: 20px;font-weight: 700;}
-  .mobile_title>.productView-moreItem>.productView-title>.price-item.price-item--sale {font-size: 20px !important;}
+  .price-item.price-item--sale {font-size: 20px !important;}
   .price_mobile {padding-top: 7px;}
   
 }
