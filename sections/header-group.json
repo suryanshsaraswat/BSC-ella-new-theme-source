@@ -471,10 +471,11 @@
         },
         "efa5bd3e-8a85-4cbf-9722-69dd87d19580": {
           "type": "megamenu_style_3",
+          "disabled": true,
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1200,
-            "mega_tyle": "style2",
+            "mega_tyle": "style1",
             "item": "Categories",
             "column": 5,
             "show_banner_1": true,
@@ -483,20 +484,21 @@
             "banner_url_2": "",
             "show_banner_3": true,
             "banner_url_3": "",
-            "show_banner_4": true,
+            "show_banner_4": false,
             "banner_url_4": "",
-            "show_banner_5": true,
+            "show_banner_5": false,
             "banner_url_5": ""
           }
         },
         "336ea1eb-b379-40fb-9335-af6984e86c4a": {
           "type": "megamenu_style_4",
+          "disabled": true,
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1200,
             "item": "Categories",
-            "column": 5,
-            "menu_text_left": "",
+            "column": 2,
+            "menu_text_left": "bath",
             "menu_text_left_sale": "",
             "show_banner_1": false,
             "banner_url_1": "",
@@ -512,6 +514,7 @@
         },
         "f5efa6dd-aecb-406c-95e7-9e0e2db70e22": {
           "type": "megamenu_style_5",
+          "disabled": true,
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1200,
@@ -541,7 +544,7 @@
         "f5efa6dd-aecb-406c-95e7-9e0e2db70e22"
       ],
       "settings": {
-        "container": "1170",
+        "container": "1470",
         "padding_full_width": 0,
         "header_navigation_bg": "#ffffff",
         "header_navigation_bg_gradient": "",
