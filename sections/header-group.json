@@ -437,12 +437,108 @@
             "cart_count_bubble_bg": "#ddbdb0",
             "cart_count_bubble_bg_gradient": ""
           }
+        },
+        "68a60bcb-ed2c-4822-9f42-0e97616d86a2": {
+          "type": "megamenu_style_1",
+          "disabled": true,
+          "settings": {
+            "layout_block": "custom_width",
+            "header_custom_width_size": 1200,
+            "item": "Categories",
+            "column": 2,
+            "show_banner_1": true,
+            "banner_url_1": "",
+            "show_product": false,
+            "product_title": "Featured Products",
+            "product_collection": ""
+          }
+        },
+        "220183ff-ca2d-436c-8c64-49874659a1a4": {
+          "type": "megamenu_style_2",
+          "disabled": true,
+          "settings": {
+            "layout_block": "custom_width",
+            "header_custom_width_size": 1200,
+            "item": "Categories",
+            "column": 5,
+            "show_banner_1": true,
+            "banner_url_1": "",
+            "show_banner_2": true,
+            "banner_url_2": "",
+            "show_banner_3": true,
+            "banner_url_3": ""
+          }
+        },
+        "efa5bd3e-8a85-4cbf-9722-69dd87d19580": {
+          "type": "megamenu_style_3",
+          "settings": {
+            "layout_block": "custom_width",
+            "header_custom_width_size": 1200,
+            "mega_tyle": "style2",
+            "item": "Categories",
+            "column": 5,
+            "show_banner_1": true,
+            "banner_url_1": "",
+            "show_banner_2": true,
+            "banner_url_2": "",
+            "show_banner_3": true,
+            "banner_url_3": "",
+            "show_banner_4": true,
+            "banner_url_4": "",
+            "show_banner_5": true,
+            "banner_url_5": ""
+          }
+        },
+        "336ea1eb-b379-40fb-9335-af6984e86c4a": {
+          "type": "megamenu_style_4",
+          "settings": {
+            "layout_block": "custom_width",
+            "header_custom_width_size": 1200,
+            "item": "Categories",
+            "column": 5,
+            "menu_text_left": "",
+            "menu_text_left_sale": "",
+            "show_banner_1": false,
+            "banner_url_1": "",
+            "show_banner_2": false,
+            "banner_url_2": "",
+            "show_az_brand": true,
+            "az_brand_title": "All Brands A-Z",
+            "az_brand_link_text": "See All Brands",
+            "az_brand_url": "",
+            "bg_mega_menu_bottom": "#f8f8f8",
+            "az_brand_link_text_color": "#000"
+          }
+        },
+        "f5efa6dd-aecb-406c-95e7-9e0e2db70e22": {
+          "type": "megamenu_style_5",
+          "settings": {
+            "layout_block": "custom_width",
+            "header_custom_width_size": 1200,
+            "mega_tyle": "style1",
+            "item": "Categories",
+            "column": 3,
+            "menu_text_left": "",
+            "menu_text_left_sale": "",
+            "show_banner_1": false,
+            "banner_url_1": "",
+            "product_limit": 4,
+            "show_product": false,
+            "product_title": "Featured Products",
+            "product_collection": "",
+            "bg_mega_menu_bottom": "#f8f8f8"
+          }
         }
       },
       "block_order": [
         "sections--16129471676570__820c2330-f4a5-4018-9d3a-7aaafd315a2f-main_menu-1",
         "sections--16129471676570__820c2330-f4a5-4018-9d3a-7aaafd315a2f-logo-1",
-        "sections--16129471676570__820c2330-f4a5-4018-9d3a-7aaafd315a2f-header_icons-1"
+        "sections--16129471676570__820c2330-f4a5-4018-9d3a-7aaafd315a2f-header_icons-1",
+        "68a60bcb-ed2c-4822-9f42-0e97616d86a2",
+        "220183ff-ca2d-436c-8c64-49874659a1a4",
+        "efa5bd3e-8a85-4cbf-9722-69dd87d19580",
+        "336ea1eb-b379-40fb-9335-af6984e86c4a",
+        "f5efa6dd-aecb-406c-95e7-9e0e2db70e22"
       ],
       "settings": {
         "container": "1170",
