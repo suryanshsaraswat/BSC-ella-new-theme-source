@@ -38,14 +38,13 @@
     },
     "820c2330-f4a5-4018-9d3a-7aaafd315a2f": {
       "type": "header-navigation-basic",
-      "disabled": true,
       "blocks": {
         "sections--16129471676570__820c2330-f4a5-4018-9d3a-7aaafd315a2f-main_menu-1": {
           "type": "main_menu",
           "settings": {
             "menu": "",
-            "menu_top_spacing": 17,
-            "menu_bottom_spacing": 17,
+            "menu_top_spacing": 12,
+            "menu_bottom_spacing": 12,
             "grid_gap_menu_item": 12,
             "alignment": "left",
             "bg_mega_menu": "#ffffff",
@@ -86,8 +85,8 @@
           "type": "logo",
           "settings": {
             "logo_position": "always",
-            "logo": "shopify:\/\/shop_images\/Logo-02.png",
-            "logo_width": 125,
+            "logo": "shopify:\/\/shop_images\/BSC_Logo___for_site_2.gif",
+            "logo_width": 75,
             "logo_width_fixed": 100,
             "logo_text": "",
             "logo_font_size": 20,
@@ -235,20 +234,6 @@
     "9c03747e-b054-4db8-8194-5a35c71f82ca": {
       "type": "header-navigation-plain",
       "blocks": {
-        "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-0": {
-          "type": "logo",
-          "settings": {
-            "logo_position": "always",
-            "logo": "shopify:\/\/shop_images\/Logo-02.png",
-            "logo_width": 145,
-            "logo_width_fixed": 100,
-            "logo_text": "",
-            "logo_font_size": 20,
-            "logo_font_weight": "900",
-            "logo_text_transform": "uppercase",
-            "logo_color": "#ffffff"
-          }
-        },
         "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-1": {
           "type": "main_menu",
           "settings": {
@@ -291,8 +276,24 @@
             "hot_label_bg_gradient": ""
           }
         },
+        "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-0": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "logo_position": "always",
+            "logo": "shopify:\/\/shop_images\/BSC_Logo___for_site_2.gif",
+            "logo_width": 70,
+            "logo_width_fixed": 100,
+            "logo_text": "",
+            "logo_font_size": 20,
+            "logo_font_weight": "900",
+            "logo_text_transform": "uppercase",
+            "logo_color": "#ffffff"
+          }
+        },
         "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-2": {
           "type": "header_icons",
+          "disabled": true,
           "settings": {
             "show_language_currency": false,
             "show_search": true,
@@ -469,8 +470,8 @@
         }
       },
       "block_order": [
-        "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-0",
         "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-1",
+        "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-0",
         "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-2",
         "7b7edcea-7483-4880-8cb0-e9d230d1ab14",
         "93ec1985-1578-4a5a-9971-af43eb67b77f",
@@ -511,8 +512,8 @@
         "550fbd21-75fb-4051-9dee-77d91b5239f0": {
           "type": "logo",
           "settings": {
-            "logo_mobile": "shopify:\/\/shop_images\/Logo-02.png",
-            "logo_width_mobile": 105,
+            "logo_mobile": "shopify:\/\/shop_images\/BSC_Logo___for_site_2.gif",
+            "logo_width_mobile": 70,
             "logo_text": "",
             "logo_font_size": 20,
             "logo_font_weight": "900",
