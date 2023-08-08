@@ -4,10 +4,10 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
-      "disabled": true,
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "<div class=\"message\">\n  MID-SEASON SALE UP TO 70% OFF. <a href=\"\/collections\/all\" alt=\"Shop Now\">SHOP NOW<\/a>\n<\/div>",
             "btn_color": "#cc0e14",
@@ -15,17 +15,40 @@
             "btn_bg_color": "#727272",
             "btn_bg_color_gradient": "linear-gradient(46deg, rgba(52, 133, 236, 1) 13%, rgba(170, 248, 219, 1) 86%)"
           }
+        },
+        "a68003ee-9e15-4323-8ccc-6de0886a31bb": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Welcome to our store<\/p>",
+            "btn_color": "#f84248",
+            "btn_border_color": "#ffffff",
+            "btn_bg_color": "#ffffff",
+            "btn_bg_color_gradient": ""
+          }
+        },
+        "15a9c05c-441b-4bb1-8b38-371858e8e9dd": {
+          "type": "countdown",
+          "settings": {
+            "top_message_text": "Limited-time Offer!",
+            "annou_countdown": "Dec 31, 2023",
+            "color_countdown_text": "#06142e",
+            "border_color_countdown": "#f7f8fa",
+            "bg_color_countdown": "#f7f8fa"
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "a68003ee-9e15-4323-8ccc-6de0886a31bb",
+        "15a9c05c-441b-4bb1-8b38-371858e8e9dd"
       ],
       "settings": {
         "enable_announcement": true,
-        "layout": "scroll",
+        "layout": "slider",
         "enable_close": false,
-        "color_text": "#b05d5d",
-        "bg_color_text": "#ffe8e8",
+        "color_text": "#d7e93c",
+        "bg_color_text": "#007684",
         "bg_color_text_gradient": "",
         "font_size_text": 12,
         "font_style_text": "normal",
