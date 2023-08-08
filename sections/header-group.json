@@ -7,7 +7,6 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "<div class=\"message\">\n  MID-SEASON SALE UP TO 70% OFF. <a href=\"\/collections\/all\" alt=\"Shop Now\">SHOP NOW<\/a>\n<\/div>",
             "btn_color": "#cc0e14",
@@ -18,7 +17,6 @@
         },
         "a68003ee-9e15-4323-8ccc-6de0886a31bb": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "<p>Welcome to our store<\/p>",
             "btn_color": "#f84248",
@@ -29,6 +27,7 @@
         },
         "15a9c05c-441b-4bb1-8b38-371858e8e9dd": {
           "type": "countdown",
+          "disabled": true,
           "settings": {
             "top_message_text": "Limited-time Offer!",
             "annou_countdown": "Aug 10, 2023 15:00:00",
@@ -53,10 +52,10 @@
         "font_size_text": 12,
         "font_style_text": "normal",
         "font_weight_text": "500",
-        "arrow_active": false,
+        "arrow_active": true,
         "content_max_width": 38,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 4,
+        "padding_bottom": 4
       }
     },
     "820c2330-f4a5-4018-9d3a-7aaafd315a2f": {
