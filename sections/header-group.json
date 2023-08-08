@@ -31,7 +31,7 @@
           "type": "countdown",
           "settings": {
             "top_message_text": "Limited-time Offer!",
-            "annou_countdown": "Dec 31, 2023",
+            "annou_countdown": "Aug 10, 2023 15:00:00",
             "color_countdown_text": "#06142e",
             "border_color_countdown": "#f7f8fa",
             "bg_color_countdown": "#f7f8fa"
