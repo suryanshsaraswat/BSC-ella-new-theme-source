@@ -84,6 +84,7 @@
         },
         "41adb6e5-e71d-422b-a1e1-d2034c83869c": {
           "type": "footer_bottom",
+          "disabled": true,
           "settings": {
             "pdtop_footer_bottom": 20,
             "pdbottom_footer_bottom": 40,
