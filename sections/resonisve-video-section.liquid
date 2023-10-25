@@ -1,3 +1,38 @@
+<div class="container">
+    <div class="heading-section">
+        {% if section.settings.video-heading != blank %}
+            <h2>{{ section.settings.video-heading }}</h2>
+        {% endif %}
+        {% if section.settings.desc-html != blank %}
+            <p>{{ section.settings.desc-html }}</p>
+        {% endif %}
+    </div>
+    <div class="video-section">
+        {% if block.settings.mobile-video-url != blank %}
+            <style>
+                .desktop-video{display:block}
+                .mobile-video{display: none;}
+                @media(max-width:450px){.mobile-video{display: block;}.desktop-video{display:none}}
+            </style>
+        <div class="desktop-video">
+            <video width="100%" autoplay playsinline muted>
+                <source src="{{ block.settings.desktop-video-url }}" type="video/mp4">
+            </video>
+        </div>
+        <div class="mobile-video">
+            <video width="100%" autoplay playsinline muted>
+                <source src="{{ block.settings.mobile-video-url }}" type="video/mp4">
+            </video>
+        </div>
+        {%  else %}
+        <style>.desktop-video{display:block}</style>
+        <div class="desktop-video">
+            <video width="100%" autoplay playsinline muted>
+                <source src="{{ block.settings.desktop-video-url }}" type="video/mp4">
+            </video>
+        </div>
+    </div>
+</div>
 {%  schema  %} 
 {
     "name":"Responsive Video Section",
