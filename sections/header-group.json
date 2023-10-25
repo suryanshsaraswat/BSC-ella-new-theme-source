@@ -18,29 +18,17 @@
         "a68003ee-9e15-4323-8ccc-6de0886a31bb": {
           "type": "announcement",
           "settings": {
-            "text": "<p>Welcome to our store<\/p>",
+            "text": "",
             "btn_color": "#f84248",
             "btn_border_color": "#ffffff",
             "btn_bg_color": "#ffffff",
             "btn_bg_color_gradient": ""
           }
-        },
-        "15a9c05c-441b-4bb1-8b38-371858e8e9dd": {
-          "type": "countdown",
-          "disabled": true,
-          "settings": {
-            "top_message_text": "Limited-time Offer!",
-            "annou_countdown": "Aug 10, 2023 15:00:00",
-            "color_countdown_text": "#06142e",
-            "border_color_countdown": "#d7e93c",
-            "bg_color_countdown": "#007684"
-          }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "a68003ee-9e15-4323-8ccc-6de0886a31bb",
-        "15a9c05c-441b-4bb1-8b38-371858e8e9dd"
+        "a68003ee-9e15-4323-8ccc-6de0886a31bb"
       ],
       "settings": {
         "enable_announcement": true,
@@ -107,7 +95,7 @@
           "type": "logo",
           "settings": {
             "logo_position": "always",
-            "logo": "shopify:\/\/shop_images\/BSC_Logo___for_site_2.gif",
+            "logo": "shopify:\/\/shop_images\/Website_StaticLogo_1_136d6bb3-0de2-43dd-9daa-8903647e8328.png",
             "logo_width": 75,
             "logo_width_fixed": 100,
             "logo_text": "",
@@ -534,7 +522,7 @@
         "550fbd21-75fb-4051-9dee-77d91b5239f0": {
           "type": "logo",
           "settings": {
-            "logo_mobile": "shopify:\/\/shop_images\/BSC_Logo___for_site_2.gif",
+            "logo_mobile": "shopify:\/\/shop_images\/Website_StaticLogo_1_136d6bb3-0de2-43dd-9daa-8903647e8328.png",
             "logo_width_mobile": 70,
             "logo_text": "",
             "logo_font_size": 20,
