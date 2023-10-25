@@ -2,11 +2,46 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "9b588bf2-1ca8-4965-aa20-be83a9d35db4": {
+      "type": "video-block",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "container": "fullwidth",
+        "mg_top_desktop": 0,
+        "mg_top_tablet": 0,
+        "mg_top_mobile": 0,
+        "mg_bottom_desktop": 0,
+        "mg_bottom_tablet": 0,
+        "mg_bottom_mobile": 0,
+        "spotlight_bg": "#fff",
+        "spotlight_bg_gradient": "",
+        "video_block_title": "",
+        "color_title": "#232323",
+        "fontsize_title": 10,
+        "fontsize_title_mb": 10,
+        "margin_bottom_title": 0,
+        "video_block_des": "",
+        "color_des": "#3c3c3c",
+        "fontsize_des": 10,
+        "title_align": "center",
+        "autoplay": true,
+        "video_height": "54",
+        "style_video": "mp4",
+        "video_url": "",
+        "url_mp4": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/08314cf350fc48b6b315a009d20d22cc.mp4",
+        "description": "About us video",
+        "full_width": true
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "9b588bf2-1ca8-4965-aa20-be83a9d35db4"
   ]
 }
