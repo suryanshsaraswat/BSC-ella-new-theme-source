@@ -8,7 +8,6 @@
         {% endif %}
     </div>
     <div class="video-section">
-        {% for block in section.blocks %}
         {% if block.settings.mobile-video-url != blank %}
             <style>
                 .desktop-video{display:block}
@@ -33,9 +32,8 @@
             </video>
         </div>
     </div>
-{% endfor %}
 </div>
-{%  schema  %} 
+{%  schema  %}
 {
     "name":"Responsive Video Section",
     "settings": [
