@@ -1,0 +1,41 @@
+{%  schema  %} 
+{
+    "name":"Responsive Video Section",
+    "settings": [
+        {
+            "type": "text",
+            "id":"video-heading",
+            "label": "Enter Video heading"
+        },
+        {
+            "type": "html",
+            "id":"desc-html",
+            "label": "Enter section Description"
+        }
+    ],
+    "blocks": [
+        {
+            "name": "Video Block",
+            "type": "video",
+            "settings": [
+                {
+                    "type":"url",
+                    "id":"desktop-video-url",
+                    "label":"Enter desktop video URL"
+                },
+                {
+                    "type": "url",
+                    "id": "mobile-video-url",
+                    "label": "Enter Mobile Video URL"
+                }
+            ]
+        }
+    ],
+    "presets": [
+        {
+            "name":"Responsive Video Section",
+            "category":"video"
+        }
+    ]
+}
+ {% endschema %}
