@@ -6,8 +6,28 @@
       "settings": {
       }
     },
+    "3bc14444-c09c-43e1-b698-3b47a4ecc724": {
+      "type": "resonisve-video-section",
+      "blocks": {
+        "643fbf53-d74b-487d-b552-663d96d51159": {
+          "type": "video",
+          "settings": {
+            "desktop-video-url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/08314cf350fc48b6b315a009d20d22cc.mp4",
+            "mobile-video-url": ""
+          }
+        }
+      },
+      "block_order": [
+        "643fbf53-d74b-487d-b552-663d96d51159"
+      ],
+      "settings": {
+        "video-heading": "",
+        "desc-html": ""
+      }
+    },
     "9b588bf2-1ca8-4965-aa20-be83a9d35db4": {
       "type": "video-block",
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -42,6 +62,7 @@
   },
   "order": [
     "main",
+    "3bc14444-c09c-43e1-b698-3b47a4ecc724",
     "9b588bf2-1ca8-4965-aa20-be83a9d35db4"
   ]
 }
