@@ -1,0 +1,258 @@
+<style>
+  .PageContainer{background-color:#f6f6f6}
+  div#est-del-status {
+    padding: 0 18px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #fff;
+}
+  span.del-date {
+    font-weight: 900;
+}
+.ordder-container{max-width:100%;background-color:#F6F6F6}
+.order-tracking-details{max-width:100%;width:800px;margin:30px auto;background-color:#fff;padding-bottom:21px;border-radius:10px;box-shadow:1px 1px 1px 1px #e1e1e1}
+.details-main{max-width:100%;position:relative;display:block;padding-left:15px}
+.details-heading{padding-top:18px}
+.details-heading h1{font-size:25px;font-weight:700;text-align:left;padding-bottom:10px}
+.order-tracking-options{display:flex;align-items:center;max-width:100%;width:500px;flex-direction:row;text-align:left;justify-content:left;font-weight:500;padding-bottom:10px}
+.order-tracking-options input{cursor:pointer}
+p.search{margin:0;text-align:left;padding-right:13px}
+label[for = orderNumberRadio]{padding-right:15px;padding-left:6px}
+label[for = awbNumberRadio]{padding-left:6px}
+.tracker-input-box{max-width:100%;width:500px;text-align:left;padding-bottom:20px}
+.input-box-tracking{width:300px;max-width:100%;padding:10px;background:#F9F9F9;border-radius:5px;border:1px solid #D4D4D4;color:#000}
+.trancker-button{max-width:100%;width:250px;background:#FFC629;text-align:center;padding:5px;font-weight:700;font-size:17px;border-radius:5px}
+div#order-track{max-width:100%;width:1300px;margin:0 auto}
+/*Second Section CSS */
+.deli-flex{display:flex;max-width:100%;justify-content:space-between;width:1000px;margin:30px auto 0}
+.deets{width:40%;background-color:#633edf;border-radius:25px;box-shadow:4px 1px 7px 1px #d4d4d4}
+.dte{padding:32px 20px; line-height:30px; }
+.dte h3{font-size:30px;font-weight:700;color:#fff}
+.dte h2{font-size:33px;font-weight:700;color:#fff;margin-bottom:0}
+.dte p{color:#fff;font-size:20px}
+.status{padding:20px;line-height:11px;color:#fff;font-weight:700}
+.map-details iframe{max-width:100%;width:340px;height:300px;border-radius:20px;box-shadow:2px 2px 5px 0 #d4d4d4}
+.delhivery{width:55%;background:#fff;padding:10px;border-radius:20px}
+.delhi-flex{display:block;}
+.map-details{width:45%}
+.tracking-details{width:100%}
+.header-deets{display:flex;max-width:100%;width:100%;align-items:center}
+.header-logoo{width:30%}
+.header-logoo img{border-radius:30px}
+.header-textt{width:32%;font-weight:800;margin-right:15px}
+.heading-otp h2{font-size:30px; font-weight:600;margin-bottom:0}
+.heading-otp p {
+    font-size: 12px;
+    margin-bottom: 38px;
+    font-weight: 500;
+}
+#order-summary tbody tr td {
+    font-weight: 500;
+    font-size: 18px;
+    padding: 0 7px;
+    width:50%;
+}
+span.id{color:blue;font-weight:500}
+.order-details{max-width:100%;width:1300px;margin:25px auto}
+.inner-details{max-width:100%;width:1000px;margin:0 auto;background-color:#FAFAFA;padding:20px;border-radius:20px;border:1px solid #c1c1c1}
+h2.order-heading{position:relative;margin-bottom:20px}
+h2.order-heading::after{content:"";position:absolute;width:229px;height:1px;background-color:#A7A7A7;bottom:-9px;left:0}
+tbody.order-table td{padding-right:45px;display:table-cell;padding-bottom:21px;font-size:17px;font-weight:800}
+.heading-otp {
+    max-width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: -10px;
+}
+@media(max-width:450px) {
+.order-tracking-details{width:350px;text-align:center}
+.order-tracking-options{justify-content:center}
+.input-box-tracking{width:310px}
+.trancker-button{margin-left:30px}
+.delivery-deets {margin-top: 88px;}
+/*2nd page css */
+.deli-flex {
+    flex-direction: column;
+}
+.deets {
+    width: 96%;
+    margin: 0 auto;
+    margin-bottom:-17px;
+    z-index:0
+}
+.delhi-flex {
+    flex-direction: column;
+}
+.map-details {
+    width: 100%;
+    margin: 0 auto;
+}
+.map-details iframe {
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+}
+.tracking-details {
+    width: 100%;
+    margin-top: 20px;
+}
+.order-details {
+    width: 95%;
+}
+  .dte h2{font-size:30px}
+tbody.order-table td {
+    padding-right: 11px;
+    padding-bottom: 13px;
+    width: 50%;
+}
+h2.order-heading {
+    position: relative;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: 400;
+}
+.delhivery{width: 96%; margin:0 auto; border-radius:0px 0px 20px 20px}
+.header-deets {
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
+}
+}
+.show{display:block!important}
+.remove{display:none!important}
+/* SPinner CSS */
+#loader {
+  border: 4px solid #f3f3f3;
+  border-top: 4px solid #3498db;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  animation: spin 2s linear infinite;
+  margin: 15px auto;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+</style>
+{% assign block = {{ page.id }} %}
+<div class="ordder-container">
+  <div class="number-step" style="display: block;">
+    <div class="order-tracking-details">
+      <div class="details-main">
+        <div class="details-heading">
+          <h1>Track your Shipment here</h1>
+        </div>
+        <div class="order-tracking-options">
+          <p class="search">Search by</p>
+          <input
+            type="radio"
+            id="orderNumberRadio"
+            name="trackingType"
+            value="Order Number"
+            checked>
+          <label for="orderNumberRadio">Order Number</label>
+          <input
+            type="radio"
+            id="awbNumberRadio"
+            name="trackingType"
+            value="AWB Number">
+          <label for="awbNumberRadio">AWB Number</label>
+        </div>
+        <div id="tracker-input" class="tracker-input-box">
+          <!-- <label for="trackingInput" id="tracker-input-label">Enter Order Number:</label> -->
+          <br>
+          <input
+            class="input-box-tracking"
+            type="text"
+            pattern="^BSC\d{9}$"
+            id="trackingInput"
+            placeholder="Enter Order Number">
+            <span class="error-message" id="trackingError" style="color: red;"></span>
+        </div>
+        <div class="trancker-button">
+          <button onclick="" class="tracker-button" id="tracking-id">Submit</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="loader" style="display: none;">
+</div>
+  <div class="data-section" id="order-track" style="display:none">
+    <div class="col-12">
+      <div class="heading-otp">
+        
+      </div>
+      <div class="otp-timeline">
+      {% render 'order-timeline' %}
+      </div>
+      <div class="delivery-deets">
+        <div class="deli-flex">
+          <div class="deets">
+            <div class="dte" id="delivery-date">
+              {% comment %} <h3>Delivered on</h3>
+              <h2></h2>
+              <p></p> {% endcomment %}
+            </div>
+            <div class="status" id="delivery_status"></div>
+            <div class="estdelstatus" id="est-del-status"></div>
+          </div>
+          <div class="delhivery">
+            <div class="delhi-flex">
+              <div class="tracking-details">
+                <div class="header-deets">
+                  <div class="header-logoo" id="delivery-partner-logo">
+                  </div>
+                  <div class="header-textt" id="delivery_partner">
+                   
+                  </div>
+                  <div class="tracking-id" id="tracking">
+                  </div>
+                </div>
+                <div class="order-details">
+                  <div class="inner-details">
+                    <h2 class="order-heading">Order Summary</h2>
+                    <div class="order-table">
+                      <table id="order-summary"></table>
+                      </div>
+                      </div>
+                      </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="order-details">
+        <div class="inner-details">
+          <h2 class="order-heading">Order Summary</h2>
+          <div class="order-table">
+            <table id="order-summary">
+            </table>
+          </div>
+        </div>
+      </div>
+      <div class="product-group">{% section 'featured-collections' %}</div>
+    </div>
+  </div>
+</div>
+<script>
+  function changeLabelAndPlaceholder() {
+    var selectedOption = document.querySelector('input[name="trackingType"]:checked').value;
+    var label = (selectedOption === "Order Number")
+      ? "Enter Order Number:"
+      : "Enter AWB Number:";
+    var placeholder = (selectedOption === "Order Number")
+      ? "Enter Order Number"
+      : "Enter AWB Number";
+    document.querySelector('label[for="trackingInput"]').textContent = label;
+    document.querySelector('#trackingInput').setAttribute('placeholder', placeholder);
+  }
+
+// Event listener to detect changes in the selected radio button
+  var radioButtons = document.querySelectorAll('input[name="trackingType"]');
+  radioButtons.forEach(function(radioButton) {
+    radioButton.addEventListener("change", changeLabelAndPlaceholder);
+  });
+</script>
+<script defer src="{{ 'order-tracking-page.js' | asset_url }}"></script>
