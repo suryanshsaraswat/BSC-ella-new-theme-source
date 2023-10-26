@@ -90,9 +90,9 @@
           {%- endif -%}
         </div>
         <div class="btncart">
-          {% form 'product', razr_prod, class: 'form', novalidate: 'novalidate', data-type: 'add-to-cart-form' %}
-            <input type="hidden" name="id" value="{{ razr_var.id }}">
-            {%- if razr_var.available -%}
+          {% form 'product', product, class: 'form', novalidate: 'novalidate', data-type: 'add-to-cart-form' %}
+            <input type="hidden" name="id" value="{{ current_variant.id }}">
+            {%- if product.available -%}
             <button type="submit" name="add" data-btn-addToCart class="product-form__submit button button--primary{% if first_inventory == 0 %} button-text-change{% endif %}" id="product-sticky-add-to-cart">ADD TO CART</button>
             {%- else -%}
             <button type="submit" name="add" data-btn-addToCart class="product-form__submit button button--primary" id="product-sticky-add-to-cart">
