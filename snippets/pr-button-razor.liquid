@@ -99,24 +99,6 @@
                                 {%- endif -%}
                             </div>
                         </div>
-                        {%- if settings.show_wishlist -%}
-                            <div class="productView-wishlist clearfix">
-                                <a data-wishlist href="#" data-wishlist-handle="{{ product.handle }}" data-product-id="{{ product.id }}">
-                                    <span class="visually-hidden">
-                                        {{ 'wishlist.general.add' | t }}
-                                    </span>
-                                    {% render 'icon-heart' %}
-                                </a>
-                            </div>
-                        {%- endif -%}
-                        {%- if check_show_share == '2' -%}
-                            {% render 'halo-share',
-                                product: product,
-                                share_product_type: share_product_type,
-                                share_product_script: share_product_script,
-                                share_layout: check_show_share
-                            %}
-                        {%- endif -%}
                     </div>
                 </div>
                 {%- if show_dynamic_checkout -%}
@@ -155,12 +137,4 @@
             </div>
         {%- endform -%}
     </product-form>
-    {%- if settings.show_notify_form -%}
-        <div class="productView-notifyMe halo-notifyMe" {% if product.variants.size > 1 %}style="display: none;"{% else %}{% if product.available %}style="display: none;"{% endif %}{% endif %}>
-            {% render 'halo-notify-sold-out',
-                id: product.id,
-                current_variant: current_variant
-            %}
-        </div>
-    {%- endif -%}
 </div>
