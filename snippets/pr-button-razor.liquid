@@ -75,15 +75,6 @@
                             <input type="hidden" name="id" value="{{ current_variant.id }}">
                             <div class="product-form__buttons">
                                 {%- if current_variant.available -%}
-                                    {%- if current_variant.inventory_management -%}
-                                        {%- assign first_inventory = current_variant.inventory_quantity -%}
-                                        {%- liquid
-                                           if current_variant.available and first_inventory == 0
-                                             assign allowOutStockSale = true 
-                                           else
-                                             assign allowOutStockSale = false
-                                           endif
-                                        -%}
                                       
                                         <button
                                             type="submit"
@@ -94,22 +85,6 @@
                                             id="product-add-to-cart">
                                             ADD TO CART
                                         </button>
-                                    {%- else -%}
-                                        <button
-                                            type="submit"
-                                            name="add"
-                                            data-btn-addToCart
-                                            class="product-form__submit button button--secondary an-{{ atc_animation }}{% if show_subtotal_text %} button-text-change{% endif %}"
-                                            id="product-add-to-cart"
-                                        >
-                                            {%- if show_subtotal_text and subtotal_style == '2' -%}
-                                                {%- assign subtotal = subtotal | strip_html -%}
-                                                {{ 'products.product.sub_total' | t : value : subtotal }}
-                                            {%- else -%}
-                                                {{ 'products.product.add_to_cart' | t}}
-                                            {%- endif -%}
-                                        </button>
-                                    {%- endif -%}
                                 {%- else -%}
                                     <button
                                         type="submit"
@@ -119,7 +94,7 @@
                                         id="product-add-to-cart"
                                         disabled
                                     >
-                                        {{ 'products.product.sold_out' | t }}
+                                        SOLD OUT
                                     </button>
                                 {%- endif -%}
                             </div>
