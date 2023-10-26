@@ -2,11 +2,292 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "d8540cb1-3fb3-4c02-ac10-6a75357e82de": {
+      "type": "slide-show",
+      "blocks": {
+        "template--16248334450842__d8540cb1-3fb3-4c02-ac10-6a75357e82de-image-1": {
+          "type": "image",
+          "settings": {
+            "image_slide": "shopify:\/\/shop_images\/Desktop_1800x_a5630044-accf-4848-a75a-ce9ce541f941.webp",
+            "image_slide_mb": "shopify:\/\/shop_images\/Mobile_x800_92c877e7-1d44-4861-9bc3-3b5628548a1d.jpg",
+            "alignment": "left",
+            "enable_custom_position": false,
+            "custom_horizontal": "",
+            "custom_vertical": "",
+            "enable_position_outside_image": false,
+            "text_alignment": "center",
+            "enable_border_line": false,
+            "padding_vertical": 30,
+            "content_width": 475,
+            "bg_color_content": "",
+            "border_color_content": "",
+            "profile_name": "",
+            "profile_name_color": "",
+            "profile_name_fs": 20,
+            "profile_name_fs_mb": 20,
+            "profile_name_fw": "normal",
+            "profile_title": "",
+            "profile_title_color": "",
+            "profile_title_fs": 20,
+            "profile_title_fs_mb": 20,
+            "profile_title_fw": "normal",
+            "profile_spacing_bottom": 50,
+            "sub_heading": "",
+            "letter_spacing_sub_title": "",
+            "font_size_sub_heading": 30,
+            "sub_heading_spacing_bottom": 20,
+            "font_weight_sub_heading": "400",
+            "border_sub_heading": "none",
+            "sub_title_position": "sub_title_above",
+            "color_sub_heading": "#ffffff",
+            "heading": "",
+            "letter_spacing_heading": "",
+            "enable_border_heading": false,
+            "font_style_heading": "normal",
+            "font_size_heading": 40,
+            "line_height_heading": 40,
+            "heading_spacing_bottom": 8,
+            "color_heading": "#232323",
+            "slide-des": "",
+            "font_size_des": 12,
+            "des_spacing_bottom": 35,
+            "color_des": "#232323",
+            "sub_heading_mb": "",
+            "font_size_sub_heading_mb": 20,
+            "sub_heading_spacing_bottom_mb": 20,
+            "font_weight_sub_heading_mb": "400",
+            "border_sub_heading_mb": "none",
+            "color_sub_heading_mb": "#ffffff",
+            "heading_mb": "",
+            "font_style_heading_mb": "normal",
+            "font_size_heading_mb": 24,
+            "line_height_heading_mb": 24,
+            "heading_spacing_bottom_mb": 8,
+            "color_heading_mb": "#ffffff",
+            "slide-des-mb": "",
+            "font_size_des_mb": 12,
+            "des_spacing_bottom_mb": 35,
+            "color_des_mb": "#ffffff",
+            "enable_icon_button": false,
+            "enable_button_link": false,
+            "button_slide": "",
+            "link": "",
+            "button_style": "button_1",
+            "button_slide_2": "",
+            "link_2": "",
+            "min_width_banner_button": 270,
+            "color_button": "#ffffff",
+            "border_button": "#232323",
+            "bg_button": "#232323",
+            "bg_button_gradient": "",
+            "color_button_hover": "#ffffff",
+            "border_button_hover": "#232323",
+            "bg_button_hover": "#232323",
+            "bg_button_gradient_hover": "",
+            "lb_product_1": "",
+            "horizontal_pos_1": 0,
+            "vertical_pos_1": 0,
+            "lookbook_pos_1": "right",
+            "lb_product_2": "",
+            "horizontal_pos_2": 0,
+            "vertical_pos_2": 0,
+            "lookbook_pos_2": "right",
+            "lb_product_3": "",
+            "horizontal_pos_3": 0,
+            "vertical_pos_3": 0,
+            "lookbook_pos_3": "right"
+          }
+        }
+      },
+      "block_order": [
+        "template--16248334450842__d8540cb1-3fb3-4c02-ac10-6a75357e82de-image-1"
+      ],
+      "settings": {
+        "container": "fullwidth",
+        "padding_full_width": 0,
+        "mg_top_desktop": 0,
+        "mg_top_tablet": 0,
+        "mg_top_mobile": 0,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 0,
+        "mg_bottom_mobile": 0,
+        "slideshow_background": "",
+        "slideshow_background_gradient": "",
+        "autoplay": true,
+        "slideshow_speed": "5000",
+        "slideshow_transition": "true",
+        "dots": "shape",
+        "dots_color": "#707979",
+        "dots_border_color": "#707979",
+        "dots_active_color": "rgba(0,0,0,0)",
+        "dots_active_border_color": "#505656",
+        "dots_direction": "bottom",
+        "dots_shape": "disc",
+        "position_slick_dots": "34px",
+        "dots_opacity": false,
+        "arrow_active": true,
+        "enable_custom_arrow": false,
+        "arrow_width": 35,
+        "arrow_height": 35,
+        "arrow_size_icon": 17,
+        "arrow_color": "#666d6d",
+        "arrow_border_color": "#666d6d",
+        "arrow_bg_color": "#ffffff",
+        "arrow_color_hover": "",
+        "arrow_border_color_hover": "",
+        "arrow_bg_color_hover": "",
+        "position_slick_arrow": "10%",
+        "position_vertical_slick_arrow": "50%",
+        "video_height": "41.7%",
+        "auto_playvideo": true,
+        "enable_categories": false,
+        "text_categories": "Shop by categories",
+        "title_color": "#ffffff",
+        "bg_title": "#fd6506",
+        "text_icon_color": "#202020",
+        "menu_category": "",
+        "enable_banner": false,
+        "lookbook_style": "1",
+        "enable_lookbook_width": false,
+        "lookbook_width": 250,
+        "dot_desktop_size": 24,
+        "dot_mobile_size": 16,
+        "dot_shadow_color": "#ffffff",
+        "dot_outer_color": "#ffffff",
+        "show_dot_number": false,
+        "show_dot_number_mobile": false,
+        "show_plus_icon": false,
+        "dot_inner_color": "#000000",
+        "number_desktop_size": 24,
+        "number_mobile_size": 16,
+        "lookbook_truncate": "1"
+      }
+    },
+    "27290d80-e209-45fb-b5f4-e60f751ff07d": {
+      "type": "gifting-prod-block",
+      "blocks": {
+        "d06a011a-94c8-4c30-9344-0d77ffaf7609": {
+          "type": "Product",
+          "settings": {
+            "featured_product": "premium-shaving-kit-for-men",
+            "featured_image-1": "shopify:\/\/shop_images\/6PSS_81ae8c21-391d-481e-9fe1-8f4ad9f3f675.jpg",
+            "featured_image-2": "shopify:\/\/shop_images\/1_option_2_2c2e0961-848d-4b15-b995-cc897fada6e0.jpg",
+            "labelll": ""
+          }
+        },
+        "e970bd0a-5d37-4f6b-8414-650c9f6e7e4e": {
+          "type": "Product",
+          "settings": {
+            "featured_product": "precision-safety-razor-for-men",
+            "featured_image-1": "shopify:\/\/shop_images\/Artboard_21_1.jpg",
+            "featured_image-2": "shopify:\/\/shop_images\/Artboard_31_1.jpg",
+            "labelll": ""
+          }
+        },
+        "88f316e6-0431-499f-9166-c99061be71ee": {
+          "type": "Product",
+          "settings": {
+            "featured_product": "charcoal-face-care-kit",
+            "featured_image-1": "shopify:\/\/shop_images\/CFSK_Sheet_Mask_b35481cd-27b0-4380-a551-2e122c3bf083.jpg",
+            "featured_image-2": "shopify:\/\/shop_images\/Artboard_2_5b57c3e0-4e6c-466a-9f3c-88ac95142138.jpg",
+            "labelll": ""
+          }
+        },
+        "cf788479-cc4a-4dc9-9069-01a45d24b98a": {
+          "type": "Product",
+          "settings": {
+            "featured_product": "premium-fragrances-for-men",
+            "featured_image-1": "shopify:\/\/shop_images\/Premium_Fragrances_For_Men_1.jpg",
+            "featured_image-2": "shopify:\/\/shop_images\/3_b7170948-bc1e-45a9-b51f-f6e9c802fd73.jpg",
+            "labelll": ""
+          }
+        },
+        "70ba2949-9b1f-4b06-86d8-c4c19aea0ddf": {
+          "type": "Product",
+          "settings": {
+            "featured_product": "two-good-two-be-true-set-of-2",
+            "featured_image-1": "shopify:\/\/shop_images\/1_40cb0aa7-87d7-439c-a377-fee0651b4b77.jpg",
+            "featured_image-2": "shopify:\/\/shop_images\/6_422b249a-bf26-4ffa-bc2f-b3f10c69b47f.jpg",
+            "labelll": ""
+          }
+        },
+        "5c600dd7-ce0c-49bc-a80d-ce7f7c97053b": {
+          "type": "Product",
+          "settings": {
+            "featured_product": "wanderlust-perfume-collection-3-perfume-combo",
+            "featured_image-1": "shopify:\/\/shop_images\/Wander_lust_37a32035-ed00-4577-916c-71acf38c674a.jpg",
+            "featured_image-2": "shopify:\/\/shop_images\/card_2_f20e34dd-8c83-4754-aaab-19caa5b79365.jpg",
+            "labelll": ""
+          }
+        },
+        "f84aa1d6-e7c8-44c6-acd7-4845129e8b2a": {
+          "type": "Product",
+          "settings": {
+            "featured_product": "globetrotter-fragrance-gift-set-for-men",
+            "featured_image-1": "shopify:\/\/shop_images\/Globrtrtter_Kit_bd708ddf-d471-47a1-8668-3f99442b9125.jpg",
+            "featured_image-2": "shopify:\/\/shop_images\/2_7d37548f-06c6-4b9f-8a00-839e6a09fb6d.jpg",
+            "labelll": ""
+          }
+        },
+        "6e8d144f-382d-4b63-9623-69b61b51071f": {
+          "type": "Product",
+          "settings": {
+            "featured_product": "shave-and-travel-kit",
+            "featured_image-1": "shopify:\/\/shop_images\/Shave___Travelk_aa588ee2-d8e2-485f-a098-3d5cca4afd23.jpg",
+            "featured_image-2": "shopify:\/\/shop_images\/2_0b732dff-4632-45dc-94fc-fb12da4c94fe.jpg",
+            "labelll": ""
+          }
+        },
+        "9bc83133-5b03-4f93-8448-485d8acd7501": {
+          "type": "Product",
+          "settings": {
+            "featured_product": "coffee-face-care-kit",
+            "featured_image-1": "shopify:\/\/shop_images\/Artboard_0_b8d0b830-9f1e-45a0-8e7b-dbe22d14300e.jpg",
+            "featured_image-2": "shopify:\/\/shop_images\/Artboard_1_0b4d0883-ffb8-4199-9032-b56b096333d8.jpg",
+            "labelll": ""
+          }
+        },
+        "1a6e706f-2f28-4164-8015-50fc62fde0ec": {
+          "type": "Product",
+          "settings": {
+            "featured_product": "beard-care-kit",
+            "featured_image-1": "shopify:\/\/shop_images\/Artboard_1_a4c0cec7-c5b3-45d7-ad7a-6be491d4c05e.jpg",
+            "featured_image-2": "shopify:\/\/shop_images\/Artboard_2_1dbcbc43-4519-47c7-a531-0b2b05bb8fbe.jpg",
+            "labelll": ""
+          }
+        }
+      },
+      "block_order": [
+        "d06a011a-94c8-4c30-9344-0d77ffaf7609",
+        "e970bd0a-5d37-4f6b-8414-650c9f6e7e4e",
+        "88f316e6-0431-499f-9166-c99061be71ee",
+        "cf788479-cc4a-4dc9-9069-01a45d24b98a",
+        "70ba2949-9b1f-4b06-86d8-c4c19aea0ddf",
+        "5c600dd7-ce0c-49bc-a80d-ce7f7c97053b",
+        "f84aa1d6-e7c8-44c6-acd7-4845129e8b2a",
+        "6e8d144f-382d-4b63-9623-69b61b51071f",
+        "9bc83133-5b03-4f93-8448-485d8acd7501",
+        "1a6e706f-2f28-4164-8015-50fc62fde0ec"
+      ],
+      "settings": {
+        "headtext": ""
+      }
+    },
+    "2bdadc6a-1ea1-4cb5-91fa-5e7c04f0c6ff": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% render 'seo-content-category' %}"
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "d8540cb1-3fb3-4c02-ac10-6a75357e82de",
+    "27290d80-e209-45fb-b5f4-e60f751ff07d",
+    "2bdadc6a-1ea1-4cb5-91fa-5e7c04f0c6ff"
   ]
 }
