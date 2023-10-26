@@ -28,9 +28,6 @@
       endif
 -%}
 <div class="productView-buttons">
-    {%- if gift_card_recipient_feature_active -%}
-      {%- render 'gift-card-recipient-form', product: product, form: form, section: section -%}
-    {%- endif -%}
     
     {%- assign product_form_installment_id = 'product-form-installment-' | append: product.id -%}
     {%- form 'product', product, id: product_form_installment_id, class: 'installment caption-large' -%}
@@ -56,12 +53,6 @@
                                 assign check_hidden = true
                             endif
                         -%}
-                        {% render 'product-quantity',
-                            current_variant: current_variant,
-                            check_hidden: check_hidden,
-                            qty_style: qty_style,
-                            quantity_stt: 1
-                        %}
                     {%- endif -%}                    
                     <div class="productView-groupTop">
                         <div class="productView-action{% unless settings.show_wishlist %} productView-action-2{% endunless %}"
