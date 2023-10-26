@@ -27,6 +27,8 @@
         {%- if page_description -%}
             <meta name="description" content="{{ page_description | escape }}">
         {%- endif -%}
+    {% comment %}SLICK SLIDER CSS LINK{% endcomment %}
+        <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
         {% render 'meta-tags' %}
         {{ content_for_header }}
         {% render 'variable' %}

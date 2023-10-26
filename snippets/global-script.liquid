@@ -9,6 +9,8 @@
 {%- if settings.banner_animation == 'effect_1' -%}
     <script src="{{ 'banner-animation.js' | asset_url }}" defer="defer"></script>
 {%- endif -%}
+{% comment %}SLICK SLIDER JS LINK{% endcomment %}
+<script defer type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 
 {% liquid
     if settings.enable_currencies
