@@ -1129,6 +1129,47 @@
       },
       "razr-prod-block": {
         "type": "razr-prod-block",
+        "blocks": {
+          "45687431-9521-4a27-ac4e-946def16b9de": {
+            "type": "product",
+            "settings": {
+              "prod": "sensi-smart-3",
+              "razor_img": "shopify:\/\/shop_images\/SensiSmart_3_1.jpg",
+              "razr_html": "<h3>SENSITIVE LUBRICATING STRIP<\/h3>\n<h3>EXTRA CARE FOR SKIN<\/h3>\n<h3>SAY GOODBYE TO OVERPRICED RAZORS<\/h3>\n<h3>PIVOT HEAD FOR EASY MANOEUVEREING<\/h3>",
+              "top_color": ""
+            }
+          },
+          "67a3c2a1-609b-4653-b5e6-cd110cbdb005": {
+            "type": "product",
+            "settings": {
+              "prod": "",
+              "razr_html": "<p>Write your own custom HTML content.<\/p>",
+              "top_color": ""
+            }
+          },
+          "3d7df866-ffca-4d2f-8e14-9abce3ebc9ca": {
+            "type": "product",
+            "settings": {
+              "prod": "",
+              "razr_html": "<p>Write your own custom HTML content.<\/p>",
+              "top_color": ""
+            }
+          },
+          "e7f6db8d-d318-46c2-9187-201d45df9d61": {
+            "type": "product",
+            "settings": {
+              "prod": "",
+              "razr_html": "<p>Write your own custom HTML content.<\/p>",
+              "top_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "45687431-9521-4a27-ac4e-946def16b9de",
+          "67a3c2a1-609b-4653-b5e6-cd110cbdb005",
+          "3d7df866-ffca-4d2f-8e14-9abce3ebc9ca",
+          "e7f6db8d-d318-46c2-9187-201d45df9d61"
+        ],
         "settings": {
         }
       },
