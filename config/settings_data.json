@@ -1142,24 +1142,27 @@
           "67a3c2a1-609b-4653-b5e6-cd110cbdb005": {
             "type": "product",
             "settings": {
-              "prod": "",
-              "razr_html": "<p>Write your own custom HTML content.<\/p>",
+              "prod": "sensi-flo-4-razor",
+              "razor_img": "shopify:\/\/shop_images\/Flo4.jpg",
+              "razr_html": "<h3>4 MICRO-SPAN BLADES<\/h3>\n<h3>LUBRICATING STRIP WITH ALOE, MOROCCAN ARGAN OIL and VIT E<\/h3>\n<h3>BEARD STYLING BACK BLADE<\/h3>\n<h3>ERGONOMIC DESIGN<\/h3>\n<h3>FREE RAZOR SHARPENER<\/h3>",
               "top_color": ""
             }
           },
           "3d7df866-ffca-4d2f-8e14-9abce3ebc9ca": {
             "type": "product",
             "settings": {
-              "prod": "",
-              "razr_html": "<p>Write your own custom HTML content.<\/p>",
+              "prod": "sensi-flo-6-razor",
+              "razor_img": "shopify:\/\/shop_images\/Flo6.jpg",
+              "razr_html": "<h3>WORLD’S FIRST 6 BLADE SENSITIVE RAZOR<\/h3>\n<h3>TRIPLE ACTION LUBRICATING STRIP<\/h3>\n<h3>UNPARALLELED CLOSE SHAVES<\/h3>\n<h3>ERGONOMIC DESIGN WITH A TWIST<\/h3>\n<h3>BEARD STYLING BACK BLADE<\/h3>\n<h3>FREE RAZOR SHARPENER:<\/h3>",
               "top_color": ""
             }
           },
           "e7f6db8d-d318-46c2-9187-201d45df9d61": {
             "type": "product",
             "settings": {
-              "prod": "",
-              "razr_html": "<p>Write your own custom HTML content.<\/p>",
+              "prod": "razor-sharpener",
+              "razor_img": "shopify:\/\/shop_images\/Untitled_design_5.jpg",
+              "razr_html": "<h3>EXTEND YOUR RAZOR’S LIFE BY UPTO 30%<\/h3>\n<h3>V-SHAPED WEAVING<\/h3>\n<h3>SPUN-POLYESTER MATERIAL<\/h3>\n<h3>D-HOOK AT THE END<\/h3>",
               "top_color": ""
             }
           }
