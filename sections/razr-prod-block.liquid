@@ -95,7 +95,7 @@ p.price_slashed {
           </div>
         </div></a>
         <div class="btncart">
-            {% form 'product', product, id: product_form_sticky_id, class: 'form', novalidate: 'novalidate', data-type: 'add-to-cart-form' %}
+            {% form 'product', razr_prod, class: 'form', novalidate: 'novalidate', data-type: 'add-to-cart-form' %}
                             <input type="hidden" name="id" value="{{ razr_var.id }}">
                             {%- if razr_var.available -%}
                             <button type="submit" name="add" data-btn-addToCart class="product-form__submit button button--primary{% if first_inventory == 0 %} button-text-change{% endif %}" id="product-sticky-add-to-cart">ADD TO CART</button>
