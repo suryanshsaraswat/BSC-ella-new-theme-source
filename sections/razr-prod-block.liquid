@@ -94,9 +94,11 @@ p.price_slashed {
         </div></a>
         <div class="btncart">
           {%- if razr_var.available -%}
-            <button type="submit" name="add" data-btn-addToCart class="product-form__submit button button--primary" id="product-add-to-cart">ADD TO CART</button>
-            {%- else -%}
-            <button type="submit" name="add" data-btn-addToCart class="product-form__submit button" id="product-add-to-cart" disabled >{{ 'products.product.sold_out' | t }}</button>
+            {% render 'product-button',
+                                                    block: block,
+                                                    product: razr_prod,
+                                                    current_variant:razr_var ,
+                                                %}
           {%- endif -%}
               </div>
       </div>
