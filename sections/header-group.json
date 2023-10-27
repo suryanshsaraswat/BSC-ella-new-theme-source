@@ -244,12 +244,12 @@
         "f5efa6dd-aecb-406c-95e7-9e0e2db70e22"
       ],
       "settings": {
-        "container": "1470",
+        "container": "full",
         "padding_full_width": 0,
         "header_navigation_bg": "#ffffff",
         "header_navigation_bg_gradient": "",
-        "sticky_header_type": "none",
-        "sticky_header_width": "default"
+        "sticky_header_type": "always",
+        "sticky_header_width": "full"
       }
     },
     "9c03747e-b054-4db8-8194-5a35c71f82ca": {
