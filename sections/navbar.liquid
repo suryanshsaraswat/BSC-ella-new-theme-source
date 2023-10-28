@@ -1,5 +1,9 @@
 <style>
-  .homebar {
+    .homebar {
+    display: none;
+}
+  @media(max-width:450px){
+    .homebar {
     text-align: center;
     background: #fff
   }
@@ -33,6 +37,7 @@
   }
   .homebar ul li a {
     padding: 0
+  }
   }
 </style>
 {%- unless template=="product" -%}
