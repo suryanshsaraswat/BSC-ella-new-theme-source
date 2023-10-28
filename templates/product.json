@@ -154,6 +154,12 @@
             "product_tab_key_metafield": ""
           }
         },
+        "02a1b9b5-e603-451a-9b42-04bda0122f06": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% render 'how-to-use'%}"
+          }
+        },
         "b9d6eb19-10f4-41f8-bfdc-ea10e8b3182a": {
           "type": "custom",
           "settings": {
@@ -185,10 +191,13 @@
             "spacing_bottom": 0
           }
         },
-        "02a1b9b5-e603-451a-9b42-04bda0122f06": {
-          "type": "custom_liquid",
+        "b5652ccb-191f-48d6-a847-d01d2f3960d0": {
+          "type": "description",
           "settings": {
-            "custom_liquid": "{% render 'how-to-use'%}"
+            "open_tab_mobile": true,
+            "title": "",
+            "enable_btn_show_more": false,
+            "maximum_des_to_show": 300
           }
         }
       },
@@ -205,10 +214,11 @@
         "bd3a641e-98d0-4da1-ab57-d5e4b0391995",
         "d98e243b-3682-495a-965a-1c7f7d460880",
         "3d9ea84d-5527-4bce-abe6-5debef3ec955",
+        "02a1b9b5-e603-451a-9b42-04bda0122f06",
         "b9d6eb19-10f4-41f8-bfdc-ea10e8b3182a",
         "faebbc78-6094-4bc0-a917-80dbfbf5ef3c",
         "19ab1d9f-74b2-4c76-bf2e-1bc749e5c2a3",
-        "02a1b9b5-e603-451a-9b42-04bda0122f06"
+        "b5652ccb-191f-48d6-a847-d01d2f3960d0"
       ],
       "settings": {
         "container": "container",
