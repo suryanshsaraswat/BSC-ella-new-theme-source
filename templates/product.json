@@ -70,7 +70,7 @@
           "type": "quantity_selector",
           "settings": {
             "qty_style": "1",
-            "qty_layout": "1",
+            "qty_layout": "2",
             "spacing_top": 0,
             "spacing_bottom": 15
           }
@@ -536,10 +536,9 @@
     },
     "1690346721ff9f874c": {
       "type": "apps",
-      "disabled": true,
       "blocks": {
         "1ac23d15-d5c0-47f4-8241-c59c97957484": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "disabled": true,
           "settings": {
           }
@@ -548,6 +547,7 @@
       "block_order": [
         "1ac23d15-d5c0-47f4-8241-c59c97957484"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": false
       }
