@@ -1211,6 +1211,105 @@
         "settings": {
           "cms_head": ""
         }
+      },
+      "navbar": {
+        "type": "navbar",
+        "blocks": {
+          "d45b705b-381a-424c-8d4c-9bb9f5980ca9": {
+            "type": "testimonial",
+            "settings": {
+              "mobile_nav": "shopify:\/\/shop_images\/bestsellers.png",
+              "text": "Best Sellers",
+              "linkurl": "shopify:\/\/collections\/best-seller",
+              "linkopen": false
+            }
+          },
+          "6991d4c7-2fc9-428b-99da-88a9ae8ab9f0": {
+            "type": "testimonial",
+            "settings": {
+              "mobile_nav": "shopify:\/\/shop_images\/new_arrivals_84b4c1cf-1f49-4f6e-902d-781fd0c8b485.png",
+              "text": "Razors",
+              "linkurl": "shopify:\/\/pages\/razors-for-men",
+              "linkopen": false
+            }
+          },
+          "ae74c735-cb9a-45b3-8da0-b843f2c0c73d": {
+            "type": "testimonial",
+            "settings": {
+              "mobile_nav": "shopify:\/\/shop_images\/trimmer_1903f2be-7046-4ccf-919a-17c168f9f05f.png",
+              "text": "Trimmers",
+              "linkurl": "shopify:\/\/pages\/trimmers-for-men",
+              "linkopen": false
+            }
+          },
+          "3f2d6ecc-12b1-46b8-8da0-40eacd74369e": {
+            "type": "testimonial",
+            "settings": {
+              "mobile_nav": "shopify:\/\/shop_images\/shaving.png",
+              "text": "Shave Care",
+              "linkurl": "shopify:\/\/pages\/shaving-products-for-men",
+              "linkopen": false
+            }
+          },
+          "2becbf0b-eacd-492a-a4b6-611c3b429f2b": {
+            "type": "testimonial",
+            "settings": {
+              "mobile_nav": "shopify:\/\/shop_images\/gifting.png",
+              "text": "Gifting Kits",
+              "linkurl": "shopify:\/\/pages\/gifts-for-men-online",
+              "linkopen": false
+            }
+          },
+          "5824d5a6-20bf-4441-a5df-da400e11b811": {
+            "type": "testimonial",
+            "settings": {
+              "mobile_nav": "shopify:\/\/shop_images\/skin_304da1b9-a991-443d-ab29-045b32306cfe.png",
+              "text": "Skin Care",
+              "linkurl": "shopify:\/\/pages\/skin-care-products-for-men",
+              "linkopen": false
+            }
+          },
+          "a93c9241-013e-40cd-afca-449012f05a69": {
+            "type": "testimonial",
+            "settings": {
+              "mobile_nav": "shopify:\/\/shop_images\/beard_be523a69-35ec-4f92-a3f1-7535eb215104.png",
+              "text": "Beard",
+              "linkurl": "shopify:\/\/pages\/beard-care-products-for-men",
+              "linkopen": false
+            }
+          },
+          "689dcf83-e8de-4e6f-afef-9a0d7e05371d": {
+            "type": "testimonial",
+            "settings": {
+              "mobile_nav": "shopify:\/\/shop_images\/fragrance.png",
+              "text": "Fragrances",
+              "linkurl": "shopify:\/\/pages\/buy-perfumes-fragrances-for-men",
+              "linkopen": false
+            }
+          },
+          "0a8b6727-40b5-4893-8021-1e18b7c4395f": {
+            "type": "testimonial",
+            "settings": {
+              "mobile_nav": "shopify:\/\/shop_images\/bsc-page-icon.png",
+              "text": "women",
+              "linkurl": "https:\/\/mybombae.in\/",
+              "linkopen": false
+            }
+          }
+        },
+        "block_order": [
+          "d45b705b-381a-424c-8d4c-9bb9f5980ca9",
+          "6991d4c7-2fc9-428b-99da-88a9ae8ab9f0",
+          "ae74c735-cb9a-45b3-8da0-b843f2c0c73d",
+          "3f2d6ecc-12b1-46b8-8da0-40eacd74369e",
+          "2becbf0b-eacd-492a-a4b6-611c3b429f2b",
+          "5824d5a6-20bf-4441-a5df-da400e11b811",
+          "a93c9241-013e-40cd-afca-449012f05a69",
+          "689dcf83-e8de-4e6f-afef-9a0d7e05371d",
+          "0a8b6727-40b5-4893-8021-1e18b7c4395f"
+        ],
+        "settings": {
+        }
       }
     },
     "content_for_index": [
