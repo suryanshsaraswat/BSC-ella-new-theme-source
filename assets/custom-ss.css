@@ -29,3 +29,6 @@ a.menu-lv-1__action.list-menu__item.link.focus-inset.menu-lv__flex.menu_mobile_l
   display: block;
 }
 .header-nav-utility .header-item--side{min-width: 170px!important;}
+span.text.p-relative {
+  font-size: 14px;
+}
