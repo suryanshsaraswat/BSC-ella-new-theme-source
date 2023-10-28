@@ -188,7 +188,7 @@
         "02a1b9b5-e603-451a-9b42-04bda0122f06": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% render ''%}"
+            "custom_liquid": "{% render 'how-to-use'%}"
           }
         }
       },
