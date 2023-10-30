@@ -600,7 +600,7 @@
             "menu_top_spacing": 12,
             "menu_bottom_spacing": 12,
             "grid_gap_menu_item": 10,
-            "alignment": "left",
+            "alignment": "center",
             "bg_mega_menu": "#ffffff",
             "bg_mega_menu_gradient": "",
             "lv_1_color": "#0d5ea8",
