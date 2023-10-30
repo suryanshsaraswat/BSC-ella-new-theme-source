@@ -234,7 +234,7 @@
     "show_cart_shipping": false,
     "shipping_rate_calculator_default_country": "India",
     "show_shipping_note": false,
-    "show_cart_discount": true,
+    "show_cart_discount": false,
     "show_quick_cart_popular_product": true,
     "quick_cart_popular_product_title": "You May Also Like",
     "quick_cart_popular_product_collection": "new-arrivals",
