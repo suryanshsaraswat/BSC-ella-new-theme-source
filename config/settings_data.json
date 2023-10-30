@@ -22,10 +22,10 @@
     "type_heading_letter_spacing": ".05em",
     "type_menu_lv_1": "font_1",
     "type_menu_lv1_font_size": 17,
-    "type_menu_lv1_font_weight": "600",
+    "type_menu_lv1_font_weight": "500",
     "type_menu_lv1_text_transform": "uppercase",
     "type_menu_lv1_line_height": 15,
-    "type_menu_lv1_letter_spacing": "",
+    "type_menu_lv1_letter_spacing": "1.5px",
     "type_menu_lv_2": "font_2",
     "type_menu_lv2_font_size": 15,
     "type_menu_lv2_font_weight": "400",
@@ -1339,12 +1339,6 @@
       "12278696032673699304": {
         "type": "shopify:\/\/apps\/email-sms-whatsapp-marketing\/blocks\/app-embed\/70d9c67e-448e-4001-9f78-84753c8bf461",
         "disabled": true,
-        "settings": {
-        }
-      },
-      "11724500921838622758": {
-        "type": "shopify:\/\/apps\/frequently-bought-together\/blocks\/app-embed-block\/b1a8cbea-c844-4842-9529-7c62dbab1b1f",
-        "disabled": false,
         "settings": {
         }
       }
