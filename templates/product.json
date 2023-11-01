@@ -304,6 +304,45 @@
         "total_btn_bg_gradient_hover": ""
       }
     },
+    "c5cac207-1eb8-44c1-9b84-0956ce5674a9": {
+      "type": "aplus-banner",
+      "blocks": {
+        "67afc49e-9fae-4189-8a12-743c84b0b7fa": {
+          "type": "image",
+          "settings": {
+            "dekstop_a": "{{ product.metafields.my_fields.media_image_1.value }}",
+            "mobile_a": "{{ product.metafields.custom.mobile_a_.value }}"
+          }
+        },
+        "5285a985-b26b-4db6-9716-65f84c31d76e": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "67afc49e-9fae-4189-8a12-743c84b0b7fa",
+        "5285a985-b26b-4db6-9716-65f84c31d76e"
+      ],
+      "settings": {
+      }
+    },
+    "1690346721ff9f874c": {
+      "type": "apps",
+      "blocks": {
+        "1ac23d15-d5c0-47f4-8241-c59c97957484": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1ac23d15-d5c0-47f4-8241-c59c97957484"
+      ],
+      "settings": {
+        "include_margins": false
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -411,30 +450,13 @@
         "border_width_card": 5,
         "border_color_card": "#f0f1f4"
       }
-    },
-    "1690346721ff9f874c": {
-      "type": "apps",
-      "blocks": {
-        "1ac23d15-d5c0-47f4-8241-c59c97957484": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "1ac23d15-d5c0-47f4-8241-c59c97957484"
-      ],
-      "disabled": true,
-      "settings": {
-        "include_margins": false
-      }
     }
   },
   "order": [
     "main",
+    "c5cac207-1eb8-44c1-9b84-0956ce5674a9",
+    "1690346721ff9f874c",
     "product-recommendations",
-    "product-recently-viewed",
-    "1690346721ff9f874c"
+    "product-recently-viewed"
   ]
 }
