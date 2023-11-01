@@ -1347,6 +1347,40 @@
         "disabled": true,
         "settings": {
         }
+      },
+      "5918445685253060206": {
+        "type": "shopify:\/\/apps\/bundler\/blocks\/bundler-script-append\/7a6ae1b8-3b16-449b-8429-8bb89a62c664",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "11348531219507317188": {
+        "type": "shopify:\/\/apps\/easy-bundles\/blocks\/app-embed\/05b1325c-6303-4da5-8e2f-b13ab2a50e1a",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "10792054070156345639": {
+        "type": "shopify:\/\/apps\/yagi-order-cancellable\/blocks\/account_links\/925d2800-296f-4959-a164-59de5e9cc677",
+        "disabled": false,
+        "settings": {
+          "show_cancel_link": true,
+          "show_reorder_link": true,
+          "show_cancel_link_for_fulfilled": false,
+          "table_selector": "table.order-history, .myaccount table, .account table, table.orders-table",
+          "cancel_header_text": "Cancel",
+          "cancel_link_text": "Cancel",
+          "cancelled_text": "Cancelled",
+          "cancel_link_class": "",
+          "reorder_header_text": "Reorder",
+          "reorder_link_text": "Reorder"
+        }
+      },
+      "6480035358908009760": {
+        "type": "shopify:\/\/apps\/superspeed-googles-page-speed\/blocks\/ss-sonar\/ea1b2c2c-4644-44b9-b10b-fdb914884a8c",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   }
