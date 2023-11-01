@@ -12,7 +12,7 @@
         <img src="{ block.settings.desktop_a |  image_url: 'master'  }}" alt="{{ block.settings.desktop_a.alt }}">
     </div>
     <div class="mobile">
-        <img {% if block.settings.mobile_a != blank %}src="{{ block.settings.mobile_a |  image_url: 'master'  }}" {% else %} src="{{ block.settings.desktop_a |  image_url: 'master'  }}" alt="{{ block.settings.desktop_a.alt }}">
+    <img {% if block.settings.mobile_a != blank %}src="{{ block.settings.mobile_a |  image_url: 'master'  }}" {% else %} src="{{ block.settings.desktop_a |  image_url: 'master'  }}"{% endif %} alt="{{ block.settings.desktop_a.alt }}">
     </div>
     {% endfor %}
 </div>
