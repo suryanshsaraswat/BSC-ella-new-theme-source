@@ -689,30 +689,10 @@
             "logo_color": "#000000"
           }
         },
-        "02133687-1b0f-43c3-925f-047277c9c83d": {
-          "type": "megamenu_style_5",
-          "settings": {
-            "layout_block": "custom_width",
-            "header_custom_width_size": 1200,
-            "mega_tyle": "style1",
-            "item": "Categories",
-            "column": 3,
-            "menu_text_left": "",
-            "menu_text_left_sale": "Razors\nShave\nBeard",
-            "show_banner_1": false,
-            "banner_url_1": "",
-            "product_limit": 4,
-            "show_product": false,
-            "product_title": "Featured Products",
-            "product_collection": "",
-            "bg_mega_menu_bottom": "#f8f8f8"
-          }
-        },
         "sections--16129471676570__ce2433d7-3aa5-4595-a01e-da6be5868d2d-main_menu-1": {
           "type": "main_menu",
-          "disabled": true,
           "settings": {
-            "menu": "",
+            "menu": "mega-menu",
             "menu_top_spacing": 14,
             "menu_bottom_spacing": 14,
             "grid_gap_menu_item": 12,
@@ -800,7 +780,6 @@
       },
       "block_order": [
         "sections--16129471676570__ce2433d7-3aa5-4595-a01e-da6be5868d2d-logo-1",
-        "02133687-1b0f-43c3-925f-047277c9c83d",
         "sections--16129471676570__ce2433d7-3aa5-4595-a01e-da6be5868d2d-main_menu-1",
         "sections--16129471676570__ce2433d7-3aa5-4595-a01e-da6be5868d2d-header_icons-1"
       ],
