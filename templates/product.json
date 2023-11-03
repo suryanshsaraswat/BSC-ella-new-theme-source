@@ -313,10 +313,45 @@
             "dekstop_a": "{{ product.metafields.my_fields.media_image_1.value }}",
             "mobile_a": "{{ product.metafields.custom.mobile_a_.value }}"
           }
+        },
+        "fbe147ee-5568-4d17-a04e-9511f8da6ecb": {
+          "type": "image",
+          "settings": {
+            "dekstop_a": "{{ product.metafields.my_fields.media_image_2.value }}"
+          }
+        },
+        "ba3ebdf1-fe98-4138-b573-2bd387785fd0": {
+          "type": "image",
+          "settings": {
+            "dekstop_a": "{{ product.metafields.my_fields.media_image_3.value }}"
+          }
+        },
+        "4d8bd264-f2ed-407e-955b-a20e0ac6967e": {
+          "type": "image",
+          "settings": {
+            "dekstop_a": "{{ product.metafields.my_fields.media_image_4.value }}"
+          }
+        },
+        "8b216306-0124-4d73-ab8c-5c1847d7375b": {
+          "type": "image",
+          "settings": {
+            "dekstop_a": "{{ product.metafields.custom.media_image_5.value }}"
+          }
+        },
+        "da516b54-7848-4e57-989a-4eee0526b840": {
+          "type": "image",
+          "settings": {
+            "dekstop_a": "{{ product.metafields.custom.media_image_7.value }}"
+          }
         }
       },
       "block_order": [
-        "67afc49e-9fae-4189-8a12-743c84b0b7fa"
+        "67afc49e-9fae-4189-8a12-743c84b0b7fa",
+        "fbe147ee-5568-4d17-a04e-9511f8da6ecb",
+        "ba3ebdf1-fe98-4138-b573-2bd387785fd0",
+        "4d8bd264-f2ed-407e-955b-a20e0ac6967e",
+        "8b216306-0124-4d73-ab8c-5c1847d7375b",
+        "da516b54-7848-4e57-989a-4eee0526b840"
       ],
       "settings": {
       }
