@@ -66,4 +66,5 @@ span.d-off {
 }
 .cart-icon svg {
     fill: none!Important;
+      width: 24px;
 }
