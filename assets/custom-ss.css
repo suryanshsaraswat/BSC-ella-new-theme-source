@@ -38,5 +38,8 @@ span.text.p-relative {
     justify-content: space-around;
 }
 .atc-text {
-    width: 33%;
+    width: 50%;
+}
+span.com-subdeud {
+    font-size: 19px;
 }
