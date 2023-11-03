@@ -41,7 +41,7 @@ span.text.p-relative {
     width: 50%;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: center;
     margin-top: -4px;
   margin-right:-22px
 }
