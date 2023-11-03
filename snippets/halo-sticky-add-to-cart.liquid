@@ -147,7 +147,7 @@
                                     <button
                                         class="product-form__submit button button--primary{% if first_inventory == 0 %} button-text-change{% endif %}"
                                         id="show-sticky-product">
-                                            {{ 'products.product.add_to_cart' | t }}
+                                            {{ 'products.product.add_to_cart' | t }}{{ product.compare_at_price | money_with_currency }}
                                     </button>
                             </div>
                         {% endif %}
