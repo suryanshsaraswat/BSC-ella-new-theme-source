@@ -6,7 +6,6 @@
         .mobile{display: block; max-width: 100%;}
     }
 </style>
-{% if block.settings.desktop_a != blank  %}
 <div class="aplus">
     {% for block in section.blocks %}
     <div class="desktop">
@@ -17,7 +16,6 @@
     </div>
     {% endfor %}
 </div>
-{% endif %}
 {% schema %}
 {
     "name": "A+ Banners",
