@@ -161,6 +161,7 @@
     "product_content_text_align": "left",
     "badge_postion": "left",
     "new_badge_type": "manual",
+    "show_sale_badge": true,
     "sale_badge_type": "text_discount",
     "point_product_swatch_custom": "30px",
     "show_action": true,
