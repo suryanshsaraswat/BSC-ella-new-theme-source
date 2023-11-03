@@ -63,3 +63,6 @@ span.d-off {
     font-weight: 300;
     font-size: 12px;
 }
+.cart-icon svg {
+    fill: none!Important;
+}
