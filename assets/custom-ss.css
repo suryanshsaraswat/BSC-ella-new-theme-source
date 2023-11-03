@@ -39,6 +39,10 @@ span.text.p-relative {
 }
 .atc-text {
     width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: -4px;
 }
 span.com-subdeud {
     font-size: 19px;
@@ -47,9 +51,6 @@ span.com-subdeud {
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-span.d-off {
-    
 }
 span.d-off {
     font-weight: 300;
