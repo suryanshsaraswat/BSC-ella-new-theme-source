@@ -147,7 +147,7 @@
                                     <button
                                         class="product-form__submit button button--primary{% if first_inventory == 0 %} button-text-change{% endif %}"
                                         id="show-sticky-product">
-                                           <div class="atc-button-text"><div class="atc-text"> {{ 'products.product.add_to_cart' | t }}</div><div class="atc-mrp">{% if product.compare_at_price > product.price %}<div class="slashedprice"><span class="price-subdued">{{ product.compare_at_price | money_with_currency }}</span><span class="minretpri">{{ product.price | money_with_currency }}</span></div>{% else %}<div class="mrpfull">{{ product.compare_at_price | money_with_currency }}</div>{% endif %}{% if product.compare_at_price > product.price %}<div class="sale_label">SAVE ₹{{ product.compare_at_price | minus:product.price | divided_by:100}} </div>{% endif %}</div>
+                                           <div class="atc-button-text"><div class="atc-text"> {{ 'products.product.add_to_cart' | t }}</div><div class="atc-mrp">{% if product.compare_at_price > product.price %}<div class="slashedprice"><span class="price-subdued">{{ product.compare_at_price | money_with_currency }}</span><span class="minretpri">{{ product.price | money_with_currency }}</span></div>{% else %}<div class="mrpfull">{{ product.compare_at_price | money_with_currency }}</div>{% endif %}{% if product.compare_at_price > product.price %}<div class="salee_label">SAVE ₹{{ product.compare_at_price | minus:product.price | divided_by:100}} </div>{% endif %}</div>
                                            </div>
                                     </button>
                                     </div>
