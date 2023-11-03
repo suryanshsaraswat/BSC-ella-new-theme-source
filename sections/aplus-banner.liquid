@@ -6,18 +6,17 @@
         .mobile{display: block; max-width: 100%;}
     }
 </style>
-<div class="aplus">
+<div class="container">
+  <div class="aplus">
     {% for block in section.blocks %}
       {% if block.settings.desktop_a != blank %}
-    <div class="desktop">
-        <img src="{{ block.settings.desktop_a |  img_url: '900x'  }}" alt="{{ block.settings.desktop_a.alt }}">
-    </div>
-    <div class="mobile">
-    <img src=" {% if block.settings.mobile_a != blank %}{{ block.settings.mobile_a |  img_url: '900x'  }}{% else %}{{ block.settings.desktop_a |  img_url: '900x'  }}{% endif %}" alt="{{ block.settings.desktop_a.alt }}">
-    </div>
-  {% endif %}
-    {% endfor %}
-      
+        <div class="apkus-inner">
+          <img src="{{ block.settings.img | img_url: '900x' }}" class="desktop_aplus">
+        <img src="{% if block.settings.img_mob != blank %}{{ block.settings.img_mob  | img_url:'900x'}}{% else %}{{ block.settings.img | img_url: '900x' }}{% endif %}" class="mobile_aplus">
+        </div>
+    {% endif %}
+  </div>
+  {% endfor %}
 </div>
 {% schema %}
 {
