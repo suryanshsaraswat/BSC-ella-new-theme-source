@@ -150,7 +150,7 @@
                                            <div class="atc-button-text">
                                              {% if product.compare_at_price > product.price %}
                                                <div class="pr_price d">
-                                                  MRP: <span class="com-subdeud">{{ product.price | money_with_currency }}</span>
+                                                  MRP: <span class="com-subdeud" style="margin-left:5px">{{ product.price | money_with_currency }}</span>
                                                  <span class="d-off">{{ product.compare_at_price | minus: product.price | times: 100 | divided_by: product.compare_at_price | replace: '0,', ''| append: "%"}} Off</span>
                                                </div>
                                                {% else %}
