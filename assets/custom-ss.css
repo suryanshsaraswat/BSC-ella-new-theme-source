@@ -32,3 +32,11 @@ a.menu-lv-1__action.list-menu__item.link.focus-inset.menu-lv__flex.menu_mobile_l
 span.text.p-relative {
   font-size: 14px;
 }
+.atc-button-text {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.atc-text {
+    width: 33%;
+}
