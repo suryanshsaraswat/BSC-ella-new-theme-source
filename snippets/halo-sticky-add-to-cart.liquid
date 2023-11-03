@@ -118,7 +118,7 @@
                                         data-btn-addToCart
                                         class="product-form__submit button button--primary"
                                         id="product-sticky-add-to-cart">
-                                        {{ 'products.product.add_to_cart' | t}}{{ products.product.compare_at_price | money_with_currency }}
+                                        {{ 'products.product.add_to_cart' | t}}{{ product.compare_at_price | money_with_currency }}
                                     </button>
                                 {% endif %}
                             {%- else -%}
