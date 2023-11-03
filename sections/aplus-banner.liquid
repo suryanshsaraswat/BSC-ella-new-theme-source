@@ -9,14 +9,15 @@
 <div class="container">
   <div class="aplus">
     {% for block in section.blocks %}
-      {% if block.settings.desktop_a != blank %}
+      {% if block.settings.dekstop_a != blank %}
         <div class="apkus-inner">
-          <img src="{{ block.settings.img | img_url: '900x' }}" class="desktop_aplus">
-        <img src="{% if block.settings.img_mob != blank %}{{ block.settings.img_mob  | img_url:'900x'}}{% else %}{{ block.settings.img | img_url: '900x' }}{% endif %}" class="mobile_aplus">
+          <img src="{{ block.settings.img | img_url: '900x' }}" class="desktop_aplus" alt="{{ block.settings.dekstop_a.alt }}">
+        <img src="{% if block.settings.mobile_a != blank %}{{ block.settings.mobile_a  | img_url:'900x'}}{% else %}{{ block.settings.dekstop_a | img_url: '900x' }}{% endif %}" class="mobile_aplus">
         </div>
     {% endif %}
+      {% endfor %}
   </div>
-  {% endfor %}
+  
 </div>
 {% schema %}
 {
