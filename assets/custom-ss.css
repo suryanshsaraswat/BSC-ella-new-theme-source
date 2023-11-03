@@ -43,3 +43,12 @@ span.text.p-relative {
 span.com-subdeud {
     font-size: 19px;
 }
+.pr_price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+span.d-off {
+    font-weight: 300;
+    font-size: 12px;
+}
