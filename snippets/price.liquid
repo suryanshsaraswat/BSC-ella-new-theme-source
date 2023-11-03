@@ -92,8 +92,5 @@
                         {{- product.selected_or_first_available_variant.unit_price_measurement.reference_value -}}{%- endif -%} {{ product.selected_or_first_available_variant.unit_price_measurement.reference_unit }}</span></dd>
         </small>
     </dl>
-  {% if template ==  'product' %}
-  {% if product.compare_at_price > product.price %}
-    <div class="sale_label">SAVE ₹{{ product.compare_at_price | minus:product.price | divided_by:100}} </div>{% endif %}{% endif %}
 </div>
 
