@@ -1,3 +1,19 @@
+<style>
+  .flex-inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+  .img-dflex {
+    width: 50%;
+}
+  .text-dflex {
+    width: 50%;
+    padding: 30px;
+    text-align: center;
+}
+</style>
 <section class="flex-box collection">
   {% for block in section.blocks %}
   <div class="flex-inner flex-{{ forloop.index }}" id={{ block.id }}>
