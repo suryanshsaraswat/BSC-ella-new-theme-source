@@ -72,6 +72,7 @@ span.d-off {
     padding-bottom: 0;
     scroll-padding: 10px;
     display: flex;
+    gap:5px
     justify-content: flex-start;
     overflow-x: scroll;
     scroll-snap-type: x mandatory;
