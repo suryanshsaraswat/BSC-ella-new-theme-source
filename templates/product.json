@@ -304,6 +304,52 @@
         "total_btn_bg_gradient_hover": ""
       }
     },
+    "d78fa399-02a9-42cc-9faa-d8e46198d93c": {
+      "type": "assurance-icons",
+      "blocks": {
+        "f00b6fae-d639-440e-a350-698b94f0bdef": {
+          "type": "image",
+          "settings": {
+            "icon-heading": "Secure Transsactions",
+            "assurance-icons-img": "shopify:\/\/shop_images\/SecureTranscation_d2927147-fe7e-4187-aca4-eb294c48f82e.png"
+          }
+        },
+        "b65988ec-ba42-41ed-a5e9-445779210282": {
+          "type": "image",
+          "settings": {
+            "icon-heading": ""
+          }
+        },
+        "78ae52a9-973d-49a3-a07b-3185ce977411": {
+          "type": "image",
+          "settings": {
+            "icon-heading": ""
+          }
+        },
+        "00ce687e-36e3-451b-99f7-c9d214ec26ba": {
+          "type": "image",
+          "settings": {
+            "icon-heading": ""
+          }
+        },
+        "c50031e5-8134-4fa6-b8e0-3428e6259a6c": {
+          "type": "image",
+          "settings": {
+            "icon-heading": ""
+          }
+        }
+      },
+      "block_order": [
+        "f00b6fae-d639-440e-a350-698b94f0bdef",
+        "b65988ec-ba42-41ed-a5e9-445779210282",
+        "78ae52a9-973d-49a3-a07b-3185ce977411",
+        "00ce687e-36e3-451b-99f7-c9d214ec26ba",
+        "c50031e5-8134-4fa6-b8e0-3428e6259a6c"
+      ],
+      "settings": {
+        "assurance-heading": ""
+      }
+    },
     "c5cac207-1eb8-44c1-9b84-0956ce5674a9": {
       "type": "aplus-banner",
       "blocks": {
@@ -483,6 +529,7 @@
   },
   "order": [
     "main",
+    "d78fa399-02a9-42cc-9faa-d8e46198d93c",
     "c5cac207-1eb8-44c1-9b84-0956ce5674a9",
     "1690346721ff9f874c",
     "product-recommendations",
