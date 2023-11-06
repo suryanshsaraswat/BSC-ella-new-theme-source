@@ -2,7 +2,7 @@
   {% for block in section.blocks %}
   <div class="flex-inner flex-{{ forloop.index }}" id={{ block.id }}>
     <div class="img-dflex">
-      <img class="flex-img" src="{{ block.settings.collection_img | img_url:'master' }}" alt="{{ block.settings.collection_img.alt }}" width="1024" height="729">
+      <img class="flex-img" src="{{ block.settings.collection_img | img_url:'master' }}" alt="{{ block.settings.collection_img.alt }}" width="100%" height="100%">
     </div>
     <div class="text-dflex">
       <h2>{{ block.settings.collection-heading | escape }}</h2>
