@@ -34,44 +34,7 @@
 	<div class="tabs-contents tabs-contents-{{ tab_layout }} clearfix halo-text-format">
 		{%- for block in section.blocks -%}
 			{%- liquid
-				assign title = block.settings.title
-				assign has_tab = false
-				assign source = block.settings.product_custom_source
-				assign key = block.settings.product_tab_key_metafield
-
-				if source == 'dynamic'
-                   assign meta_ref = key
-                else 
-                   assign meta_ref = product.metafields.c_f[key]
-                endif 
-                
-				if block.type == 'custom'
-					if block.settings.type == 'metafield'
-						if meta_ref
-			                assign has_tab = true
-			                assign content = meta_ref
-			            else
-			            	assign has_tab = false
-			            endif
-			        else
-			        	assign has_tab = true
-			        	assign content = block.settings.content
-			        endif
-				else
-					assign has_tab = true
-					if block.type == 'description'
-                        assign current_variant = product.selected_or_first_available_variant
-                        if current_variant.metafields.c_f.variant_description != blank
-                            assign content = current_variant.metafields.c_f.variant_description
-                        else
-                            assign content = product.description
-                        endif
-					else block.type == 'review'
-						assign content = product.metafields.spr.reviews
-					endif
-				endif
-
-				if block.type == 'description' or block.type == 'review' or block.type == 'custom'
+                if block.type == 'description' or block.type == 'review' or block.type == 'custom'
 					assign style_mobile = false
 					if block.settings.open_tab_mobile
 						assign style_mobile = 'show-mobile'
