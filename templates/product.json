@@ -317,25 +317,29 @@
         "b65988ec-ba42-41ed-a5e9-445779210282": {
           "type": "image",
           "settings": {
-            "icon-heading": ""
+            "icon-heading": "Zero Hassle Claims",
+            "assurance-icons-img": "shopify:\/\/shop_images\/ZeroHassleClaims_e71ab55d-a478-4acc-a9aa-438b8329d396.png"
           }
         },
         "78ae52a9-973d-49a3-a07b-3185ce977411": {
           "type": "image",
           "settings": {
-            "icon-heading": ""
+            "icon-heading": "Track Your Order",
+            "assurance-icons-img": "shopify:\/\/shop_images\/TrackOrder_5a5c82b9-4086-49ff-8e29-c7a534c8b7a7.png"
           }
         },
         "00ce687e-36e3-451b-99f7-c9d214ec26ba": {
           "type": "image",
           "settings": {
-            "icon-heading": ""
+            "icon-heading": "Customer Support",
+            "assurance-icons-img": "shopify:\/\/shop_images\/CustomerSupport_122ecc1d-98ea-457b-8c09-ed97ff0aea78.png"
           }
         },
         "c50031e5-8134-4fa6-b8e0-3428e6259a6c": {
           "type": "image",
           "settings": {
-            "icon-heading": ""
+            "icon-heading": "Free Delivery",
+            "assurance-icons-img": "shopify:\/\/shop_images\/FreeDelivery_245f8346-d20c-41a1-92cf-566ee21e0535.png"
           }
         }
       },
