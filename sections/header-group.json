@@ -312,7 +312,7 @@
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1200,
-            "mega_tyle": "style4",
+            "mega_tyle": "style1",
             "item": "Razors for men",
             "column": 4,
             "menu_text_left": "",
@@ -321,7 +321,7 @@
             "banner_url_1": "",
             "product_limit": 4,
             "show_product": true,
-            "product_title": "Featured Products",
+            "product_title": "Featured Razors",
             "product_collection": "razors-1",
             "bg_mega_menu_bottom": "#f8f8f8"
           }
