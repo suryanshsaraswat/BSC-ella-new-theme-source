@@ -1,7 +1,41 @@
 {% schema %}
   {
-    "name": "Section name",
-    "settings": []
+    "name": "Exclusive Collection",
+    "settings": [],
+    "blocks":[
+      {
+        "name":"Collection BLock",
+        "type":"image",
+        "settings":[
+          {
+            "type":"image_picker",
+            "id":"collection_img",
+            "label":"Select Collection Image",
+            "info":"Recommended size: 1024 x 729"
+          },
+          {
+            "type":"text",
+            "id":"collection-heading",
+            "label":"Enter Collection Heading"
+          },
+          {
+            "type":"text",
+            "id":"collection-body",
+            "label":"Enter collection Label"
+          },
+          {
+            "type":"url",
+            "id":"collection-url",
+            "label":"Select Collection URL"
+          },
+          {
+            "type":"text",
+            "id":"bu_label",
+            "label":"Enter Button Label"
+          }
+        ]
+      }
+    ]
   }
 {% endschema %}
 
