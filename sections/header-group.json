@@ -317,7 +317,7 @@
             "column": 2,
             "menu_text_left": "",
             "menu_text_left_sale": "",
-            "show_banner_1": true,
+            "show_banner_1": false,
             "banner_1": "shopify:\/\/shop_images\/Fragrances_1_b7006a23-4ec3-4464-bc8c-7181ba381fee.jpg",
             "banner_url_1": "",
             "product_limit": 4,
