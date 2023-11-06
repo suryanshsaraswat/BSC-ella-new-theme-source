@@ -65,10 +65,10 @@
                 </dt>
             {%- endcomment -%}
             <dd class="price__last"><span class="price-item price-item--sale">{{ money_price }}</span></dd>
-            {% comment %}{%- if settings.show_saved_price and price != nil and price != blank and compare_at_price != nil and compare_at_price != blank -%}
+            {% if template.name == product %}{%- if settings.show_saved_price and price != nil and price != blank and compare_at_price != nil and compare_at_price != blank -%}
                 {%- assign saved_price = compare_at_price | minus: price | money -%}
                 <div class="price__saved"><span class="price-item price-item--saved">{{'products.product.price.saved_price_html' | t: price: saved_price }}</span></div>
-            {%- endif -%}{% endcomment %}
+            {%- endif -%}{% endif %}
             {%- if hasCountdown == true or hasCountdown == 'true' -%}
             <dd class="price__label_sale">
                 {%- liquid 
