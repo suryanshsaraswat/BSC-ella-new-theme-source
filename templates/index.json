@@ -902,6 +902,41 @@
       "settings": {
       }
     },
+    "e44183be-2e1b-4a5b-a709-8c0c442fcccb": {
+      "type": "flex-collection",
+      "blocks": {
+        "8a15e607-9a0a-4f5f-8324-96fa2bc98bf9": {
+          "type": "image",
+          "settings": {
+            "collection_img": "shopify:\/\/shop_images\/Desktop_Bites_and_Kisses_1_1024x1024_337f412e-ff10-4891-abc6-aa464953dc87.webp",
+            "container-color": "#1991e2",
+            "collection-heading": "Shave Care",
+            "collection-body": "Don't hold back; dare to play and let your fantasies take flight with Durex Playthings!",
+            "collection-url": "shopify:\/\/collections\/shave",
+            "layout_flex": "text_first",
+            "button-label": "View Collection"
+          }
+        },
+        "07e6b57f-c1b1-49f3-adfc-fdda5501467d": {
+          "type": "image",
+          "settings": {
+            "collection_img": "shopify:\/\/shop_images\/Desktop_Playkits_1_1024x1024_ea952404-0eef-4e82-b5ef-8b0543934b5a.webp",
+            "container-color": "#0d5ea8",
+            "collection-heading": "Beard Care",
+            "collection-body": "The ultimate fusion of pleasure and endless adventures all packed into one delightful box.",
+            "collection-url": "shopify:\/\/collections\/mens-beardcare-products",
+            "layout_flex": "text_first",
+            "button-label": "SHOP NOW"
+          }
+        }
+      },
+      "block_order": [
+        "8a15e607-9a0a-4f5f-8324-96fa2bc98bf9",
+        "07e6b57f-c1b1-49f3-adfc-fdda5501467d"
+      ],
+      "settings": {
+      }
+    },
     "9de6c008-597e-4b4d-b585-63a59f43dbb8": {
       "type": "featured-blog",
       "settings": {
@@ -1046,28 +1081,6 @@
       "settings": {
         "include_margins": true
       }
-    },
-    "e44183be-2e1b-4a5b-a709-8c0c442fcccb": {
-      "type": "flex-collection",
-      "blocks": {
-        "8a15e607-9a0a-4f5f-8324-96fa2bc98bf9": {
-          "type": "image",
-          "settings": {
-            "collection_img": "shopify:\/\/shop_images\/Desktop_Bites_and_Kisses_1_1024x1024_337f412e-ff10-4891-abc6-aa464953dc87.webp",
-            "container-color": "#1991e2",
-            "collection-heading": "Shave Care",
-            "collection-body": "Don't hold back; dare to play and let your fantasies take flight with Durex Playthings!",
-            "collection-url": "shopify:\/\/collections\/shave",
-            "layout_flex": "text_first",
-            "button-label": "View Collection"
-          }
-        }
-      },
-      "block_order": [
-        "8a15e607-9a0a-4f5f-8324-96fa2bc98bf9"
-      ],
-      "settings": {
-      }
     }
   },
   "order": [
@@ -1077,9 +1090,9 @@
     "daaa5e22-8eac-4662-9bd1-3afa11dc6856",
     "163247026462da6862",
     "85e819e7-69b0-4232-b7ff-91b234d3fcc7",
+    "e44183be-2e1b-4a5b-a709-8c0c442fcccb",
     "9de6c008-597e-4b4d-b585-63a59f43dbb8",
     "0f408bdc-ec2a-40f6-b1b6-e7072c4f4dd0",
-    "1690173358ccd0568e",
-    "e44183be-2e1b-4a5b-a709-8c0c442fcccb"
+    "1690173358ccd0568e"
   ]
 }
