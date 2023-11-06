@@ -340,10 +340,10 @@
             "show_banner_1": true,
             "banner_1": "shopify:\/\/shop_images\/1_5_0134f27d-16de-4d44-a070-0c165f11d12e.jpg",
             "banner_url_1": "",
-            "product_limit": 1,
-            "show_product": false,
+            "product_limit": 4,
+            "show_product": true,
             "product_title": "Featured Products",
-            "product_collection": "",
+            "product_collection": "trimmers",
             "bg_mega_menu_bottom": "#f8f8f8"
           }
         },
