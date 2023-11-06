@@ -312,18 +312,17 @@
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1200,
-            "mega_tyle": "style1",
+            "mega_tyle": "style4",
             "item": "Razors for men",
-            "column": 2,
+            "column": 4,
             "menu_text_left": "",
             "menu_text_left_sale": "Sale",
             "show_banner_1": false,
-            "banner_1": "shopify:\/\/shop_images\/1_1_copy_c1a5a867-07af-4d65-9088-e6b9b07a41a7.webp",
             "banner_url_1": "",
             "product_limit": 4,
-            "show_product": false,
+            "show_product": true,
             "product_title": "Featured Products",
-            "product_collection": "",
+            "product_collection": "razors-1",
             "bg_mega_menu_bottom": "#f8f8f8"
           }
         },
