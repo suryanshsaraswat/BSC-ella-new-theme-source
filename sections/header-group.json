@@ -307,13 +307,32 @@
             "hot_label_bg_gradient": ""
           }
         },
+        "807586ca-f16a-4347-841f-6b1dcefd77f7": {
+          "type": "megamenu_style_5",
+          "settings": {
+            "layout_block": "custom_width",
+            "header_custom_width_size": 1200,
+            "mega_tyle": "style1",
+            "item": "R",
+            "column": 3,
+            "menu_text_left": "",
+            "menu_text_left_sale": "",
+            "show_banner_1": false,
+            "banner_url_1": "",
+            "product_limit": 4,
+            "show_product": false,
+            "product_title": "Featured Products",
+            "product_collection": "",
+            "bg_mega_menu_bottom": "#f8f8f8"
+          }
+        },
         "3c9c1bd8-72c8-46b0-b6c7-9e8b75b5aca4": {
           "type": "megamenu_style_5",
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1200,
             "mega_tyle": "style1",
-            "item": "BEST SELLERS",
+            "item": "Best Sellers",
             "column": 2,
             "menu_text_left": "",
             "menu_text_left_sale": "",
@@ -487,6 +506,7 @@
       "block_order": [
         "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-0",
         "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-1",
+        "807586ca-f16a-4347-841f-6b1dcefd77f7",
         "3c9c1bd8-72c8-46b0-b6c7-9e8b75b5aca4",
         "93ec1985-1578-4a5a-9971-af43eb67b77f",
         "89d814e8-53fb-4f55-91e0-ac3a0a2f2733",
