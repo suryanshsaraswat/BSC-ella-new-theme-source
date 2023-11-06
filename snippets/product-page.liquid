@@ -1305,12 +1305,8 @@
                             {%- endfor -%}
                             {%- if show_tab -%}
                                 {%- if tab_layout == 'vertical' or tab_layout == 'vertical_sidebar' or tab_layout == 'popup' -%}
-                                    {% render 'product-tab-bsc',
-                                        product: product,
-                                        section: section,
-                                        tab_layout: tab_layout,
-                                        tab_layout_mobile: tab_layout_mobile,
-                                        icon_style_layout: icon_style_layout
+                                    {% render 'product-tab-bsc'
+                                        
                                     %}
                                 {%- endif -%}
                             {%- endif -%}
