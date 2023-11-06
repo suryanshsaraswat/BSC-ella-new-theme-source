@@ -307,25 +307,6 @@
             "hot_label_bg_gradient": ""
           }
         },
-        "7b7edcea-7483-4880-8cb0-e9d230d1ab14": {
-          "type": "megamenu_style_5",
-          "settings": {
-            "layout_block": "custom_width",
-            "header_custom_width_size": 1200,
-            "mega_tyle": "style2",
-            "item": "RAZORS FOR MEN",
-            "column": 2,
-            "menu_text_left": "",
-            "menu_text_left_sale": "Razors",
-            "show_banner_1": false,
-            "banner_url_1": "",
-            "product_limit": 4,
-            "show_product": true,
-            "product_title": "Featured Products",
-            "product_collection": "shaving-razors",
-            "bg_mega_menu_bottom": "#f8f8f8"
-          }
-        },
         "93ec1985-1578-4a5a-9971-af43eb67b77f": {
           "type": "megamenu_style_5",
           "settings": {
@@ -506,7 +487,6 @@
       "block_order": [
         "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-0",
         "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-1",
-        "7b7edcea-7483-4880-8cb0-e9d230d1ab14",
         "93ec1985-1578-4a5a-9971-af43eb67b77f",
         "89d814e8-53fb-4f55-91e0-ac3a0a2f2733",
         "d5bab243-048e-461c-b7c0-3488055e3e80",
