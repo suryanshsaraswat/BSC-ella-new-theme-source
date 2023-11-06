@@ -699,6 +699,115 @@
         "border_color_card": "#f0f1f4"
       }
     },
+    "85e819e7-69b0-4232-b7ff-91b234d3fcc7": {
+      "type": "desktop-category-titles",
+      "blocks": {
+        "251ac3b4-2980-43df-b096-116599d5a1a0": {
+          "type": "homepage",
+          "settings": {
+            "heading_nav": "New Arrivals",
+            "linkurl_nav": "",
+            "cat_tile_image": "shopify:\/\/shop_images\/new_arrivals_84b4c1cf-1f49-4f6e-902d-781fd0c8b485.png",
+            "linkopen": false
+          }
+        },
+        "828a16ae-df85-449c-b299-9c258c370641": {
+          "type": "homepage",
+          "settings": {
+            "heading_nav": "Trimmers",
+            "linkurl_nav": "shopify:\/\/pages\/trimmers-for-men",
+            "cat_tile_image": "shopify:\/\/shop_images\/trimmer_1903f2be-7046-4ccf-919a-17c168f9f05f.png",
+            "linkopen": false
+          }
+        },
+        "c6333f90-f185-44e7-9f71-8e227098c3bd": {
+          "type": "homepage",
+          "settings": {
+            "heading_nav": "Gifts for men",
+            "linkurl_nav": "shopify:\/\/pages\/gifts-for-men-online",
+            "cat_tile_image": "shopify:\/\/shop_images\/gifting.png",
+            "linkopen": false
+          }
+        },
+        "46dd2d53-8367-4750-acd4-1502258ced9d": {
+          "type": "homepage",
+          "settings": {
+            "heading_nav": "Skin Care",
+            "linkurl_nav": "shopify:\/\/pages\/skin-care-products-for-men",
+            "cat_tile_image": "shopify:\/\/shop_images\/skin_304da1b9-a991-443d-ab29-045b32306cfe.png",
+            "linkopen": false
+          }
+        },
+        "d335c411-f303-4a7e-91af-73acc0a57b68": {
+          "type": "homepage",
+          "settings": {
+            "heading_nav": "Shave care",
+            "linkurl_nav": "shopify:\/\/pages\/shaving-products-for-men",
+            "cat_tile_image": "shopify:\/\/shop_images\/shaving.png",
+            "linkopen": false
+          }
+        },
+        "1f1d16b6-7e2e-4315-8ece-958e517655e6": {
+          "type": "homepage",
+          "settings": {
+            "heading_nav": "Fragrances",
+            "linkurl_nav": "shopify:\/\/pages\/buy-perfumes-fragrances-for-men",
+            "cat_tile_image": "shopify:\/\/shop_images\/fragrance_2.png",
+            "linkopen": false
+          }
+        },
+        "a7eebd11-7a95-4899-94d5-7cc4e08a5279": {
+          "type": "homepage",
+          "settings": {
+            "heading_nav": "Beard Care",
+            "linkurl_nav": "shopify:\/\/pages\/beard-care-products-for-men",
+            "cat_tile_image": "shopify:\/\/shop_images\/beard_be523a69-35ec-4f92-a3f1-7535eb215104.png",
+            "linkopen": false
+          }
+        },
+        "7fe3d8b2-e953-40f0-abe0-84a6fb75b9d8": {
+          "type": "homepage",
+          "settings": {
+            "heading_nav": "Bath care",
+            "linkurl_nav": "shopify:\/\/pages\/bath-care-products-for-men",
+            "cat_tile_image": "shopify:\/\/shop_images\/bath.png",
+            "linkopen": false
+          }
+        },
+        "71b8d5e8-c5a7-4bf0-b885-c819c3193f7e": {
+          "type": "homepage",
+          "settings": {
+            "heading_nav": "Hair Care",
+            "linkurl_nav": "shopify:\/\/pages\/hair-care-products-for-men",
+            "cat_tile_image": "shopify:\/\/shop_images\/hair_a2baadaf-a0ba-412b-972c-b0494a9e1070.png",
+            "linkopen": false
+          }
+        },
+        "908f3666-56f7-4959-a163-1e8f40edee17": {
+          "type": "homepage",
+          "settings": {
+            "heading_nav": "Women",
+            "linkurl_nav": "https:\/\/mybombae.in\/",
+            "cat_tile_image": "shopify:\/\/shop_images\/bsc-page-icon.png",
+            "linkopen": false
+          }
+        }
+      },
+      "block_order": [
+        "251ac3b4-2980-43df-b096-116599d5a1a0",
+        "828a16ae-df85-449c-b299-9c258c370641",
+        "c6333f90-f185-44e7-9f71-8e227098c3bd",
+        "46dd2d53-8367-4750-acd4-1502258ced9d",
+        "d335c411-f303-4a7e-91af-73acc0a57b68",
+        "1f1d16b6-7e2e-4315-8ece-958e517655e6",
+        "a7eebd11-7a95-4899-94d5-7cc4e08a5279",
+        "7fe3d8b2-e953-40f0-abe0-84a6fb75b9d8",
+        "71b8d5e8-c5a7-4bf0-b885-c819c3193f7e",
+        "908f3666-56f7-4959-a163-1e8f40edee17"
+      ],
+      "settings": {
+      }
+    },
     "9de6c008-597e-4b4d-b585-63a59f43dbb8": {
       "type": "featured-blog",
       "settings": {
@@ -836,7 +945,7 @@
         "color_body": "#202020",
         "fontsize_body": 16,
         "body_margin_bottom": 24,
-        "color_icon": "#fff",
+        "color_icon": "#ffffff",
         "bg_color_icon": "#cbcbcb",
         "star_margin_bottom": 0,
         "show_avatar": true,
@@ -844,8 +953,58 @@
         "star_color": "",
         "scroll_height": 4,
         "scroll_track_bg": "#f1f1f1",
-        "scroll_thumb_color": "#000",
-        "scroll_thumb_hover_color": "#444"
+        "scroll_thumb_color": "#000000",
+        "scroll_thumb_hover_color": "#444444"
+      }
+    },
+    "0f408bdc-ec2a-40f6-b1b6-e7072c4f4dd0": {
+      "type": "assurance-icons",
+      "blocks": {
+        "8a8bab56-8ff5-4b6c-b214-e0818edc3d06": {
+          "type": "image",
+          "settings": {
+            "icon-heading": "Secure Transactions",
+            "assurance-icons-img": "shopify:\/\/shop_images\/SecureTranscation_d2927147-fe7e-4187-aca4-eb294c48f82e.png"
+          }
+        },
+        "0f7e43a5-35cf-4df1-af3b-8ca31f1d10b2": {
+          "type": "image",
+          "settings": {
+            "icon-heading": "Zero Hassle Claims",
+            "assurance-icons-img": "shopify:\/\/shop_images\/ZeroHassleClaims_e71ab55d-a478-4acc-a9aa-438b8329d396.png"
+          }
+        },
+        "dfa68093-e7bc-4fa9-8367-fc29949f1875": {
+          "type": "image",
+          "settings": {
+            "icon-heading": "Track Your Order",
+            "assurance-icons-img": "shopify:\/\/shop_images\/TrackOrder_5a5c82b9-4086-49ff-8e29-c7a534c8b7a7.png"
+          }
+        },
+        "f4552d19-ccfb-4d85-9b5a-95487aeae7cb": {
+          "type": "image",
+          "settings": {
+            "icon-heading": "Customer Support",
+            "assurance-icons-img": "shopify:\/\/shop_images\/CustomerSupport_122ecc1d-98ea-457b-8c09-ed97ff0aea78.png"
+          }
+        },
+        "3e6cbaff-24ae-4fe7-bf89-88edbd7d4376": {
+          "type": "image",
+          "settings": {
+            "icon-heading": "Free Delivery",
+            "assurance-icons-img": "shopify:\/\/shop_images\/FreeDelivery_245f8346-d20c-41a1-92cf-566ee21e0535.png"
+          }
+        }
+      },
+      "block_order": [
+        "8a8bab56-8ff5-4b6c-b214-e0818edc3d06",
+        "0f7e43a5-35cf-4df1-af3b-8ca31f1d10b2",
+        "dfa68093-e7bc-4fa9-8367-fc29949f1875",
+        "f4552d19-ccfb-4d85-9b5a-95487aeae7cb",
+        "3e6cbaff-24ae-4fe7-bf89-88edbd7d4376"
+      ],
+      "settings": {
+        "assurance-heading": ""
       }
     },
     "1690173358ccd0568e": {
@@ -854,8 +1013,6 @@
         "df1d971b-ba3f-4b1d-8d03-876ace30211a": {
           "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_size": 20,
-            "feed_width": 100,
             "html_area": ""
           }
         }
@@ -873,8 +1030,10 @@
     "bb59a85e-e877-4dd3-a37a-15ea92b72479",
     "daaa5e22-8eac-4662-9bd1-3afa11dc6856",
     "163247026462da6862",
+    "85e819e7-69b0-4232-b7ff-91b234d3fcc7",
     "9de6c008-597e-4b4d-b585-63a59f43dbb8",
     "7e98ee7d-24e6-4a6c-85eb-14a791023076",
+    "0f408bdc-ec2a-40f6-b1b6-e7072c4f4dd0",
     "1690173358ccd0568e"
   ]
 }
