@@ -925,7 +925,7 @@
             "collection-heading": "Beard Care",
             "collection-body": "The ultimate fusion of pleasure and endless adventures all packed into one delightful box.",
             "collection-url": "shopify:\/\/collections\/mens-beardcare-products",
-            "layout_flex": "text_first",
+            "layout_flex": "img_first",
             "button-label": "SHOP NOW"
           }
         }
