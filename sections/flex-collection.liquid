@@ -1,3 +1,19 @@
+<section class="flex-box collection">
+  {% for block in section.blocks %}
+  <div class="flex-inner flex-{{ forloop.index }}" id={{ block.id }}>
+    <div class="img-dflex">
+      <img class="flex-img" src="{{ block.settings.collection_img | img_url:'master' }}" alt="{{ block.settings.collection_img.alt }}" width="1024" height="729">
+    </div>
+    <div class="text-dflex">
+      <h2>{{ block.settings.collection-heading | escape }}</h2>
+      <p>{{ block.settings.collection-body | escape }}</p>
+      <div class="button-coll">
+        <a href="{{ block.settings.collection-url }}">{{ block.settings.bu_label }}</a>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
 {% schema %}
   {
     "name": "Exclusive Collection",
