@@ -68,3 +68,15 @@ span.d-off {
     fill: none!Important;
       width: 24px;
 }
+.section-block-template--16248334254234__bda24344-e786-4a75-ba3c-4c0a3798fb16 .products-flex {
+    padding-bottom: 0;
+    scroll-padding: 10px;
+    display: flex;
+    justify-content: flex-start;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+    scroll-padding: 20px;
+    width: 100%;
+    /* padding: 20px; */
+    transition: 0.4s;
+}
