@@ -1,12 +1,88 @@
-{% schema %}
-  {
-    "name": "Section name",
-    "settings": []
-  }
-{% endschema %}
+<div class="assurance-icons-parent">
+    {% if section.settings.assurance-heading != blank %} <div class="heading">
+        <h2>{{ section.settings.assurance-heading }}</h2>
+    </div>{% endif %}
+    <div class="icons-section">
+        <div class="icon-slider">
+            {% for block in section.blocks %}
+                <div class="ass-icon text-center icon{{ forloop.index }}">
+                    <img class="text-center" src="{{ block.settings.assurance-icons-img | img_url: '200x' }}" width="200" height="200" alt="{{ block.settings.assurance-icons-img.alt}}">
+                    <h3 class="text-center w500">{{ block.settings.icon-heading }}</h3>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+<script>
+    $(document).ready(function(){
+        $('.icon-slider').slick({
+            infinite: true,
+            autoplay:true,
+            autoplaySpeed: 2000,
+            slidesToShow: 6,
+            slidesToScroll: 2,
+            arrows:false,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 5,
+                        slidesToScroll: 3,
+                        infinite: true
+                    }
+                 },
+                 {
+                    breakpoint: 600,
+                    settings: {
+                        slidesToShow: 4,
+                        slidesToScroll: 2
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 3,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
+        });
+    })
+</script>
+{%  schema  %} 
+{
+    "name":"Assurance Icons",
+    "settings":[
+        {
+            "type": "text",
+            "id":"assurance-heading",
+            "label": "Enter Icon Section Heading"
+        }
+    ],
+    "blocks": [
+        {
+            "name": "Icon Block",
+            "type": "image",
+            "settings": [
+                {
+                    "type": "text",
+                    "id": "icon-heading",
+                    "label": "Heading"
+                },
+                {
+                    "type": "image_picker",
+                    "id": "assurance-icons-img",
+                    "label": "Select Assurance Icons"
+                }
+            ]
+        }
+    ],
+    "presets": [
+        {
+            "name": "Assurance Icons",
+            "category":"home"
+        }
+    ]
 
-{% stylesheet %}
-{% endstylesheet %}
-
-{% javascript %}
-{% endjavascript %}
+}
+ {% endschema %}
