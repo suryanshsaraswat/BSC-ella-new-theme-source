@@ -140,7 +140,6 @@
         },
         "68a60bcb-ed2c-4822-9f42-0e97616d86a2": {
           "type": "megamenu_style_1",
-          "disabled": true,
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1200,
@@ -155,7 +154,6 @@
         },
         "220183ff-ca2d-436c-8c64-49874659a1a4": {
           "type": "megamenu_style_2",
-          "disabled": true,
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1200,
@@ -171,7 +169,6 @@
         },
         "efa5bd3e-8a85-4cbf-9722-69dd87d19580": {
           "type": "megamenu_style_3",
-          "disabled": true,
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1200,
@@ -192,7 +189,6 @@
         },
         "336ea1eb-b379-40fb-9335-af6984e86c4a": {
           "type": "megamenu_style_4",
-          "disabled": true,
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1200,
@@ -214,7 +210,6 @@
         },
         "f5efa6dd-aecb-406c-95e7-9e0e2db70e22": {
           "type": "megamenu_style_5",
-          "disabled": true,
           "settings": {
             "layout_block": "custom_width",
             "header_custom_width_size": 1200,
@@ -504,7 +499,6 @@
         "2d7ada73-6bfa-450e-9915-cd9b3e3c3b83",
         "35a78c4e-5d64-42fc-95b1-c6506b165f91"
       ],
-      "disabled": true,
       "settings": {
         "container": "full",
         "padding_full_width": 25,
@@ -697,7 +691,7 @@
             "menu_bottom_spacing": 14,
             "grid_gap_menu_item": 12,
             "alignment": "center",
-            "bg_mega_menu": "#fff",
+            "bg_mega_menu": "#ffffff",
             "bg_mega_menu_gradient": "",
             "lv_1_color": "#000000",
             "lv_1_color_hover": "#007684",
@@ -708,33 +702,33 @@
             "sale_item_1": "",
             "sale_item_2": "",
             "sale_item_3": "",
-            "sale_item_color": "#D12442",
+            "sale_item_color": "#d12442",
             "label_position": "none",
             "show_label_blink": false,
             "new_label_1": "",
             "new_label_2": "",
             "new_label_3": "",
-            "new_label_color": "#FFFFFF",
-            "new_label_bg": "#BAE4ED",
+            "new_label_color": "#ffffff",
+            "new_label_bg": "#bae4ed",
             "new_label_bg_gradient": "",
             "sale_label_1": "",
             "sale_label_2": "",
             "sale_label_3": "",
-            "sale_label_color": "#FFFFFF",
-            "sale_label_bg": "#D12442",
+            "sale_label_color": "#ffffff",
+            "sale_label_bg": "#d12442",
             "sale_label_bg_gradient": "",
             "hot_label_1": "",
             "hot_label_2": "",
             "hot_label_3": "",
-            "hot_label_color": "#FFFFFF",
-            "hot_label_bg": "#FFF993",
+            "hot_label_color": "#ffffff",
+            "hot_label_bg": "#fff993",
             "hot_label_bg_gradient": "",
             "vertical_menu_layout": "none",
             "vertical_menu": "main-menu",
             "title_categories": "",
             "title_categories_font_size": 12,
-            "title_categories_color": "#fff",
-            "icon_title_categories_color": "#fff",
+            "title_categories_color": "#ffffff",
+            "icon_title_categories_color": "#ffffff",
             "title_categories_bg": "#ea4d3d",
             "title_categories_bg_gradient": "",
             "view_all": "View All",
@@ -776,12 +770,28 @@
             "cart_count_bubble_bg": "#d12442",
             "cart_count_bubble_bg_gradient": ""
           }
+        },
+        "3ebe5dbe-2213-4431-bf0a-cbbdd4aa41b8": {
+          "type": "megamenu_style_1",
+          "settings": {
+            "layout_block": "custom_width",
+            "header_custom_width_size": 1200,
+            "item": "Razors for Men",
+            "column": 2,
+            "show_banner_1": false,
+            "banner_1": "shopify:\/\/shop_images\/1_5_0134f27d-16de-4d44-a070-0c165f11d12e.jpg",
+            "banner_url_1": "",
+            "show_product": false,
+            "product_title": "Featured Products",
+            "product_collection": ""
+          }
         }
       },
       "block_order": [
         "sections--16129471676570__ce2433d7-3aa5-4595-a01e-da6be5868d2d-logo-1",
         "sections--16129471676570__ce2433d7-3aa5-4595-a01e-da6be5868d2d-main_menu-1",
-        "sections--16129471676570__ce2433d7-3aa5-4595-a01e-da6be5868d2d-header_icons-1"
+        "sections--16129471676570__ce2433d7-3aa5-4595-a01e-da6be5868d2d-header_icons-1",
+        "3ebe5dbe-2213-4431-bf0a-cbbdd4aa41b8"
       ],
       "settings": {
         "container": "1370",
