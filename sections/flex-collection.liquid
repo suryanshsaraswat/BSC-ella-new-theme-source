@@ -28,6 +28,17 @@
     text-transform: capitalize;
     font-weight: 600;
 }
+  .button-coll a {
+    background: #fff;
+    display: block;
+    max-width: 100%;
+    width: 200px;
+    margin: 0 auto;
+    padding: 11px 28px;
+    font-size: 20px;
+    text-transform: uppercase;
+    box-shadow: 1px 1px 1px 1px #000;
+}
 </style>
 <section class="flex-box collection">
   {% for block in section.blocks %}
@@ -39,7 +50,7 @@
       <h2>{{ block.settings.collection-heading | escape }}</h2>
       <p>{{ block.settings.collection-body | escape }}</p>
       <div class="button-coll">
-        <a href="{{ block.settings.collection-url }}">{{ block.settings.button-label }}</a>
+        <a href="{{ block.settings.collection-url }}">SHOP NOW</a>
       </div>
     </div>
   </div>
