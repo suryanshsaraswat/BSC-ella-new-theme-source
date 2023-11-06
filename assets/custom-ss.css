@@ -83,6 +83,6 @@ span.d-off {
 }
 .section-block-template--16248334254234__bda24344-e786-4a75-ba3c-4c0a3798fb16 .halo-product-block .products-flex .product{flex:23% 0 0;}
 @media(max-width:450px){
-.section-block-template--16248334254234__bda24344-e786-4a75-ba3c-4c0a3798fb16 .halo-product-block .products-flex .product{flex: 80% 0 0;}      
-
+.section-block-template--16248334254234__bda24344-e786-4a75-ba3c-4c0a3798fb16 .halo-product-block .products-flex .product{flex: 80% 0 0;}   
+  .section-block-template--16248334254234__bda24344-e786-4a75-ba3c-4c0a3798fb16 .products-flex {gap:5px!important}
 }
