@@ -505,7 +505,7 @@
         "sticky_header_type": "always",
         "sticky_header_width": "full",
         "enable_transparent": false,
-        "transparent_color": "#0d5ea8",
+        "transparent_color": "#232323",
         "transparent_color_hover": "#0d5ea8"
       }
     },
