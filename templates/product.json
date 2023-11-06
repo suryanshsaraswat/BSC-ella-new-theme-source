@@ -160,19 +160,6 @@
             "custom_liquid": "{% render 'how-to-use'%}"
           }
         },
-        "b9d6eb19-10f4-41f8-bfdc-ea10e8b3182a": {
-          "type": "custom",
-          "settings": {
-            "open_tab_mobile": false,
-            "title": "Custom Tab",
-            "type": "all",
-            "content": "<table>\n    <tbody>\n        <tr>\n            <td class=\"tb-title\">Drostique<\/td>\n            <td>Nam tempus turpis at metus scelerisque placerat nulla deumantos<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"tb-title\">Pharetro Lorem<\/td>\n            <td>Pellentesque diam dolor elementum etos lobortis des mollis<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"tb-title\">Milancelos<\/td>\n            <td>Donec pretium egestas sapien et mollis<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"tb-title\">Pellentesque<\/td>\n            <td>Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"tb-title\">Proin Molestie<\/td>\n            <td>Pellentesque diam dolor elementum etos lobortis des mollis<\/td>\n        <\/tr>\n        <tr>\n            <td class=\"tb-title\">Cosmopolis<\/td>\n            <td>Donec pretium egestas sapien et mollis<\/td>\n        <\/tr>\n    <\/tbody>\n<\/table>",
-            "enable_btn_show_more": false,
-            "maximum_des_to_show": 300,
-            "product_custom_source": "dynamic",
-            "product_tab_key_metafield": ""
-          }
-        },
         "faebbc78-6094-4bc0-a917-80dbfbf5ef3c": {
           "type": "review",
           "disabled": true,
@@ -195,7 +182,7 @@
           "type": "description",
           "settings": {
             "open_tab_mobile": true,
-            "title": "",
+            "title": "Additional Description",
             "enable_btn_show_more": false,
             "maximum_des_to_show": 300
           }
@@ -215,7 +202,6 @@
         "d98e243b-3682-495a-965a-1c7f7d460880",
         "3d9ea84d-5527-4bce-abe6-5debef3ec955",
         "02a1b9b5-e603-451a-9b42-04bda0122f06",
-        "b9d6eb19-10f4-41f8-bfdc-ea10e8b3182a",
         "faebbc78-6094-4bc0-a917-80dbfbf5ef3c",
         "19ab1d9f-74b2-4c76-bf2e-1bc749e5c2a3",
         "b5652ccb-191f-48d6-a847-d01d2f3960d0"
