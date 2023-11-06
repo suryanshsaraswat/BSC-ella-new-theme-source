@@ -886,77 +886,6 @@
         "content_gradient": ""
       }
     },
-    "7e98ee7d-24e6-4a6c-85eb-14a791023076": {
-      "type": "customer-review-block",
-      "blocks": {
-        "3de8fbcb-0d02-48ac-92d0-fcc36dbaaa2f": {
-          "type": "review",
-          "settings": {
-            "avatar": "shopify:\/\/shop_images\/Artboard4_3a30ff70-314f-4446-8d34-1ebf1b20c409.jpg",
-            "heading": "Awesome...",
-            "sub_heading": "",
-            "rating": "star5",
-            "name": "",
-            "date": "Wednesday, Jan 26, 2019",
-            "body": "Nam tempus turpis at metus scelerisque placerat nulla deumantos delo sollicitudin delos felis. Pellentesque diam dolor an elementum et lobortis at mollis ut risus. Curabitur semper sagittis mi condimentum..."
-          }
-        }
-      },
-      "block_order": [
-        "3de8fbcb-0d02-48ac-92d0-fcc36dbaaa2f"
-      ],
-      "settings": {
-        "container": "container",
-        "padding_full_width": 0,
-        "section_style": "style_1",
-        "mg_top_desktop": 10,
-        "mg_top_tablet": 10,
-        "mg_top_mobile": 10,
-        "mg_bottom_desktop": 10,
-        "mg_bottom_tablet": 10,
-        "mg_bottom_mobile": 10,
-        "review_bg": "#fafafa",
-        "review_bg_gradient": "",
-        "review_title": "Top Reviews",
-        "color_title": "#232323",
-        "mg_bottom_title": 18,
-        "fontsize_title": 16,
-        "fontsize_title_mb": 16,
-        "review_des": "",
-        "color_des": "#3c3c3c",
-        "margin_bottom_des": 35,
-        "fontsize_des": 16,
-        "title_align": "center",
-        "block_layout_style": "layout1",
-        "review_rows": "1",
-        "show_arrow": true,
-        "avatar_margin_bottom": 10,
-        "color_heading": "#202020",
-        "fontsize_heading": 20,
-        "heading_margin_bottom": 14,
-        "heading_font_weight": "400",
-        "color_sub_heading": "#808080",
-        "fontsize_sub_heading": 13,
-        "sub_heading_margin_bottom": 20,
-        "color_name": "#202020",
-        "fontsize_name": 14,
-        "color_date": "#808080",
-        "fontsize_date": 13,
-        "color_body": "#202020",
-        "fontsize_body": 16,
-        "body_margin_bottom": 24,
-        "color_icon": "#ffffff",
-        "bg_color_icon": "#cbcbcb",
-        "star_margin_bottom": 0,
-        "show_avatar": true,
-        "start_position": "below_title",
-        "star_color": "",
-        "scroll_height": 4,
-        "scroll_track_bg": "#f1f1f1",
-        "scroll_thumb_color": "#000000",
-        "scroll_thumb_hover_color": "#444444"
-      }
-    },
     "0f408bdc-ec2a-40f6-b1b6-e7072c4f4dd0": {
       "type": "assurance-icons",
       "blocks": {
@@ -1023,6 +952,100 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "ab456f26-e418-4567-91eb-f03bf6dfd2ca": {
+      "type": "product-tab-block",
+      "blocks": {
+        "9cad58e7-ad62-4328-8a74-d171a0cb41a2": {
+          "type": "ProductTabs",
+          "settings": {
+            "title": "BestSeller",
+            "collection": "best-seller"
+          }
+        },
+        "5b556c86-71b9-4b55-8293-9453ab0c5763": {
+          "type": "ProductTabs",
+          "settings": {
+            "title": "New Arrivals",
+            "collection": "new-arrivals"
+          }
+        },
+        "e36e24fc-0eb4-4248-8ed3-76e8b65d2d00": {
+          "type": "ProductTabs",
+          "settings": {
+            "title": "Womens",
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "9cad58e7-ad62-4328-8a74-d171a0cb41a2",
+        "5b556c86-71b9-4b55-8293-9453ab0c5763",
+        "e36e24fc-0eb4-4248-8ed3-76e8b65d2d00"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50,
+        "product_block_layout": "grid",
+        "product_block_title": "Trending Now",
+        "fontsize_title": 16,
+        "fontsize_title_mb": 16,
+        "mg_bottom_title": 12,
+        "enable_border_title": true,
+        "border_color_title": "#232323",
+        "enable_border_title2": false,
+        "border_color_title2": "#232323",
+        "color_title": "#232323",
+        "title_align": "center",
+        "product_block_limit": 8,
+        "product_block_per_row": "4",
+        "product_block_infinite_scroll": true,
+        "min_width_button": "",
+        "product_block_dots": false,
+        "product_block_dots_mb": true,
+        "product_block_arrows": true,
+        "product_block_arrows_mb": false,
+        "product_block_show": "5",
+        "product_block_per_view": "4",
+        "show_half": true,
+        "scroll_height": 4,
+        "scroll_track_bg": "#f1f1f1",
+        "scroll_thumb_color": "#000",
+        "scroll_thumb_hover_color": "#444",
+        "enable_hover_drag_icon": true,
+        "position": "left",
+        "width_banner": 20,
+        "tab_title_style": "style_1",
+        "mg_bottom_title_tab": 24,
+        "type_tab_font": "font_1",
+        "separation": true,
+        "style_separation": "style1",
+        "color_separation": "",
+        "enable_scroll_title": true,
+        "fontsize_tab": 14,
+        "fontsize_tab_mb": 14,
+        "font_weight_tab": "700",
+        "font_weight_active_tab": "700",
+        "spacing_between_title": 24,
+        "line_height_tab": 20,
+        "line_height_tab_mobile": 24,
+        "border_tab_radius": 3,
+        "min_width_tab": 5,
+        "border_width_tab": 3,
+        "color_tab": "#232323",
+        "border_color_tab": "",
+        "bg_color_tab": "#fff",
+        "bg_color_gradient_tab": "",
+        "color_tab_active": "#232323",
+        "bg_color_tab_active": "#f8f8f8",
+        "bg_color_gradient_tab_active": ""
+      }
     }
   },
   "order": [
@@ -1032,8 +1055,8 @@
     "163247026462da6862",
     "85e819e7-69b0-4232-b7ff-91b234d3fcc7",
     "9de6c008-597e-4b4d-b585-63a59f43dbb8",
-    "7e98ee7d-24e6-4a6c-85eb-14a791023076",
     "0f408bdc-ec2a-40f6-b1b6-e7072c4f4dd0",
-    "1690173358ccd0568e"
+    "1690173358ccd0568e",
+    "ab456f26-e418-4567-91eb-f03bf6dfd2ca"
   ]
 }
