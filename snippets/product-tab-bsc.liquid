@@ -76,7 +76,27 @@
 							</div>
 							<div class="tab-popup-content">
 						{%- endif -%}
+							{%- if block.type == 'review' -%}
+                <!-- Start of Judge.me code -->
+      <div style='clear:both'></div>
+      <div id='judgeme_product_reviews' class='jdgm-widget jdgm-review-widget' data-product-title='{{ product.title | escape }}' data-id='{{ product.id }}' data-auto-install='false'>
+        {{ product.metafields.judgeme.widget }}
+      </div>
+      <!-- End of Judge.me code -->
+								<div class="productView-review" id="shopify-product-reviews" data-id="{{ product.id }}">
+							{%- endif -%}
 							{{ content }}
+							{%- if block.settings.enable_btn_show_more -%}
+								{% assign letter = content | size %}
+								<div class="tab-showMore is-show" data-letter="{{ letter }}" data-des-max="{{ block.settings.maximum_des_to_show }}">
+									<a class="button button--secondary" href="#tab-{{ title | escape | handleize }}-mobile" data-show-more-text="{{ 'products.product.read_more' | t }}" data-show-less-text="{{ 'products.product.read_less' | t }}" data-show-more-toogle> 
+										{{ 'products.product.read_more' | t }}
+									</a>
+								</div>
+							{%- endif -%}
+							{%- if block.type == 'review' -%}
+								</div>
+							{%- endif -%}
 						{%- if tab_layout == 'vertical_sidebar' or style_mobile == 'sidebar-mobile' or style_mobile == 'popup-mobile' -%}
 							</div>
 						{%- endif -%}
