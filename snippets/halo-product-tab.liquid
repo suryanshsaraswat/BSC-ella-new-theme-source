@@ -49,7 +49,7 @@
 				-%}
 				{%- if has_tab and title != blank -%}
 					<li class="tab">
-			            <a {% if block.settings.title == 'Review' %}  id="judgebutton" {% endif %} class="tab-title{% if block.type == 'description' and tab_layout == 'horizontal' %} is-open{% endif %}" href="#tab-{{ block.settings.title | escape | handleize }}" style="--border-color: {{ border_color }}">
+			            <a class="tab-title{% if block.type == 'description' and tab_layout == 'horizontal' %} is-open{% endif %}" href="#tab-{{ block.settings.title | escape | handleize }}" style="--border-color: {{ border_color }}">
 			                {{ block.settings.title | escape }}
 			            </a>
 			        </li>
@@ -114,7 +114,7 @@
 					<div class="toggle-title{% if settings.product_page_layout == 'full_width_2' or template.suffix == 'template-full-width-2' %} title-content-full{% endif %}">
 		                <a class="toggleLink{% if style_mobile %} {{ style_mobile }}{% endif %}" data-collapsible href="#tab-{{ title | escape | handleize }}-mobile">
 		                    <span class="text">
-		                        Frequenty Asked Questions
+		                        {{ title | escape }}
 		                    </span>
 		                    {% if icon_style_layout == 'style_1' %}	
 			                    <span class="icon-dropdown">
@@ -140,12 +140,6 @@
 							<div class="tab-popup-content">
 						{%- endif -%}
 							{%- if block.type == 'review' -%}
-                <!-- Start of Judge.me code -->
-      <div style='clear:both'></div>
-      <div id='judgeme_product_reviews' class='jdgm-widget jdgm-review-widget' data-product-title='{{ product.title | escape }}' data-id='{{ product.id }}' data-auto-install='false'>
-        {{ product.metafields.judgeme.widget }}
-      </div>
-      <!-- End of Judge.me code -->
 								<div class="productView-review" id="shopify-product-reviews" data-id="{{ product.id }}">
 							{%- endif -%}
 							{{ content }}
