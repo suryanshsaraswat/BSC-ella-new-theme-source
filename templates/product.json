@@ -127,7 +127,6 @@
         },
         "b5652ccb-191f-48d6-a847-d01d2f3960d0": {
           "type": "description",
-          "disabled": true,
           "settings": {
             "open_tab_mobile": true,
             "title": "Additional Description",
