@@ -522,7 +522,7 @@
                                             {% endif %}
                                         </div>
                     </div>
-                    
+                    {% if product.metafields.custom.byline!=blank %}<div class="byline-mobile">{{ product.metafields.custom.byline }}</div>{% endif %}
                   </div>
                     <div class="halo-productView-left productView-images clearfix" data-image-gallery>
                         {%- if main_image_show_custom_cursor -%}
