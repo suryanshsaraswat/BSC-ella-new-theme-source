@@ -1,5 +1,4 @@
-{% if product.metafields.custom.byline != blank %}
+
 <div class="pr-byline">
-  <p>{{ product.metafields.custom.byline }}</p>
+  {% if product.metafields.custom.byline != blank %}<p>{{ product.metafields.custom.byline }}</p>{% endif %}
 </div>
-{% endif %}
