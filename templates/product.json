@@ -143,8 +143,8 @@
             "content": "",
             "enable_btn_show_more": false,
             "maximum_des_to_show": 300,
-            "product_custom_source": "dynamic",
-            "product_tab_key_metafield": ""
+            "product_custom_source": "key_text",
+            "product_tab_key_metafield": "faq"
           }
         },
         "b0dd2483-3dc8-4536-be9d-5f9bdb6dedc1": {
