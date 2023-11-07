@@ -199,6 +199,11 @@
             "product_custom_source": "dynamic",
             "product_tab_key_metafield": ""
           }
+        },
+        "b0dd2483-3dc8-4536-be9d-5f9bdb6dedc1": {
+          "type": "custm-faq",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -218,7 +223,8 @@
         "faebbc78-6094-4bc0-a917-80dbfbf5ef3c",
         "19ab1d9f-74b2-4c76-bf2e-1bc749e5c2a3",
         "b5652ccb-191f-48d6-a847-d01d2f3960d0",
-        "c1907bae-cb0e-425f-81e0-92e3489f7332"
+        "c1907bae-cb0e-425f-81e0-92e3489f7332",
+        "b0dd2483-3dc8-4536-be9d-5f9bdb6dedc1"
       ],
       "settings": {
         "container": "container",
