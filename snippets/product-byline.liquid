@@ -1,4 +1,18 @@
-
+<style>
+  .pr-byline p {
+    font-size: 17px;
+    margin-top: 11px;
+    color: #0d5ea891;
+    text-transform: lowercase;
+    font-weight: 400;
+    font-style: italic;
+    letter-spacing: 1px;
+    display:block
+}
+  @media(max-width:450px){
+    .pr-byline p{display:none}
+  }
+</style>
 <div class="pr-byline">
   {% if product.metafields.custom.byline != blank %}<p>{{ product.metafields.custom.byline }}</p>{% endif %}
 </div>
