@@ -122,7 +122,7 @@
         "02a1b9b5-e603-451a-9b42-04bda0122f06": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% render 'how-to-use'%}"
+            "custom_liquid": ""
           }
         },
         "b5652ccb-191f-48d6-a847-d01d2f3960d0": {
