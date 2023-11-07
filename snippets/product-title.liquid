@@ -32,6 +32,7 @@
         </span>
     </h1>
 {%- endif -%}
+{% if product.metafields.custom.byline!=blank %}<div class="byline-mobile">{{ product.metafields.custom.byline }}</div>{% endif %}
 <!-- Start of Judge.me code -->
       <div style='{{ jm_style }}' class='jdgm-widget jdgm-preview-badge' data-id='{{ product.id }}' data-auto-install='false'>
         {{ product.metafields.judgeme.badge }}
