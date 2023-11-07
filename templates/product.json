@@ -16,7 +16,7 @@
         "aa2ffeb6-5755-4925-ac26-b53dc1555544": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": ""
+            "custom_liquid": "{% render 'product-byline %}"
           }
         },
         "2e8c7c14-a0ad-4930-a1d8-3def05310426": {
