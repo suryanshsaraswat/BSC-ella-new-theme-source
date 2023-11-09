@@ -10,7 +10,10 @@
   .heading.halo-block-header.text-center.block-title--style3 h2::before {
     background: #0d5ea7;
 }
-  .heading.halo-block-header.text-center.block-title--style3 h2{color:#0d5ea8}
+  .heading.halo-block-header.text-center.block-title--style3 h2{color:#0d5ea8;font-size:21px}
+  @media(max-width:450px){
+    .heading.halo-block-header.text-center.block-title--style3 h2{font-size:16px}
+  }
 </style>
 <div class="assurance-icons-parent">
     {% if section.settings.assurance-heading != blank %} <div class="heading halo-block-header text-center block-title--style3 ">
