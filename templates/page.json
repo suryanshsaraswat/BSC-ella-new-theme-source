@@ -411,7 +411,7 @@
           "settings": {
             "sub_heading": "TRADEMARKS & LOGOS",
             "font_weight_sub_heading": "700",
-            "sub_heading_size": 14,
+            "sub_heading_size": 18,
             "margin_top_sub_heading": 10,
             "sub_heading_color": "#000"
           }
@@ -588,6 +588,316 @@
         "rich_text_bg": "#fff",
         "rich_text_bg_gradient": ""
       }
+    },
+    "d679d9a8-0f0e-48ed-9f3e-4908d1fde6af": {
+      "type": "rich-text",
+      "blocks": {
+        "75d8ddc3-bc9a-4761-9716-c5feff32e899": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "INDEMNITY",
+            "font_weight_sub_heading": "700",
+            "sub_heading_size": 18,
+            "margin_top_sub_heading": 10,
+            "sub_heading_color": "#000"
+          }
+        },
+        "e0234581-cd2a-4bb4-a122-7aeb46404605": {
+          "type": "content",
+          "settings": {
+            "content_top": "bombayshavingcompany.com, its officers, directors, shareholders, parents, subsidiaries, affiliates, employees, or joint venture partner are not liable to you for any incidental, indirect, consequential, special, punitive, or exemplary damages and\/or costs of any kind, arising from your use of this website or your breach of these terms.",
+            "content_bottom": "",
+            "alignment_content": "left",
+            "content_size": 13,
+            "margin_top_content": 20,
+            "content_color": "#000",
+            "content_width": "800px",
+            "button_text_more": "Read More",
+            "button_text_less": "Read Less",
+            "button_text_font_size": 14,
+            "button_text_font_weight": "500",
+            "margin_top_button_text": 30,
+            "button_text_color": "#fff",
+            "button_text_border_color": "#000",
+            "button_text_bg_color": "#000",
+            "button_text_bg_color_gradient": "",
+            "button_text_color_hover": "#000",
+            "button_text_border_color_hover": "#000",
+            "button_text_bg_color_hover": "#fff",
+            "button_text_bg_color_hover_gradient": "",
+            "button_text_more_width": 270,
+            "pd_top_button_text": 12,
+            "pd_bottom_button_text": 12
+          }
+        }
+      },
+      "block_order": [
+        "75d8ddc3-bc9a-4761-9716-c5feff32e899",
+        "e0234581-cd2a-4bb4-a122-7aeb46404605"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "enable_border_top": false,
+        "enable_border_bottom": false,
+        "color_border_bottom": "#e8e8e8",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50,
+        "rich_text_bg": "#fff",
+        "rich_text_bg_gradient": ""
+      }
+    },
+    "06c22d66-876e-4f2f-88c6-d8d5551a88be": {
+      "type": "rich-text",
+      "blocks": {
+        "2b4cf554-d6f5-44b2-8ba3-ef95576ccab0": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "LIMITATION OF LIABILITY",
+            "font_weight_sub_heading": "700",
+            "sub_heading_size": 18,
+            "margin_top_sub_heading": 10,
+            "sub_heading_color": "#000"
+          }
+        },
+        "3ea02cfb-f929-494e-bcce-ef416ceb68eb": {
+          "type": "content",
+          "settings": {
+            "content_top": "In any event the liability of bombayshavingcompany.com, for any loss or damage caused to you, whether direct or indirect, shall not exceed the amounts already paid by you to the bombayshavingcompany.com in relation to the purchase of Offerings through your Account. bombayshavingcompany.com will not be liable in any way for loss, damage, costs or expenses (including loss of profit) arising directly or indirectly from any failure or delay in performing any obligation under this Contract by reason of any event or circumstance outside the reasonable control of bombayshavingcompany.com, including (but not limited to), any strikes, industrial action, failure of power supplies or equipment, government action or Act of God. This limitation of liability section shall prevail over any conflicting or inconsistent provision contained in any of the documents comprising this Agreement. We suggest you take precautions to ensure that whatever you select for your use is free of such items as viruses, worms, Trojan horses and other items of destructive nature. While availing any of the payment method\/s offered by bombayshavingcompany.com, bombayshavingcompany.com is not responsible or takes no liability of any kind in respect to any loss or damage arising directly or indirectly to you out of the decline due to: Lack of authorization for any transaction\/s, or Exceeding the preset limit mutually agreed by you and between your \"Bank\/s\" and\/or Service Provider\/s, or Any payment issues arising out of the transaction, or Decline of transaction for any other reason\/s.",
+            "content_bottom": "",
+            "alignment_content": "left",
+            "content_size": 13,
+            "margin_top_content": 20,
+            "content_color": "#000",
+            "content_width": "800px",
+            "button_text_more": "Read More",
+            "button_text_less": "Read Less",
+            "button_text_font_size": 14,
+            "button_text_font_weight": "500",
+            "margin_top_button_text": 30,
+            "button_text_color": "#fff",
+            "button_text_border_color": "#000",
+            "button_text_bg_color": "#000",
+            "button_text_bg_color_gradient": "",
+            "button_text_color_hover": "#000",
+            "button_text_border_color_hover": "#000",
+            "button_text_bg_color_hover": "#fff",
+            "button_text_bg_color_hover_gradient": "",
+            "button_text_more_width": 270,
+            "pd_top_button_text": 12,
+            "pd_bottom_button_text": 12
+          }
+        }
+      },
+      "block_order": [
+        "2b4cf554-d6f5-44b2-8ba3-ef95576ccab0",
+        "3ea02cfb-f929-494e-bcce-ef416ceb68eb"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "enable_border_top": false,
+        "enable_border_bottom": false,
+        "color_border_bottom": "#e8e8e8",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50,
+        "rich_text_bg": "#fff",
+        "rich_text_bg_gradient": ""
+      }
+    },
+    "51e81d19-6aa4-4714-89da-7f34abe0b1e2": {
+      "type": "rich-text",
+      "blocks": {
+        "2a11e757-2a06-4f50-a456-68b042e94141": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "PAID OFFERINGS",
+            "font_weight_sub_heading": "700",
+            "sub_heading_size": 18,
+            "margin_top_sub_heading": 10,
+            "sub_heading_color": "#000"
+          }
+        },
+        "7a2f3d8c-aaaa-45fc-8452-dc1a4a5a5d94": {
+          "type": "content",
+          "settings": {
+            "content_top": "Certain of our Offerings, including the purchase of any products offered by us, may be subject to payments now or in the future (the “Paid Offerings”). Please note that any payment terms presented to you in the process of using or signing up for a Paid Service are deemed part of this Agreement.",
+            "content_bottom": "",
+            "alignment_content": "left",
+            "content_size": 13,
+            "margin_top_content": 20,
+            "content_color": "#000",
+            "content_width": "800px",
+            "button_text_more": "Read More",
+            "button_text_less": "Read Less",
+            "button_text_font_size": 14,
+            "button_text_font_weight": "500",
+            "margin_top_button_text": 30,
+            "button_text_color": "#fff",
+            "button_text_border_color": "#000",
+            "button_text_bg_color": "#000",
+            "button_text_bg_color_gradient": "",
+            "button_text_color_hover": "#000",
+            "button_text_border_color_hover": "#000",
+            "button_text_bg_color_hover": "#fff",
+            "button_text_bg_color_hover_gradient": "",
+            "button_text_more_width": 270,
+            "pd_top_button_text": 12,
+            "pd_bottom_button_text": 12
+          }
+        }
+      },
+      "block_order": [
+        "2a11e757-2a06-4f50-a456-68b042e94141",
+        "7a2f3d8c-aaaa-45fc-8452-dc1a4a5a5d94"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "enable_border_top": false,
+        "enable_border_bottom": false,
+        "color_border_bottom": "#e8e8e8",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50,
+        "rich_text_bg": "#fff",
+        "rich_text_bg_gradient": ""
+      }
+    },
+    "0211b5c7-6bda-4f04-be6b-e40d59fb5975": {
+      "type": "rich-text",
+      "blocks": {
+        "f871f117-674d-4db5-9341-d3ce2b1fb5ed": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "BILLING",
+            "font_weight_sub_heading": "700",
+            "sub_heading_size": 18,
+            "margin_top_sub_heading": 10,
+            "sub_heading_color": "#000"
+          }
+        },
+        "3357af71-e047-4cdf-b7bb-f95a09c5e69f": {
+          "type": "content",
+          "settings": {
+            "content_top": "We use a third-party payment processor (the “Payment Processor”) to bill you through a payment account linked to your Account on the Offerings (your “Billing Account”) for use of the Paid Offerings. The processing of payments will be subject to the terms, conditions and privacy policies of the Payment Processor in addition to this Agreement. We are not responsible for errors by the Payment Processor. By choosing to use Paid Offerings, you agree to pay us, through the Payment Processor, all charges at the prices then in effect for any use of such Paid Offerings in accordance with the applicable payment terms and you authorize us, through the Payment Processor, to charge your chosen payment provider (your “Payment Method”). You agree to make payments using that selected Payment Method. We reserve the right to correct any errors or mistakes that it makes even if it has already requested or received payment.",
+            "content_bottom": "",
+            "alignment_content": "left",
+            "content_size": 13,
+            "margin_top_content": 20,
+            "content_color": "#000",
+            "content_width": "800px",
+            "button_text_more": "Read More",
+            "button_text_less": "Read Less",
+            "button_text_font_size": 14,
+            "button_text_font_weight": "500",
+            "margin_top_button_text": 30,
+            "button_text_color": "#fff",
+            "button_text_border_color": "#000",
+            "button_text_bg_color": "#000",
+            "button_text_bg_color_gradient": "",
+            "button_text_color_hover": "#000",
+            "button_text_border_color_hover": "#000",
+            "button_text_bg_color_hover": "#fff",
+            "button_text_bg_color_hover_gradient": "",
+            "button_text_more_width": 270,
+            "pd_top_button_text": 12,
+            "pd_bottom_button_text": 12
+          }
+        }
+      },
+      "block_order": [
+        "f871f117-674d-4db5-9341-d3ce2b1fb5ed",
+        "3357af71-e047-4cdf-b7bb-f95a09c5e69f"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "enable_border_top": false,
+        "enable_border_bottom": false,
+        "color_border_bottom": "#e8e8e8",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50,
+        "rich_text_bg": "#fff",
+        "rich_text_bg_gradient": ""
+      }
+    },
+    "0f056e97-2418-4475-8fc3-04057f0e7285": {
+      "type": "rich-text",
+      "blocks": {
+        "bae67b3c-0541-42a3-b170-7d7d0dc5b4cf": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "",
+            "font_weight_sub_heading": "700",
+            "sub_heading_size": 14,
+            "margin_top_sub_heading": 10,
+            "sub_heading_color": "#000"
+          }
+        },
+        "d454f037-1a99-4191-86a7-421ddb8b7d47": {
+          "type": "content",
+          "settings": {
+            "content_top": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "content_bottom": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "alignment_content": "center",
+            "content_size": 16,
+            "margin_top_content": 20,
+            "content_color": "#000",
+            "content_width": "800px",
+            "button_text_more": "Read More",
+            "button_text_less": "Read Less",
+            "button_text_font_size": 14,
+            "button_text_font_weight": "500",
+            "margin_top_button_text": 30,
+            "button_text_color": "#fff",
+            "button_text_border_color": "#000",
+            "button_text_bg_color": "#000",
+            "button_text_bg_color_gradient": "",
+            "button_text_color_hover": "#000",
+            "button_text_border_color_hover": "#000",
+            "button_text_bg_color_hover": "#fff",
+            "button_text_bg_color_hover_gradient": "",
+            "button_text_more_width": 270,
+            "pd_top_button_text": 12,
+            "pd_bottom_button_text": 12
+          }
+        }
+      },
+      "block_order": [
+        "bae67b3c-0541-42a3-b170-7d7d0dc5b4cf",
+        "d454f037-1a99-4191-86a7-421ddb8b7d47"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "enable_border_top": false,
+        "enable_border_bottom": false,
+        "color_border_bottom": "#e8e8e8",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50,
+        "rich_text_bg": "#fff",
+        "rich_text_bg_gradient": ""
+      }
     }
   },
   "order": [
@@ -600,6 +910,11 @@
     "3b232789-1766-4597-a302-b609549e05a4",
     "27015c3d-3821-44b3-8d49-c8e09f8d0b77",
     "f2097888-9c1f-46e4-b23b-0ad2e80f716c",
-    "9590c38a-b44a-4c24-b24e-80eaa6416f5c"
+    "9590c38a-b44a-4c24-b24e-80eaa6416f5c",
+    "d679d9a8-0f0e-48ed-9f3e-4908d1fde6af",
+    "06c22d66-876e-4f2f-88c6-d8d5551a88be",
+    "51e81d19-6aa4-4714-89da-7f34abe0b1e2",
+    "0211b5c7-6bda-4f04-be6b-e40d59fb5975",
+    "0f056e97-2418-4475-8fc3-04057f0e7285"
   ]
 }
