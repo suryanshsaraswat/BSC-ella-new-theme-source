@@ -25,7 +25,7 @@
             "collection_description_color": "#232323",
             "collection_description_bg": "#ffffff",
             "collection_description_bg_gradient": "",
-            "show_sub_collection": false,
+            "show_sub_collection": true,
             "sub_collection_layout": "grid",
             "maxheight_sub_collection": 90,
             "sub_collection_description_position": "relative",
