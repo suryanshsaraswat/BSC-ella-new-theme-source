@@ -1,1 +1,101 @@
-{"sections":{"main":{"type":"main-page","settings":{}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "a130c6b6-5958-40ca-8b92-2ea277a78f54": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16129473314970__a130c6b6-5958-40ca-8b92-2ea277a78f54-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Terms & Conditions",
+            "heading_size": 30,
+            "heading_size_mb": 30,
+            "heading_color": "#000"
+          }
+        },
+        "20a12861-187d-41f7-ac50-fde8ef018c43": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "INTRODUCTION",
+            "font_weight_sub_heading": "700",
+            "sub_heading_size": 14,
+            "margin_top_sub_heading": 10,
+            "sub_heading_color": "#000"
+          }
+        },
+        "602a5d14-1105-4c02-8ba9-7273931dd20b": {
+          "type": "content",
+          "settings": {
+            "content_top": "Welcome to bombayshavingcompany.com, a web-site affiliated to Visage Lines Personal Care Pvt Ltd. Please read these Terms and Conditions (collectively with “Privacy Policy”) fully and carefully before using www.bombayshavingcompany.com (the “Site”) and the features, content, applications, or products offered by Visage Lines Personal Care Pvt Ltd. (hereinafter referred to as “Bombay Shaving Company”, “Company”, “we”, “our” or “us”) (together with the Site, the “Offerings”). These Terms & Conditions set forth the legally binding terms and conditions for your use of the Site and the Offerings. Bombay Shaving Company solely reserves the right to accept, reject and remove users from registrations on the website & related web assets without stating any reason thereof. We reserve the right to restrict access to some parts or all of this Website. Bombay Shaving Company solely reserves the right to accept, reject or cancel any order after order confirmation.",
+            "content_bottom": "",
+            "alignment_content": "left",
+            "content_size": 13,
+            "margin_top_content": 20,
+            "content_color": "#000",
+            "content_width": "800px",
+            "button_text_more": "Read More",
+            "button_text_less": "Read Less",
+            "button_text_font_size": 14,
+            "button_text_font_weight": "500",
+            "margin_top_button_text": 30,
+            "button_text_color": "#fff",
+            "button_text_border_color": "#000",
+            "button_text_bg_color": "#000",
+            "button_text_bg_color_gradient": "",
+            "button_text_color_hover": "#000",
+            "button_text_border_color_hover": "#000",
+            "button_text_bg_color_hover": "#fff",
+            "button_text_bg_color_hover_gradient": "",
+            "button_text_more_width": 270,
+            "pd_top_button_text": 12,
+            "pd_bottom_button_text": 12
+          }
+        },
+        "template--16129473314970__a130c6b6-5958-40ca-8b92-2ea277a78f54-social_media-1": {
+          "type": "social_media",
+          "disabled": true,
+          "settings": {
+            "social_spacing_top": 0,
+            "social_spacing_bottom": 0,
+            "social_icon_color": "",
+            "social_icon_background_color": "",
+            "social_icon_background_gradient": "",
+            "social_icon_hover_color": "",
+            "social_icon_background_hover_color": "",
+            "social_icon_background_hover_gradient": "",
+            "social_icon_ring_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16129473314970__a130c6b6-5958-40ca-8b92-2ea277a78f54-heading-1",
+        "20a12861-187d-41f7-ac50-fde8ef018c43",
+        "602a5d14-1105-4c02-8ba9-7273931dd20b",
+        "template--16129473314970__a130c6b6-5958-40ca-8b92-2ea277a78f54-social_media-1"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "enable_border_top": false,
+        "enable_border_bottom": false,
+        "color_border_bottom": "#e8e8e8",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50,
+        "rich_text_bg": "#fff",
+        "rich_text_bg_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a130c6b6-5958-40ca-8b92-2ea277a78f54"
+  ]
+}
