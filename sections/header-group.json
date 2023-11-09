@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "<div class=\"message\">\n  MID-SEASON SALE UP TO 70% OFF. <a href=\"\/collections\/all\" alt=\"Shop Now\">SHOP NOW<\/a>\n<\/div>",
+            "text": "<p>mid-season sale up to 70% off <a href=\"\/collections\/all\" alt=\"Shop Now\">shop now<\/a>\n<\/p>",
             "btn_color": "#cc0e14",
             "btn_border_color": "#2da116",
             "btn_bg_color": "#727272",
@@ -28,7 +28,7 @@
         "6971e150-cc58-4208-97e1-6224cd7a9464": {
           "type": "announcement",
           "settings": {
-            "text": "<p>Welcome to our store<\/p>",
+            "text": "<p style=\"padding:0\">Welcome to our store<\/p>",
             "btn_color": "#f84248",
             "btn_border_color": "#ffffff",
             "btn_bg_color": "#ffffff",
