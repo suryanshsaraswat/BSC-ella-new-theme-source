@@ -85,5 +85,7 @@ span.d-off {
 @media(max-width:450px){
 .section-block-template--16248334254234__bda24344-e786-4a75-ba3c-4c0a3798fb16 .halo-product-block .products-flex .product{flex: 80% 0 0;}   
   .section-block-template--16248334254234__bda24344-e786-4a75-ba3c-4c0a3798fb16 .products-flex {gap:5px!important}
+  .header-mobile--wrapper {grid-gap:min(16px,7%)}
+
 }
 .announcement-bar__message h1,.announcement-bar__message h2,.announcement-bar__message h3,.announcement-bar__message h4,.announcement-bar__message h5,.announcement-bar__message h6,.announcement-bar__message p,.announcement-bar__message span,.announcement-bar__message a{padding:0}
