@@ -776,11 +776,11 @@
         "collection_bg_color_gradient": "",
         "text_list": "View all categories",
         "url_list": "",
-        "enable_layout_special": false,
+        "enable_layout_special": true,
         "bg_card": "#ffffff",
         "padding_card": 15,
         "border_radius_card": 5,
-        "border_layout_card": "full",
+        "border_layout_card": "only_bottom",
         "border_width_card": 5,
         "border_color_card": "#f0f1f4"
       }
