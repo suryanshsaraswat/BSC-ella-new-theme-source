@@ -10,12 +10,12 @@
             "show_bg_overlay": false,
             "type": "full",
             "image": "shopify:\/\/shop_images\/Perfumes.jpg",
-            "image_mobile": "{{ collection.metafields.custom.mobile_banner.value }}",
             "bg_overlay": "#000000"
           }
         },
         "9147d182-d0c6-4b47-ad9e-97ad5cd6ae5a": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "show_collection_description": true,
             "show_read_more_read_less": true,
@@ -169,7 +169,7 @@
         "mg_bottom_mobile": 0,
         "show_sidebar": true,
         "show_sidebar_collapse": true,
-        "enable_sticky": false,
+        "enable_sticky": true,
         "sidebar_layout": "layout_2",
         "sidebar_collapse_default": "expand",
         "sidebar_type": "horizontal",
