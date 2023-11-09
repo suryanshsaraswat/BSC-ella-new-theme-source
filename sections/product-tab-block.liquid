@@ -261,10 +261,13 @@
                                                     {%- if layout == 'grid' -%}
                                                         {%- liquid
                                                             assign product_limit = 0
+                                                           assign product_limit = limit
                                                             assign column = section.settings.product_block_per_row
                                                             if infinite_scroll
                                                                 assign product_limit = limit
+                                                                
                                                             endif
+                                                      
                                                         -%}
                                                         <div class="products-grid products-load column-{{ column }}{% if swipe %} slider slider--tablet grid grid--peek{% endif %}" data-products-to-show="{{ limit }}">
                                                     {%- elsif layout == 'slider' -%}
