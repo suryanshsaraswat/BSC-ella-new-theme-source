@@ -9,7 +9,7 @@
             "show_image_parallax": false,
             "show_bg_overlay": false,
             "type": "full",
-            "image": "{{ collection.metafields.custom.desktop_banner.value }}",
+            "image": "shopify:\/\/shop_images\/Perfumes.jpg",
             "image_mobile": "{{ collection.metafields.custom.mobile_banner.value }}",
             "bg_overlay": "#000000"
           }
