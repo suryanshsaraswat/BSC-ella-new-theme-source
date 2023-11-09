@@ -91,4 +91,12 @@ span.d-off {
 .card-price {
     padding-top: 8px;
 }
+a.card-title.link-underline.card-title-ellipsis {
+    overflow: visible;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-height: 20px;
+    -webkit-box-orient: vertical;
+    min-height: 40px;
+}
 .announcement-bar__message h1,.announcement-bar__message h2,.announcement-bar__message h3,.announcement-bar__message h4,.announcement-bar__message h5,.announcement-bar__message h6,.announcement-bar__message p,.announcement-bar__message span,.announcement-bar__message a{padding:0}
