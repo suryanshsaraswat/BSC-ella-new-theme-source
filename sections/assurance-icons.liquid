@@ -14,7 +14,8 @@
 </style>
 <div class="assurance-icons-parent">
     {% if section.settings.assurance-heading != blank %} <div class="heading halo-block-header">
-        <h2 class="title">{{ section.settings.assurance-heading }}</h2>
+        <h2 class="title">
+      <span class="assurance">{{ section.settings.assurance-heading }}</span></h2>
     </div>{% endif %}
     <div class="icons-section">
         <div class="icon-slider">
