@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "<p>mid-season sale up to 70% off <a href=\"\/collections\/all\" alt=\"Shop Now\">shop now<\/a>\n<\/p>",
+            "text": "<p><a href=\"\/collections\/diwali-sale\">Get free shipping above orders Rs.199<\/a><\/p>",
             "btn_color": "#cc0e14",
             "btn_border_color": "#2da116",
             "btn_bg_color": "#727272",
