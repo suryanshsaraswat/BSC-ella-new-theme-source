@@ -52,7 +52,7 @@
         "font_style_text": "oblique",
         "font_weight_text": "500",
         "arrow_active": false,
-        "content_max_width": 50,
+        "content_max_width": 35,
         "padding_top": 2,
         "padding_bottom": 2
       }
