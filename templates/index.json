@@ -459,19 +459,11 @@
             "title": "New Arrivals",
             "collection": "new-arrivals"
           }
-        },
-        "e36e24fc-0eb4-4248-8ed3-76e8b65d2d00": {
-          "type": "ProductTabs",
-          "settings": {
-            "title": "Womens",
-            "collection": ""
-          }
         }
       },
       "block_order": [
         "9cad58e7-ad62-4328-8a74-d171a0cb41a2",
-        "5b556c86-71b9-4b55-8293-9453ab0c5763",
-        "e36e24fc-0eb4-4248-8ed3-76e8b65d2d00"
+        "5b556c86-71b9-4b55-8293-9453ab0c5763"
       ],
       "settings": {
         "container": "container",
