@@ -48,13 +48,13 @@
         "color_text": "#d7e93c",
         "bg_color_text": "#007684",
         "bg_color_text_gradient": "",
-        "font_size_text": 14,
+        "font_size_text": 12,
         "font_style_text": "oblique",
         "font_weight_text": "500",
         "arrow_active": false,
         "content_max_width": 35,
-        "padding_top": 2,
-        "padding_bottom": 2
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "820c2330-f4a5-4018-9d3a-7aaafd315a2f": {
