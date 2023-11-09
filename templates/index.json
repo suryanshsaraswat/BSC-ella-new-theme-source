@@ -490,7 +490,7 @@
         "product_block_infinite_scroll": true,
         "min_width_button": "",
         "product_block_dots": false,
-        "product_block_dots_mb": true,
+        "product_block_dots_mb": false,
         "product_block_arrows": true,
         "product_block_arrows_mb": false,
         "product_block_show": "4",
