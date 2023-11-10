@@ -2,6 +2,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
       }
     },
@@ -87,7 +88,7 @@
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 10,
-            "sub_heading_color": "#000"
+            "sub_heading_color": "#000000"
           }
         },
         "0087497c-c014-4218-ada9-51980b336c54": {
@@ -98,20 +99,20 @@
             "alignment_content": "left",
             "content_size": 13,
             "margin_top_content": 20,
-            "content_color": "#000",
+            "content_color": "#000000",
             "content_width": "800px",
             "button_text_more": "Read More",
             "button_text_less": "Read Less",
             "button_text_font_size": 14,
             "button_text_font_weight": "500",
             "margin_top_button_text": 30,
-            "button_text_color": "#fff",
-            "button_text_border_color": "#000",
-            "button_text_bg_color": "#000",
+            "button_text_color": "#ffffff",
+            "button_text_border_color": "#000000",
+            "button_text_bg_color": "#000000",
             "button_text_bg_color_gradient": "",
-            "button_text_color_hover": "#000",
-            "button_text_border_color_hover": "#000",
-            "button_text_bg_color_hover": "#fff",
+            "button_text_color_hover": "#000000",
+            "button_text_border_color_hover": "#000000",
+            "button_text_bg_color_hover": "#ffffff",
             "button_text_bg_color_hover_gradient": "",
             "button_text_more_width": 270,
             "pd_top_button_text": 12,
@@ -135,7 +136,7 @@
         "mg_bottom_desktop": 50,
         "mg_bottom_tablet": 50,
         "mg_bottom_mobile": 50,
-        "rich_text_bg": "#fff",
+        "rich_text_bg": "#ffffff",
         "rich_text_bg_gradient": ""
       }
     },
@@ -149,7 +150,7 @@
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 10,
-            "sub_heading_color": "#000"
+            "sub_heading_color": "#000000"
           }
         },
         "439afdcb-3ec8-468d-81cc-187e67f005de": {
@@ -160,20 +161,20 @@
             "alignment_content": "left",
             "content_size": 13,
             "margin_top_content": 20,
-            "content_color": "#000",
+            "content_color": "#000000",
             "content_width": "800px",
             "button_text_more": "Read More",
             "button_text_less": "Read Less",
             "button_text_font_size": 14,
             "button_text_font_weight": "500",
             "margin_top_button_text": 30,
-            "button_text_color": "#fff",
-            "button_text_border_color": "#000",
-            "button_text_bg_color": "#000",
+            "button_text_color": "#ffffff",
+            "button_text_border_color": "#000000",
+            "button_text_bg_color": "#000000",
             "button_text_bg_color_gradient": "",
-            "button_text_color_hover": "#000",
-            "button_text_border_color_hover": "#000",
-            "button_text_bg_color_hover": "#fff",
+            "button_text_color_hover": "#000000",
+            "button_text_border_color_hover": "#000000",
+            "button_text_bg_color_hover": "#ffffff",
             "button_text_bg_color_hover_gradient": "",
             "button_text_more_width": 270,
             "pd_top_button_text": 12,
@@ -213,7 +214,7 @@
         "mg_bottom_desktop": 50,
         "mg_bottom_tablet": 50,
         "mg_bottom_mobile": 50,
-        "rich_text_bg": "#fff",
+        "rich_text_bg": "#ffffff",
         "rich_text_bg_gradient": ""
       }
     },
@@ -227,7 +228,7 @@
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 10,
-            "sub_heading_color": "#000"
+            "sub_heading_color": "#000000"
           }
         },
         "0562ce35-e21c-4296-a146-d5a865f0adb4": {
@@ -238,20 +239,20 @@
             "alignment_content": "left",
             "content_size": 13,
             "margin_top_content": 20,
-            "content_color": "#000",
+            "content_color": "#000000",
             "content_width": "800px",
             "button_text_more": "Read More",
             "button_text_less": "Read Less",
             "button_text_font_size": 14,
             "button_text_font_weight": "500",
             "margin_top_button_text": 30,
-            "button_text_color": "#fff",
-            "button_text_border_color": "#000",
-            "button_text_bg_color": "#000",
+            "button_text_color": "#ffffff",
+            "button_text_border_color": "#000000",
+            "button_text_bg_color": "#000000",
             "button_text_bg_color_gradient": "",
-            "button_text_color_hover": "#000",
-            "button_text_border_color_hover": "#000",
-            "button_text_bg_color_hover": "#fff",
+            "button_text_color_hover": "#000000",
+            "button_text_border_color_hover": "#000000",
+            "button_text_bg_color_hover": "#ffffff",
             "button_text_bg_color_hover_gradient": "",
             "button_text_more_width": 270,
             "pd_top_button_text": 12,
@@ -275,7 +276,7 @@
         "mg_bottom_desktop": 50,
         "mg_bottom_tablet": 50,
         "mg_bottom_mobile": 50,
-        "rich_text_bg": "#fff",
+        "rich_text_bg": "#ffffff",
         "rich_text_bg_gradient": ""
       }
     },
@@ -289,7 +290,7 @@
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 10,
-            "sub_heading_color": "#000"
+            "sub_heading_color": "#000000"
           }
         },
         "29afdee0-3d2e-410e-af07-aa2bb4d4d116": {
@@ -300,20 +301,20 @@
             "alignment_content": "left",
             "content_size": 13,
             "margin_top_content": 20,
-            "content_color": "#000",
+            "content_color": "#000000",
             "content_width": "800px",
             "button_text_more": "Read More",
             "button_text_less": "Read Less",
             "button_text_font_size": 14,
             "button_text_font_weight": "500",
             "margin_top_button_text": 30,
-            "button_text_color": "#fff",
-            "button_text_border_color": "#000",
-            "button_text_bg_color": "#000",
+            "button_text_color": "#ffffff",
+            "button_text_border_color": "#000000",
+            "button_text_bg_color": "#000000",
             "button_text_bg_color_gradient": "",
-            "button_text_color_hover": "#000",
-            "button_text_border_color_hover": "#000",
-            "button_text_bg_color_hover": "#fff",
+            "button_text_color_hover": "#000000",
+            "button_text_border_color_hover": "#000000",
+            "button_text_bg_color_hover": "#ffffff",
             "button_text_bg_color_hover_gradient": "",
             "button_text_more_width": 270,
             "pd_top_button_text": 12,
@@ -337,7 +338,7 @@
         "mg_bottom_desktop": 50,
         "mg_bottom_tablet": 50,
         "mg_bottom_mobile": 50,
-        "rich_text_bg": "#fff",
+        "rich_text_bg": "#ffffff",
         "rich_text_bg_gradient": ""
       }
     },
@@ -351,7 +352,7 @@
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 10,
-            "sub_heading_color": "#000"
+            "sub_heading_color": "#000000"
           }
         },
         "70608b80-a6ea-4f43-ad75-b70aa910ba86": {
@@ -362,20 +363,20 @@
             "alignment_content": "left",
             "content_size": 13,
             "margin_top_content": 20,
-            "content_color": "#000",
+            "content_color": "#000000",
             "content_width": "800px",
             "button_text_more": "Read More",
             "button_text_less": "Read Less",
             "button_text_font_size": 14,
             "button_text_font_weight": "500",
             "margin_top_button_text": 30,
-            "button_text_color": "#fff",
-            "button_text_border_color": "#000",
-            "button_text_bg_color": "#000",
+            "button_text_color": "#ffffff",
+            "button_text_border_color": "#000000",
+            "button_text_bg_color": "#000000",
             "button_text_bg_color_gradient": "",
-            "button_text_color_hover": "#000",
-            "button_text_border_color_hover": "#000",
-            "button_text_bg_color_hover": "#fff",
+            "button_text_color_hover": "#000000",
+            "button_text_border_color_hover": "#000000",
+            "button_text_bg_color_hover": "#ffffff",
             "button_text_bg_color_hover_gradient": "",
             "button_text_more_width": 270,
             "pd_top_button_text": 12,
@@ -399,7 +400,7 @@
         "mg_bottom_desktop": 50,
         "mg_bottom_tablet": 50,
         "mg_bottom_mobile": 50,
-        "rich_text_bg": "#fff",
+        "rich_text_bg": "#ffffff",
         "rich_text_bg_gradient": ""
       }
     },
@@ -413,7 +414,7 @@
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 10,
-            "sub_heading_color": "#000"
+            "sub_heading_color": "#000000"
           }
         },
         "d690c1a0-b4cc-4275-97d5-d56544cb9e5c": {
@@ -424,20 +425,20 @@
             "alignment_content": "left",
             "content_size": 13,
             "margin_top_content": 20,
-            "content_color": "#000",
+            "content_color": "#000000",
             "content_width": "800px",
             "button_text_more": "Read More",
             "button_text_less": "Read Less",
             "button_text_font_size": 14,
             "button_text_font_weight": "500",
             "margin_top_button_text": 30,
-            "button_text_color": "#fff",
-            "button_text_border_color": "#000",
-            "button_text_bg_color": "#000",
+            "button_text_color": "#ffffff",
+            "button_text_border_color": "#000000",
+            "button_text_bg_color": "#000000",
             "button_text_bg_color_gradient": "",
-            "button_text_color_hover": "#000",
-            "button_text_border_color_hover": "#000",
-            "button_text_bg_color_hover": "#fff",
+            "button_text_color_hover": "#000000",
+            "button_text_border_color_hover": "#000000",
+            "button_text_bg_color_hover": "#ffffff",
             "button_text_bg_color_hover_gradient": "",
             "button_text_more_width": 270,
             "pd_top_button_text": 12,
@@ -461,7 +462,7 @@
         "mg_bottom_desktop": 50,
         "mg_bottom_tablet": 50,
         "mg_bottom_mobile": 50,
-        "rich_text_bg": "#fff",
+        "rich_text_bg": "#ffffff",
         "rich_text_bg_gradient": ""
       }
     },
@@ -475,7 +476,7 @@
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 10,
-            "sub_heading_color": "#000"
+            "sub_heading_color": "#000000"
           }
         },
         "e65e8c92-f4a9-45d2-89e9-967823a23362": {
@@ -486,20 +487,20 @@
             "alignment_content": "left",
             "content_size": 13,
             "margin_top_content": 20,
-            "content_color": "#000",
+            "content_color": "#000000",
             "content_width": "800px",
             "button_text_more": "Read More",
             "button_text_less": "Read Less",
             "button_text_font_size": 14,
             "button_text_font_weight": "500",
             "margin_top_button_text": 30,
-            "button_text_color": "#fff",
-            "button_text_border_color": "#000",
-            "button_text_bg_color": "#000",
+            "button_text_color": "#ffffff",
+            "button_text_border_color": "#000000",
+            "button_text_bg_color": "#000000",
             "button_text_bg_color_gradient": "",
-            "button_text_color_hover": "#000",
-            "button_text_border_color_hover": "#000",
-            "button_text_bg_color_hover": "#fff",
+            "button_text_color_hover": "#000000",
+            "button_text_border_color_hover": "#000000",
+            "button_text_bg_color_hover": "#ffffff",
             "button_text_bg_color_hover_gradient": "",
             "button_text_more_width": 270,
             "pd_top_button_text": 12,
@@ -523,7 +524,7 @@
         "mg_bottom_desktop": 50,
         "mg_bottom_tablet": 50,
         "mg_bottom_mobile": 50,
-        "rich_text_bg": "#fff",
+        "rich_text_bg": "#ffffff",
         "rich_text_bg_gradient": ""
       }
     },
@@ -537,7 +538,7 @@
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 10,
-            "sub_heading_color": "#000"
+            "sub_heading_color": "#000000"
           }
         },
         "e5cad28f-53a9-4815-bbcb-bd6227324b47": {
@@ -548,20 +549,20 @@
             "alignment_content": "left",
             "content_size": 13,
             "margin_top_content": 20,
-            "content_color": "#000",
+            "content_color": "#000000",
             "content_width": "800px",
             "button_text_more": "Read More",
             "button_text_less": "Read Less",
             "button_text_font_size": 14,
             "button_text_font_weight": "500",
             "margin_top_button_text": 30,
-            "button_text_color": "#fff",
-            "button_text_border_color": "#000",
-            "button_text_bg_color": "#000",
+            "button_text_color": "#ffffff",
+            "button_text_border_color": "#000000",
+            "button_text_bg_color": "#000000",
             "button_text_bg_color_gradient": "",
-            "button_text_color_hover": "#000",
-            "button_text_border_color_hover": "#000",
-            "button_text_bg_color_hover": "#fff",
+            "button_text_color_hover": "#000000",
+            "button_text_border_color_hover": "#000000",
+            "button_text_bg_color_hover": "#ffffff",
             "button_text_bg_color_hover_gradient": "",
             "button_text_more_width": 270,
             "pd_top_button_text": 12,
@@ -585,7 +586,7 @@
         "mg_bottom_desktop": 50,
         "mg_bottom_tablet": 50,
         "mg_bottom_mobile": 50,
-        "rich_text_bg": "#fff",
+        "rich_text_bg": "#ffffff",
         "rich_text_bg_gradient": ""
       }
     },
@@ -599,7 +600,7 @@
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 10,
-            "sub_heading_color": "#000"
+            "sub_heading_color": "#000000"
           }
         },
         "e0234581-cd2a-4bb4-a122-7aeb46404605": {
@@ -610,20 +611,20 @@
             "alignment_content": "left",
             "content_size": 13,
             "margin_top_content": 20,
-            "content_color": "#000",
+            "content_color": "#000000",
             "content_width": "800px",
             "button_text_more": "Read More",
             "button_text_less": "Read Less",
             "button_text_font_size": 14,
             "button_text_font_weight": "500",
             "margin_top_button_text": 30,
-            "button_text_color": "#fff",
-            "button_text_border_color": "#000",
-            "button_text_bg_color": "#000",
+            "button_text_color": "#ffffff",
+            "button_text_border_color": "#000000",
+            "button_text_bg_color": "#000000",
             "button_text_bg_color_gradient": "",
-            "button_text_color_hover": "#000",
-            "button_text_border_color_hover": "#000",
-            "button_text_bg_color_hover": "#fff",
+            "button_text_color_hover": "#000000",
+            "button_text_border_color_hover": "#000000",
+            "button_text_bg_color_hover": "#ffffff",
             "button_text_bg_color_hover_gradient": "",
             "button_text_more_width": 270,
             "pd_top_button_text": 12,
@@ -647,7 +648,7 @@
         "mg_bottom_desktop": 50,
         "mg_bottom_tablet": 50,
         "mg_bottom_mobile": 50,
-        "rich_text_bg": "#fff",
+        "rich_text_bg": "#ffffff",
         "rich_text_bg_gradient": ""
       }
     },
@@ -661,7 +662,7 @@
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 10,
-            "sub_heading_color": "#000"
+            "sub_heading_color": "#000000"
           }
         },
         "3ea02cfb-f929-494e-bcce-ef416ceb68eb": {
@@ -672,20 +673,20 @@
             "alignment_content": "left",
             "content_size": 13,
             "margin_top_content": 20,
-            "content_color": "#000",
+            "content_color": "#000000",
             "content_width": "800px",
             "button_text_more": "Read More",
             "button_text_less": "Read Less",
             "button_text_font_size": 14,
             "button_text_font_weight": "500",
             "margin_top_button_text": 30,
-            "button_text_color": "#fff",
-            "button_text_border_color": "#000",
-            "button_text_bg_color": "#000",
+            "button_text_color": "#ffffff",
+            "button_text_border_color": "#000000",
+            "button_text_bg_color": "#000000",
             "button_text_bg_color_gradient": "",
-            "button_text_color_hover": "#000",
-            "button_text_border_color_hover": "#000",
-            "button_text_bg_color_hover": "#fff",
+            "button_text_color_hover": "#000000",
+            "button_text_border_color_hover": "#000000",
+            "button_text_bg_color_hover": "#ffffff",
             "button_text_bg_color_hover_gradient": "",
             "button_text_more_width": 270,
             "pd_top_button_text": 12,
@@ -709,7 +710,7 @@
         "mg_bottom_desktop": 50,
         "mg_bottom_tablet": 50,
         "mg_bottom_mobile": 50,
-        "rich_text_bg": "#fff",
+        "rich_text_bg": "#ffffff",
         "rich_text_bg_gradient": ""
       }
     },
@@ -723,7 +724,7 @@
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 10,
-            "sub_heading_color": "#000"
+            "sub_heading_color": "#000000"
           }
         },
         "7a2f3d8c-aaaa-45fc-8452-dc1a4a5a5d94": {
@@ -734,20 +735,20 @@
             "alignment_content": "left",
             "content_size": 13,
             "margin_top_content": 20,
-            "content_color": "#000",
+            "content_color": "#000000",
             "content_width": "800px",
             "button_text_more": "Read More",
             "button_text_less": "Read Less",
             "button_text_font_size": 14,
             "button_text_font_weight": "500",
             "margin_top_button_text": 30,
-            "button_text_color": "#fff",
-            "button_text_border_color": "#000",
-            "button_text_bg_color": "#000",
+            "button_text_color": "#ffffff",
+            "button_text_border_color": "#000000",
+            "button_text_bg_color": "#000000",
             "button_text_bg_color_gradient": "",
-            "button_text_color_hover": "#000",
-            "button_text_border_color_hover": "#000",
-            "button_text_bg_color_hover": "#fff",
+            "button_text_color_hover": "#000000",
+            "button_text_border_color_hover": "#000000",
+            "button_text_bg_color_hover": "#ffffff",
             "button_text_bg_color_hover_gradient": "",
             "button_text_more_width": 270,
             "pd_top_button_text": 12,
@@ -771,7 +772,7 @@
         "mg_bottom_desktop": 50,
         "mg_bottom_tablet": 50,
         "mg_bottom_mobile": 50,
-        "rich_text_bg": "#fff",
+        "rich_text_bg": "#ffffff",
         "rich_text_bg_gradient": ""
       }
     },
@@ -781,17 +782,141 @@
         "f871f117-674d-4db5-9341-d3ce2b1fb5ed": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "BILLING",
+            "sub_heading": "RECURRING BILLING",
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 10,
-            "sub_heading_color": "#000"
+            "sub_heading_color": "#000000"
           }
         },
         "3357af71-e047-4cdf-b7bb-f95a09c5e69f": {
           "type": "content",
           "settings": {
             "content_top": "We use a third-party payment processor (the “Payment Processor”) to bill you through a payment account linked to your Account on the Offerings (your “Billing Account”) for use of the Paid Offerings. The processing of payments will be subject to the terms, conditions and privacy policies of the Payment Processor in addition to this Agreement. We are not responsible for errors by the Payment Processor. By choosing to use Paid Offerings, you agree to pay us, through the Payment Processor, all charges at the prices then in effect for any use of such Paid Offerings in accordance with the applicable payment terms and you authorize us, through the Payment Processor, to charge your chosen payment provider (your “Payment Method”). You agree to make payments using that selected Payment Method. We reserve the right to correct any errors or mistakes that it makes even if it has already requested or received payment.",
+            "content_bottom": "",
+            "alignment_content": "left",
+            "content_size": 13,
+            "margin_top_content": 20,
+            "content_color": "#000000",
+            "content_width": "800px",
+            "button_text_more": "Read More",
+            "button_text_less": "Read Less",
+            "button_text_font_size": 14,
+            "button_text_font_weight": "500",
+            "margin_top_button_text": 30,
+            "button_text_color": "#ffffff",
+            "button_text_border_color": "#000000",
+            "button_text_bg_color": "#000000",
+            "button_text_bg_color_gradient": "",
+            "button_text_color_hover": "#000000",
+            "button_text_border_color_hover": "#000000",
+            "button_text_bg_color_hover": "#ffffff",
+            "button_text_bg_color_hover_gradient": "",
+            "button_text_more_width": 270,
+            "pd_top_button_text": 12,
+            "pd_bottom_button_text": 12
+          }
+        }
+      },
+      "block_order": [
+        "f871f117-674d-4db5-9341-d3ce2b1fb5ed",
+        "3357af71-e047-4cdf-b7bb-f95a09c5e69f"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "enable_border_top": false,
+        "enable_border_bottom": false,
+        "color_border_bottom": "#e8e8e8",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50,
+        "rich_text_bg": "#ffffff",
+        "rich_text_bg_gradient": ""
+      }
+    },
+    "0f056e97-2418-4475-8fc3-04057f0e7285": {
+      "type": "rich-text",
+      "blocks": {
+        "bae67b3c-0541-42a3-b170-7d7d0dc5b4cf": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "AUTO-REPLENISHMENT FOR SUBSCRIPTION SERVICES",
+            "font_weight_sub_heading": "700",
+            "sub_heading_size": 18,
+            "margin_top_sub_heading": 10,
+            "sub_heading_color": "#000000"
+          }
+        },
+        "d454f037-1a99-4191-86a7-421ddb8b7d47": {
+          "type": "content",
+          "settings": {
+            "content_top": "Unless you opt out of auto-replenishment, which can be done through your Account Settings, any subscription services, such as any auto-replacing products (“Subscription Offerings”), you have signed up for will be automatically extended for successive renewal periods of the same duration as the subscription term originally selected, at the then-current non-promotional rate. You can change or resign your Subscription Service at any time. If you terminate a Subscription Service, you may use your subscription until the end of your then-current term; your subscription will not be renewed after your then-current term expires. All fees related to Subscription Offerings are fully earned upon payment.",
+            "content_bottom": "",
+            "alignment_content": "left",
+            "content_size": 13,
+            "margin_top_content": 20,
+            "content_color": "#000000",
+            "content_width": "800px",
+            "button_text_more": "Read More",
+            "button_text_less": "Read Less",
+            "button_text_font_size": 14,
+            "button_text_font_weight": "500",
+            "margin_top_button_text": 30,
+            "button_text_color": "#ffffff",
+            "button_text_border_color": "#000000",
+            "button_text_bg_color": "#000000",
+            "button_text_bg_color_gradient": "",
+            "button_text_color_hover": "#000000",
+            "button_text_border_color_hover": "#000000",
+            "button_text_bg_color_hover": "#ffffff",
+            "button_text_bg_color_hover_gradient": "",
+            "button_text_more_width": 270,
+            "pd_top_button_text": 12,
+            "pd_bottom_button_text": 12
+          }
+        }
+      },
+      "block_order": [
+        "bae67b3c-0541-42a3-b170-7d7d0dc5b4cf",
+        "d454f037-1a99-4191-86a7-421ddb8b7d47"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "enable_border_top": false,
+        "enable_border_bottom": false,
+        "color_border_bottom": "#e8e8e8",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50,
+        "rich_text_bg": "#ffffff",
+        "rich_text_bg_gradient": ""
+      }
+    },
+    "98b16030-9b8d-4507-b670-4b8802077328": {
+      "type": "rich-text",
+      "blocks": {
+        "f891e901-3a46-4172-b693-24fe73d6b4d4": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "TERMINATION",
+            "font_weight_sub_heading": "700",
+            "sub_heading_size": 18,
+            "margin_top_sub_heading": 10,
+            "sub_heading_color": "#000"
+          }
+        },
+        "6c694a51-ea84-4853-b583-cdef34b4335f": {
+          "type": "content",
+          "settings": {
+            "content_top": "We may terminate your access to all or any part of the Offerings at any time, with or without cause, with or without notice, effective immediately, which may result in the forfeiture and destruction of all information associated with your membership. If you wish to terminate your Account, you may do so by following the instructions on the Site or through the Offerings. Any fees paid hereunder are non-refundable. All provisions of these Terms & Conditions which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.",
             "content_bottom": "",
             "alignment_content": "left",
             "content_size": 13,
@@ -818,8 +943,8 @@
         }
       },
       "block_order": [
-        "f871f117-674d-4db5-9341-d3ce2b1fb5ed",
-        "3357af71-e047-4cdf-b7bb-f95a09c5e69f"
+        "f891e901-3a46-4172-b693-24fe73d6b4d4",
+        "6c694a51-ea84-4853-b583-cdef34b4335f"
       ],
       "settings": {
         "container": "container",
@@ -837,26 +962,26 @@
         "rich_text_bg_gradient": ""
       }
     },
-    "0f056e97-2418-4475-8fc3-04057f0e7285": {
+    "9dc9178a-8264-4903-b988-a01656dc7e44": {
       "type": "rich-text",
       "blocks": {
-        "bae67b3c-0541-42a3-b170-7d7d0dc5b4cf": {
+        "02fb45fc-0881-46d3-a9cf-8e4d9322804e": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "",
+            "sub_heading": "OFFERS & PROMOTIONS",
             "font_weight_sub_heading": "700",
             "sub_heading_size": 14,
             "margin_top_sub_heading": 10,
             "sub_heading_color": "#000"
           }
         },
-        "d454f037-1a99-4191-86a7-421ddb8b7d47": {
+        "1bdcf8cb-f281-4eb1-aecc-3ddaefdfcf3f": {
           "type": "content",
           "settings": {
-            "content_top": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "content_bottom": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "alignment_content": "center",
-            "content_size": 16,
+            "content_top": "Bombay shaving company runs some time to time promotions to drive customer acquisitions. We offer some samplers\/ Freebies\/ Complimentary items time to time to our shoppers. These items are limited to 1 unit per customer. Minimum shopping value may be also applicable. Bombay Shaving Company reserves to cancel all those orders where customer has been able to get more than 1 unit of sampler\/ Freebie\/ Complimentary item or not meeting the minimum cart value for the same even after the order acceptance. Customer would be refunded the paid amount in case of pre-payment. Bombay shaving company reserves the right to cancel, accept and cancel any order even after the acceptance without stating any reason to the customer.",
+            "content_bottom": "",
+            "alignment_content": "left",
+            "content_size": 13,
             "margin_top_content": 20,
             "content_color": "#000",
             "content_width": "800px",
@@ -880,8 +1005,132 @@
         }
       },
       "block_order": [
-        "bae67b3c-0541-42a3-b170-7d7d0dc5b4cf",
-        "d454f037-1a99-4191-86a7-421ddb8b7d47"
+        "02fb45fc-0881-46d3-a9cf-8e4d9322804e",
+        "1bdcf8cb-f281-4eb1-aecc-3ddaefdfcf3f"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "enable_border_top": false,
+        "enable_border_bottom": false,
+        "color_border_bottom": "#e8e8e8",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50,
+        "rich_text_bg": "#fff",
+        "rich_text_bg_gradient": ""
+      }
+    },
+    "d63a23ad-adc2-4d32-8925-ce693a1413cd": {
+      "type": "rich-text",
+      "blocks": {
+        "292ee876-aa67-41dc-b42f-bd1c497d4598": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "RAZORPRENEUR",
+            "font_weight_sub_heading": "700",
+            "sub_heading_size": 14,
+            "margin_top_sub_heading": 10,
+            "sub_heading_color": "#000"
+          }
+        },
+        "2ab8e005-1226-4bb8-8e9e-ecdae1faeba2": {
+          "type": "content",
+          "settings": {
+            "content_top": "<ul>\n<li>All terms and conditions are applicable as per the details on the Terms & Condition page.<\/li>\n<li>Standard cancellation policy is applicable for orders placed during this challenge. For details, please refer to our Cancellation Policy.<\/li>\n<li>Standard privacy policy is applicable on the collection of all information. For details, please refer to our Privacy Policy.<\/li>\n<li>You can reach out to our team by writing to us at razorpreneur@bombayshavingcompany.com. We are available between Monday to Friday, between 10:00 AM and 6:00 PM.<\/li>\n<li>Bombay Shaving company has complete control on deciding the ranking and rewards for this challenge, the criteria for evaluation includes, but is not limited to, the number of razors sold, qualitative evaluation of the process\/ideas followed by the users during the period of competition. Final decisions on the ranking and rewards will be will be decided by the Company at its sole discretion and will be subject to tax as per government rules.<\/li>\n<li>Only select institutes are eligible for participation in the campus program for the challenge and the rewards and internship opportunity are restricted to these colleges only. Final decisions on the list of institutes, rewards and prize money will be decided by the Bombay Shaving Company at its sole discretion.<\/li>\n<li>Rewards:\n      <ul> \n          <li>The winning Razorpreneur from the finale will get prize money worth INR 2 lakh.<\/li>\n<li>Seed capital for funding will be capped at INR 2 lakhs for each of the top Razorpreneurs.<\/li>\n<li>Chance to be eligible for pitching for additional of 1 crore will be decided by the Company at its sole discretion.<\/li>\n<li>The additional categories eligible for cash rewards of up to Rs 1 lakh will be decided by the company.<\/li>\n<li>Internship and mentorship opportunities will be decided at the sole discretion of Bombay Shaving Company.<\/li>\n<\/ul>\n<\/li>\n<li>Final decisions on the rewards and prize money will be will be decided by the Company at its sole discretion and will be subject to tax as per government rules.<\/li>\n<li>Cash on delivery is not allowed as a payment option for this competition.<\/li>\n<\/ul>",
+            "content_bottom": "",
+            "alignment_content": "left",
+            "content_size": 13,
+            "margin_top_content": 20,
+            "content_color": "#000",
+            "content_width": "800px",
+            "button_text_more": "Read More",
+            "button_text_less": "Read Less",
+            "button_text_font_size": 14,
+            "button_text_font_weight": "500",
+            "margin_top_button_text": 30,
+            "button_text_color": "#fff",
+            "button_text_border_color": "#000",
+            "button_text_bg_color": "#000",
+            "button_text_bg_color_gradient": "",
+            "button_text_color_hover": "#000",
+            "button_text_border_color_hover": "#000",
+            "button_text_bg_color_hover": "#fff",
+            "button_text_bg_color_hover_gradient": "",
+            "button_text_more_width": 270,
+            "pd_top_button_text": 12,
+            "pd_bottom_button_text": 12
+          }
+        }
+      },
+      "block_order": [
+        "292ee876-aa67-41dc-b42f-bd1c497d4598",
+        "2ab8e005-1226-4bb8-8e9e-ecdae1faeba2"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "enable_border_top": false,
+        "enable_border_bottom": false,
+        "color_border_bottom": "#e8e8e8",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50,
+        "rich_text_bg": "#fff",
+        "rich_text_bg_gradient": ""
+      }
+    },
+    "e6e8c4be-1263-461f-8d27-a2f1a017b107": {
+      "type": "rich-text",
+      "blocks": {
+        "06e5e98b-d799-425e-9aa6-372a7a8c8d63": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "PAISAWAPSI SALE",
+            "font_weight_sub_heading": "700",
+            "sub_heading_size": 18,
+            "margin_top_sub_heading": 10,
+            "sub_heading_color": "#000"
+          }
+        },
+        "191aedbd-6b6a-401f-9ca9-e3f0a601fb62": {
+          "type": "content",
+          "settings": {
+            "content_top": "<ul>\n<li>Cashback would be credited in the form of a 100% value dynamic coupon redeemable on BSC post delivery of the product<\/li>\n<li>Returns post delivery and receiving the cashback are not allowed<\/li>\n<li>Brand coupons are to be redeemed on Partner websites- Partner brands have full ownership of the coupons issued<\/li>\n<li>Freebie worth 300+ would be from liquidation stock which would be fresh for 90 days before expiry<\/li>\n<\/ul>",
+            "content_bottom": "",
+            "alignment_content": "left",
+            "content_size": 13,
+            "margin_top_content": 20,
+            "content_color": "#000",
+            "content_width": "800px",
+            "button_text_more": "Read More",
+            "button_text_less": "Read Less",
+            "button_text_font_size": 14,
+            "button_text_font_weight": "500",
+            "margin_top_button_text": 30,
+            "button_text_color": "#fff",
+            "button_text_border_color": "#000",
+            "button_text_bg_color": "#000",
+            "button_text_bg_color_gradient": "",
+            "button_text_color_hover": "#000",
+            "button_text_border_color_hover": "#000",
+            "button_text_bg_color_hover": "#fff",
+            "button_text_bg_color_hover_gradient": "",
+            "button_text_more_width": 270,
+            "pd_top_button_text": 12,
+            "pd_bottom_button_text": 12
+          }
+        }
+      },
+      "block_order": [
+        "06e5e98b-d799-425e-9aa6-372a7a8c8d63",
+        "191aedbd-6b6a-401f-9ca9-e3f0a601fb62"
       ],
       "settings": {
         "container": "container",
@@ -915,6 +1164,10 @@
     "06c22d66-876e-4f2f-88c6-d8d5551a88be",
     "51e81d19-6aa4-4714-89da-7f34abe0b1e2",
     "0211b5c7-6bda-4f04-be6b-e40d59fb5975",
-    "0f056e97-2418-4475-8fc3-04057f0e7285"
+    "0f056e97-2418-4475-8fc3-04057f0e7285",
+    "98b16030-9b8d-4507-b670-4b8802077328",
+    "9dc9178a-8264-4903-b988-a01656dc7e44",
+    "d63a23ad-adc2-4d32-8925-ce693a1413cd",
+    "e6e8c4be-1263-461f-8d27-a2f1a017b107"
   ]
 }
