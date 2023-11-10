@@ -55,6 +55,9 @@
       "block_order": [
         "9147d182-d0c6-4b47-ad9e-97ad5cd6ae5a"
       ],
+      "custom_css": [
+        ".collection-content-2 h1{color:#0d5ea8}"
+      ],
       "settings": {
         "show_breadcrumb": false,
         "breadcrumb_alignment": "left",
