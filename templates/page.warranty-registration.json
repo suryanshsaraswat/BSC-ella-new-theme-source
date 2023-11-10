@@ -12,7 +12,7 @@
         "template--16129473314970__a130c6b6-5958-40ca-8b92-2ea277a78f54-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Terms & Conditions",
+            "heading": "Warranty Registration",
             "heading_size": 30,
             "heading_size_mb": 30,
             "heading_color": "#000000"
@@ -20,6 +20,7 @@
         },
         "20a12861-187d-41f7-ac50-fde8ef018c43": {
           "type": "sub_heading",
+          "disabled": true,
           "settings": {
             "sub_heading": "INTRODUCTION",
             "font_weight_sub_heading": "700",
@@ -31,7 +32,7 @@
         "602a5d14-1105-4c02-8ba9-7273931dd20b": {
           "type": "content",
           "settings": {
-            "content_top": "Welcome to bombayshavingcompany.com, a web-site affiliated to Visage Lines Personal Care Pvt Ltd. Please read these Terms and Conditions (collectively with “Privacy Policy”) fully and carefully before using www.bombayshavingcompany.com (the “Site”) and the features, content, applications, or products offered by Visage Lines Personal Care Pvt Ltd. (hereinafter referred to as “Bombay Shaving Company”, “Company”, “we”, “our” or “us”) (together with the Site, the “Offerings”). These Terms & Conditions set forth the legally binding terms and conditions for your use of the Site and the Offerings. Bombay Shaving Company solely reserves the right to accept, reject and remove users from registrations on the website & related web assets without stating any reason thereof. We reserve the right to restrict access to some parts or all of this Website. Bombay Shaving Company solely reserves the right to accept, reject or cancel any order after order confirmation.",
+            "content_top": "<b>Bombay Shaving Company offers manufacturing warranty on the following electrical appliances<\/b>\n<ul>\n<li>Signature Grey Beard Trimmer & Hair Clipper ( 2 + 1 years if you register the product within 7 days of purchase).<\/li>\n<li>OG Black Beard Trimmer - 2 years warranty<\/li>\n<li>Landscaper 2.0 (Pubic Hair Trimmer) - 2 years warranty<\/li>\n<li>Electric Blue Beard Trimmer PE2025\/BL - 1 year warranty<\/li>\n<li>Classic Black Beard Trimmer PE2025\/BK - 1 year warranty <\/li>\n<li>Portable Beard Straightener - 1 year warranty<\/li>\n<li>Portable Beard Straightener - 2 year warranty<\/li>\n<\/ul>",
             "content_bottom": "",
             "alignment_content": "left",
             "content_size": 13,
@@ -54,153 +55,32 @@
             "button_text_more_width": 270,
             "pd_top_button_text": 12,
             "pd_bottom_button_text": 12
+          }
+        },
+        "ef6fbc94-d372-46c8-be0c-86b29fe45afa": {
+          "type": "button",
+          "settings": {
+            "button_label": "REGISTER FOR WARRANTY",
+            "margin_top_button": 30,
+            "button_link": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdUpvhxbBbwPZTQNflo8bbU-L_xI9lHYrMyukwebgz4XWhsag\/viewform",
+            "button_color": "#f8f8f8",
+            "enable_underline_button": false,
+            "button_border_color": "#000",
+            "button_bg_color": "#0f7dc8",
+            "button_bg_gradient": "",
+            "button_color_hover": "#100303",
+            "button_border_color_hover": "#000000",
+            "button_bg_color_hover": "#1991e2",
+            "button_bg_gradient_hover": "",
+            "button_width": "270px"
           }
         }
       },
       "block_order": [
         "template--16129473314970__a130c6b6-5958-40ca-8b92-2ea277a78f54-heading-1",
         "20a12861-187d-41f7-ac50-fde8ef018c43",
-        "602a5d14-1105-4c02-8ba9-7273931dd20b"
-      ],
-      "settings": {
-        "container": "container",
-        "padding_full_width": 0,
-        "enable_border_top": false,
-        "enable_border_bottom": false,
-        "color_border_bottom": "#e8e8e8",
-        "mg_top_desktop": 20,
-        "mg_top_tablet": 20,
-        "mg_top_mobile": 20,
-        "mg_bottom_desktop": 0,
-        "mg_bottom_tablet": 0,
-        "mg_bottom_mobile": 0,
-        "rich_text_bg": "#ffffff",
-        "rich_text_bg_gradient": ""
-      }
-    },
-    "c42a1537-c127-4b33-92b5-b3b4b9ee2358": {
-      "type": "rich-text",
-      "blocks": {
-        "6318c9ee-8b8b-4c61-b165-def3c3ce478f": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "JURISDICTION AND GOVERNING LAW",
-            "font_weight_sub_heading": "700",
-            "sub_heading_size": 18,
-            "margin_top_sub_heading": 5,
-            "sub_heading_color": "#000000"
-          }
-        },
-        "0087497c-c014-4218-ada9-51980b336c54": {
-          "type": "content",
-          "settings": {
-            "content_top": "Any dispute or difference arising any time between the Parties hereto in respect of the Agreement or the interpretation of any of the provision of this Agreement and\/or any amendments or modification thereof for the time being and from time to time in force, shall be decided in accordance with Indian Law by Courts courts situated in Delhi, which Courts shall have the exclusive jurisdiction to adjudicate such disputes.",
-            "content_bottom": "",
-            "alignment_content": "left",
-            "content_size": 13,
-            "margin_top_content": 20,
-            "content_color": "#000000",
-            "content_width": "800px",
-            "button_text_more": "Read More",
-            "button_text_less": "Read Less",
-            "button_text_font_size": 14,
-            "button_text_font_weight": "500",
-            "margin_top_button_text": 30,
-            "button_text_color": "#ffffff",
-            "button_text_border_color": "#000000",
-            "button_text_bg_color": "#000000",
-            "button_text_bg_color_gradient": "",
-            "button_text_color_hover": "#000000",
-            "button_text_border_color_hover": "#000000",
-            "button_text_bg_color_hover": "#ffffff",
-            "button_text_bg_color_hover_gradient": "",
-            "button_text_more_width": 270,
-            "pd_top_button_text": 12,
-            "pd_bottom_button_text": 12
-          }
-        }
-      },
-      "block_order": [
-        "6318c9ee-8b8b-4c61-b165-def3c3ce478f",
-        "0087497c-c014-4218-ada9-51980b336c54"
-      ],
-      "settings": {
-        "container": "container",
-        "padding_full_width": 0,
-        "enable_border_top": false,
-        "enable_border_bottom": false,
-        "color_border_bottom": "#e8e8e8",
-        "mg_top_desktop": 20,
-        "mg_top_tablet": 20,
-        "mg_top_mobile": 20,
-        "mg_bottom_desktop": 0,
-        "mg_bottom_tablet": 0,
-        "mg_bottom_mobile": 0,
-        "rich_text_bg": "#ffffff",
-        "rich_text_bg_gradient": ""
-      }
-    },
-    "f0296d79-b6d4-449f-84a6-b3d3d1e7bbc4": {
-      "type": "rich-text",
-      "blocks": {
-        "7e72a4c6-a31b-4ddd-954e-21ccd14e6a45": {
-          "type": "sub_heading",
-          "settings": {
-            "sub_heading": "OTHER DEFINITIONS",
-            "font_weight_sub_heading": "700",
-            "sub_heading_size": 18,
-            "margin_top_sub_heading": 5,
-            "sub_heading_color": "#000000"
-          }
-        },
-        "439afdcb-3ec8-468d-81cc-187e67f005de": {
-          "type": "content",
-          "settings": {
-            "content_top": "\"Agreement\" means the aforesaid terms and conditions; \"Bombay Shaving Company\" refers to the trade name Bombay Shaving Company operating under Visage Lines Personal Care Pvt Ltd; \"Products\" mean consumer items, inclusive of but not restricted to, Shaving Razor, Brush, Blades, Cream, Scrub and After Shave and other items as may be manufactured \/ sourced by Bombay Shaving Company from time to time; “Offerings” mean all the products, packages, features, applications and the like provided by us, inclusive of but not restricted to, site functionalities, subscription and any other third party offerings. \"Site\" means the website maintained by Bombay Shaving Company, http:\/\/www.bombayshavingcompany.com on which all the Creations, Products and Reproductions shall be displayed for the benefit of the users of the website; \"End User(s)\" means any person, who may or may not have an account registered on the Site, who has logged on to the Site for the purpose of browsing and\/or use of the features available thereon.",
-            "content_bottom": "",
-            "alignment_content": "left",
-            "content_size": 13,
-            "margin_top_content": 20,
-            "content_color": "#000000",
-            "content_width": "800px",
-            "button_text_more": "Read More",
-            "button_text_less": "Read Less",
-            "button_text_font_size": 14,
-            "button_text_font_weight": "500",
-            "margin_top_button_text": 30,
-            "button_text_color": "#ffffff",
-            "button_text_border_color": "#000000",
-            "button_text_bg_color": "#000000",
-            "button_text_bg_color_gradient": "",
-            "button_text_color_hover": "#000000",
-            "button_text_border_color_hover": "#000000",
-            "button_text_bg_color_hover": "#ffffff",
-            "button_text_bg_color_hover_gradient": "",
-            "button_text_more_width": 270,
-            "pd_top_button_text": 12,
-            "pd_bottom_button_text": 12
-          }
-        },
-        "template--16129473314970__f0296d79-b6d4-449f-84a6-b3d3d1e7bbc4-social_media-1": {
-          "type": "social_media",
-          "disabled": true,
-          "settings": {
-            "social_spacing_top": 0,
-            "social_spacing_bottom": 0,
-            "social_icon_color": "",
-            "social_icon_background_color": "",
-            "social_icon_background_gradient": "",
-            "social_icon_hover_color": "",
-            "social_icon_background_hover_color": "",
-            "social_icon_background_hover_gradient": "",
-            "social_icon_ring_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "7e72a4c6-a31b-4ddd-954e-21ccd14e6a45",
-        "439afdcb-3ec8-468d-81cc-187e67f005de",
-        "template--16129473314970__f0296d79-b6d4-449f-84a6-b3d3d1e7bbc4-social_media-1"
+        "602a5d14-1105-4c02-8ba9-7273931dd20b",
+        "ef6fbc94-d372-46c8-be0c-86b29fe45afa"
       ],
       "settings": {
         "container": "container",
@@ -221,8 +101,6 @@
   },
   "order": [
     "main",
-    "a130c6b6-5958-40ca-8b92-2ea277a78f54",
-    "c42a1537-c127-4b33-92b5-b3b4b9ee2358",
-    "f0296d79-b6d4-449f-84a6-b3d3d1e7bbc4"
+    "a130c6b6-5958-40ca-8b92-2ea277a78f54"
   ]
 }
