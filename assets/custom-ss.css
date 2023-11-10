@@ -107,6 +107,13 @@ a.card-title.link-underline.card-title-ellipsis {
     font-weight: 500;
     text-align: left;
 }
+.collection-description.halo-text-format.text-center {
+    background: #0d5ea899;
+    padding-top: 26px;
+    padding-left: 12px;
+    border-radius: 7px;
+    border: 1px dashed;
+}
 .collection-description.halo-text-format.text-center button {
     display: none;
 }
