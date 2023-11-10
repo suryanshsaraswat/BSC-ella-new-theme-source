@@ -67,10 +67,10 @@
         "show_page_title": true,
         "page_title_alignment": "center",
         "container": "container",
-        "mg_top_desktop": 0,
+        "mg_top_desktop": 20,
         "mg_top_tablet": 0,
         "mg_top_mobile": 0,
-        "mg_bottom_desktop": 0,
+        "mg_bottom_desktop": 20,
         "mg_bottom_tablet": 0,
         "mg_bottom_mobile": 0,
         "layout": "2"
