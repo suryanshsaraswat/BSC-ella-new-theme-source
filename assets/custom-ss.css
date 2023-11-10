@@ -106,6 +106,7 @@ a.card-title.link-underline.card-title-ellipsis {
     font-size: 14px;
     font-weight: 500;
     text-align: left;
+    color:#000;
 }
 .collection-description.halo-text-format.text-center {
     background: #0d5ea899;
