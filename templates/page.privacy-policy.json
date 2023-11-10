@@ -1278,7 +1278,7 @@
         "53c76f3d-bf31-43ef-bdfe-fd59cf5d862d": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "About Us",
+            "sub_heading": "CHANGES IN THIS PRIVACY POLICY",
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 10,
@@ -1288,10 +1288,10 @@
         "e2420311-4891-4232-9bd7-61ce96ebbed3": {
           "type": "content",
           "settings": {
-            "content_top": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "content_bottom": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "alignment_content": "center",
-            "content_size": 16,
+            "content_top": "We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we collect or use information, we will notify you by posting an announcement on the Offerings or sending you an email. A user is bound by any changes to the Privacy Policy when he or she uses the Offerings after such changes have been first posted.",
+            "content_bottom": "",
+            "alignment_content": "left",
+            "content_size": 13,
             "margin_top_content": 20,
             "content_color": "#000",
             "content_width": "800px",
@@ -1340,9 +1340,9 @@
         "44ceb158-3e28-43b9-8cb7-42f11c359267": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "About Us",
+            "sub_heading": "QUESTIONS",
             "font_weight_sub_heading": "700",
-            "sub_heading_size": 14,
+            "sub_heading_size": 18,
             "margin_top_sub_heading": 10,
             "sub_heading_color": "#000"
           }
@@ -1350,10 +1350,10 @@
         "8ecdf560-d3d8-43f8-aad0-9892db7d7ad8": {
           "type": "content",
           "settings": {
-            "content_top": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "content_bottom": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "alignment_content": "center",
-            "content_size": 16,
+            "content_top": "If you have any questions or concerns regarding privacy using the Offerings, please send a detailed message to our support team. We will make every effort to resolve your concerns.",
+            "content_bottom": "",
+            "alignment_content": "left",
+            "content_size": 13,
             "margin_top_content": 20,
             "content_color": "#000",
             "content_width": "800px",
@@ -1386,12 +1386,12 @@
         "enable_border_top": false,
         "enable_border_bottom": false,
         "color_border_bottom": "#e8e8e8",
-        "mg_top_desktop": 50,
-        "mg_top_tablet": 50,
-        "mg_top_mobile": 50,
-        "mg_bottom_desktop": 50,
-        "mg_bottom_tablet": 50,
-        "mg_bottom_mobile": 50,
+        "mg_top_desktop": 20,
+        "mg_top_tablet": 20,
+        "mg_top_mobile": 20,
+        "mg_bottom_desktop": 0,
+        "mg_bottom_tablet": 0,
+        "mg_bottom_mobile": 0,
         "rich_text_bg": "#ffffff",
         "rich_text_bg_gradient": ""
       }
