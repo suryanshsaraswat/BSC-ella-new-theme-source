@@ -15,7 +15,7 @@
 			{%- if show_read_more_read_less -%}
 				<div class="short-description">
 					{%- liquid
-              assign desc = collection.description | strip_html
+              assign desc = collection.description
               assign word_number = 50
               assign countWord = desc | split: ' ' 
               assign countWordSize = countWord.size
