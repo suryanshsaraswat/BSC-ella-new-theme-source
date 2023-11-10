@@ -1,12 +1,24 @@
 {% schema %}
   {
-    "name": "Section name",
-    "settings": []
+    "name": "Collection banner",
+    "settings": [
+      {
+        "type":"image_picker",
+        "id":"coll_desk_img",
+        "label":"Collection Image Desktop",
+        "info":"Connect the metafield from collections"
+      },
+      {
+        "type":"image_picker",
+        "id":"coll_mob_img",
+        "label":"Collection Image mobile",
+        "info":"Connect the metafield from collections"
+      }
+    ],
+    "presets":[
+      {
+        "name":"Collection Banner"
+      }
+    ]
   }
 {% endschema %}
-
-{% stylesheet %}
-{% endstylesheet %}
-
-{% javascript %}
-{% endjavascript %}
