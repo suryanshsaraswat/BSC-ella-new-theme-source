@@ -31,7 +31,7 @@
         "602a5d14-1105-4c02-8ba9-7273931dd20b": {
           "type": "content",
           "settings": {
-            "content_top": "Welcome to bombayshavingcompany.com, a web-site affiliated to Visage Lines Personal Care Pvt Ltd. Please read these Terms and Conditions (collectively with “Privacy Policy”) fully and carefully before using www.bombayshavingcompany.com (the “Site”) and the features, content, applications, or products offered by Visage Lines Personal Care Pvt Ltd. (hereinafter referred to as “Bombay Shaving Company”, “Company”, “we”, “our” or “us”) (together with the Site, the “Offerings”). These Terms & Conditions set forth the legally binding terms and conditions for your use of the Site and the Offerings. Bombay Shaving Company solely reserves the right to accept, reject and remove users from registrations on the website & related web assets without stating any reason thereof. We reserve the right to restrict access to some parts or all of this Website. Bombay Shaving Company solely reserves the right to accept, reject or cancel any order after order confirmation.",
+            "content_top": "<p>This Privacy Policy describes the policies and procedures of Visage Lines Personal Care Pvt Ltd, Inc. (hereinafter referred to as “Bombay Shaving Company”, “Company”, “we”, “our” or “us”) on the collection, use and disclosure of your information on www.bombayshavingcompany.com (the “Site”) and the Offerings, features, content, applications, and products we offer (collectively with the Site, the “Offerings”). This Privacy policy is subject to the Terms and Conditions available on our Site and in the event of any inconsistency hereof with the Terms & Conditions, the Terms & Conditions shall override.<\/p>\n<p>We receive information about you from various sources, including: (i) if you register for the Site and the Offerings, through your user account on the Offerings (your “Account”); (ii) your use of the Offerings generally; and (iii) from third party websites and services. When you use the Offerings, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.<\/p>",
             "content_bottom": "",
             "alignment_content": "left",
             "content_size": 13,
@@ -84,7 +84,7 @@
         "6318c9ee-8b8b-4c61-b165-def3c3ce478f": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "JURISDICTION AND GOVERNING LAW",
+            "sub_heading": "SCOPE OF PRIVACY POLICY",
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 5,
@@ -94,7 +94,7 @@
         "0087497c-c014-4218-ada9-51980b336c54": {
           "type": "content",
           "settings": {
-            "content_top": "Any dispute or difference arising any time between the Parties hereto in respect of the Agreement or the interpretation of any of the provision of this Agreement and\/or any amendments or modification thereof for the time being and from time to time in force, shall be decided in accordance with Indian Law by Courts courts situated in Delhi, which Courts shall have the exclusive jurisdiction to adjudicate such disputes.",
+            "content_top": "<p>This Privacy Policy covers the treatment of personally identifiable information (“Personal Information”) gathered when you are using or accessing the Offerings. This Privacy Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners.<\/p>\n<p>This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications (“Third Party Services”) that you elect to access through the Offerings or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access.<\/p>",
             "content_bottom": "",
             "alignment_content": "left",
             "content_size": 13,
@@ -146,7 +146,7 @@
         "7e72a4c6-a31b-4ddd-954e-21ccd14e6a45": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "OTHER DEFINITIONS",
+            "sub_heading": "INFORMATION WE COLLECT",
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 5,
@@ -156,7 +156,7 @@
         "439afdcb-3ec8-468d-81cc-187e67f005de": {
           "type": "content",
           "settings": {
-            "content_top": "\"Agreement\" means the aforesaid terms and conditions; \"Bombay Shaving Company\" refers to the trade name Bombay Shaving Company operating under Visage Lines Personal Care Pvt Ltd; \"Products\" mean consumer items, inclusive of but not restricted to, Shaving Razor, Brush, Blades, Cream, Scrub and After Shave and other items as may be manufactured \/ sourced by Bombay Shaving Company from time to time; “Offerings” mean all the products, packages, features, applications and the like provided by us, inclusive of but not restricted to, site functionalities, subscription and any other third party offerings. \"Site\" means the website maintained by Bombay Shaving Company, http:\/\/www.bombayshavingcompany.com on which all the Creations, Products and Reproductions shall be displayed for the benefit of the users of the website; \"End User(s)\" means any person, who may or may not have an account registered on the Site, who has logged on to the Site for the purpose of browsing and\/or use of the features available thereon.",
+            "content_top": "The information we gather enables us to personalize, improve and continue to operate the Offerings in an efficient and optimized manner. In connection with certain aspects of the Offerings, we may request, collect and\/or display some of your Personal Information on a need basis. We collect the following types of information from our users.",
             "content_bottom": "",
             "alignment_content": "left",
             "content_size": 13,
@@ -224,7 +224,7 @@
         "5ad0fd60-b214-4f73-a5cb-eaaec544d9b8": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "LICENSE & SITE ACCESS",
+            "sub_heading": "ACCOUNT INFORMATION",
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 5,
@@ -234,7 +234,7 @@
         "0562ce35-e21c-4296-a146-d5a865f0adb4": {
           "type": "content",
           "settings": {
-            "content_top": "Bombay Shaving Company & bombayshavingcompany.com does not permit copying or downloading of any kind of content (text, graphics, clip arts, icons, images, audio clips, videos or software) and these are solely owned by Visage Lines Personal Care Pvt. Ltd. Any unauthorized use of the content of the website by you shall bring to an immediate end, any permissions granted to you by Bombay Shaving Company & result in appropriate action at the sole option of the Company. Bombay Shaving Company and related web assets on third party sites may include links to third party websites that are controlled and maintained by others. Any link to other websites or any other destination on the internet or mobile is not an endorsement of such websites or destination and Bombay Shaving Company or its properties are not liable for the content or availability of any such sites. Unauthorized use of Bombay Shaving Company may give rise to a claim for damages and\/or regarded as a criminal offense resulting in appropriate legal action.",
+            "content_top": "When you create an Account, you will provide information that could be Personal Information, such as your username, password and email address. You acknowledge that this information may be personal to you, and by creating an account on the Offerings and providing Personal Information to us, you allow others, including us, to identify you and therefore may not be anonymous. We may use your contact information to send you information about our Offerings, but only rarely when we feel such information is important. You may unsubscribe from these messages through your Account settings, although we, regardless, reserve the right to contact you when we believe it is necessary, such as for account recovery purposes.",
             "content_bottom": "",
             "alignment_content": "left",
             "content_size": 13,
@@ -286,7 +286,7 @@
         "358991b9-dc3a-4dbe-b1ee-193294c7b46a": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "INCORPORATION BY REFERENCE",
+            "sub_heading": "FINANCIAL INFORMATION",
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 5,
@@ -296,7 +296,7 @@
         "29afdee0-3d2e-410e-af07-aa2bb4d4d116": {
           "type": "content",
           "settings": {
-            "content_top": "The Company’s Privacy Policy, Product Descriptions, Returns and Refund Policy, Pricing Information and all such information and documents as are present on and updated to the Site from time to time shall for a part and parcel of these Terms and Conditions. In the event of any inconsistency hereof with the Terms & Conditions, the Terms & Conditions shall override.",
+            "content_top": "We do not currently collect financial information, such as your payment method (valid credit card number, type, expiration date or other financial information); that information is collected and stored by the concerned third party payment processing company (the “Payment Processor”), and use and storage of that information is governed by the Payment Processor’s applicable terms of service and privacy policy. We undertake no responsibility for the safekeeping of such information and shall not be liable for any disclosure, use, display or any other utilization of such information, whether direct or indirect, provided by you to third party payment processing companies.",
             "content_bottom": "",
             "alignment_content": "left",
             "content_size": 13,
@@ -348,7 +348,7 @@
         "a33cfb3c-fcb5-48c7-adb8-a973ebf0cfa6": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "ACCOUNT",
+            "sub_heading": "IP ADDRESS INFORMATION",
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 5,
@@ -358,7 +358,7 @@
         "70608b80-a6ea-4f43-ad75-b70aa910ba86": {
           "type": "content",
           "settings": {
-            "content_top": "Post purchase of any product or registering with bombayshavingcompany.com directly or through any authorized third parties as engaged by Bombay Shaving Company, you become a registered member of bombayshavingcompany.com and hold an account on the website which represents that you are of legal age to form a binding contract and are not a person barred from receiving services under the laws as applicable in India. You are solely responsible for maintaining the confidentiality of the account and the password. If you have supplied us with your correct email address then you will receive your order details via email. You solely own the rights of the account. Your account and the information provided by you in relation thereto shall be governed by the Privacy Policy available on our Site. Bombayshavingcompany.com will not be responsible for any misuse of account. Any account activity found violating the policies of bombayshavingcompany.com will stand cancelled and may result in termination of your account\/ membership.",
+            "content_top": "IP ADDRESS INFORMATION\nWe automatically receive and record information from your web browser when you interact with the Offerings, including your IP address and cookie information. This information is used for fighting spam\/malware and also to facilitate collection of data concerning your interaction with the Offerings (e.g., what links you have clicked on). Generally, the Offerings automatically collect usage information, such as the number and frequency of visitors to the Site. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Offerings so that we can analyze and optimize them for the benefit of our consumers and the Company.",
             "content_bottom": "",
             "alignment_content": "left",
             "content_size": 13,
@@ -410,7 +410,7 @@
         "79441165-e9bc-42f7-a0a5-35a7831d367f": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "TRADEMARKS & LOGOS",
+            "sub_heading": "EMAIL COMMUNICATIONS",
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 5,
@@ -420,7 +420,7 @@
         "d690c1a0-b4cc-4275-97d5-d56544cb9e5c": {
           "type": "content",
           "settings": {
-            "content_top": "The trademarks, logos and service marks displayed on bombayshavingcompany.com are registered trademarks of Visage Lines Personal Care Pvt Ltd., its affiliates and other respective third parties. Nothing contained on bombayshavingcompany.com should be construed as granting any license or right to use any trademarks without the prior written permission of the website owner.",
+            "content_top": "We may receive a confirmation when you open an email from us. We use this confirmation to improve our customer service.",
             "content_bottom": "",
             "alignment_content": "left",
             "content_size": 13,
@@ -472,7 +472,7 @@
         "65b8627e-27a7-4a46-be85-9cfd21fd1b43": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "MEMBERSHIP ELIGIBILITY",
+            "sub_heading": "GRIEVANCE OFFICER",
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 5,
@@ -482,7 +482,7 @@
         "e65e8c92-f4a9-45d2-89e9-967823a23362": {
           "type": "content",
           "settings": {
-            "content_top": "Persons who cannot enter into legally binding contracts in accordance with the provisions of the Indian Contract Act, 1872 including un-discharged insolvents etc. are not entitled to use bombayshavingcompany.com. Persons under the age of 18 years but above 13 years of age (“Minors”) may use this Site only under the supervision of a parent or legal guardian who agrees to be bound by these Terms and Conditions. If the Minor’s age is below that of 18 years, only the Minor’s parents or legal guardians can transact on behalf of such Minors, provided that their parents\/ guardians are registered users. Minors are prohibited from purchasing any material. The Site is freely accessible to the End User, however we utilize Google Analytics User-ID mapping features to track the End User and their visit to help us improve overall site function and to deliver a better user experience. The End User will have to register with bombayshavingcompany.com and create their individual registration account prior to any purchase of products. All registration information must be correct, complete and promptly updated by the End User.",
+            "content_top": "In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below:\n<br>\n<b>Mr. Rohit Taneja<\/b>\n<br>\nDesignation: Senior Manager\n<br>\nVisage Lines Personal Care Pvt Ltd.\n<br>\n5th Floor, Gulf Adiba’, Plot \n<br>\nNumber 272,\n<br>\nUdyog Vihar, Phase – II, \n<br>\nGurugram, Haryana – 122008\n<br>\nPhone: +91 95826 14640\n<br>\nEmail: rt@bombayshavingcompany.com\n<br>\nTime: Mon - Fri (10:00 - 18:00)",
             "content_bottom": "",
             "alignment_content": "left",
             "content_size": 13,
@@ -534,7 +534,7 @@
         "3d134e99-6776-4764-a3e8-e01ab60aacbc": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "GOVERNING LAWS",
+            "sub_heading": "INFORMATION COLLECTED USING COOKIES",
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 5,
@@ -544,7 +544,7 @@
         "e5cad28f-53a9-4815-bbcb-bd6227324b47": {
           "type": "content",
           "settings": {
-            "content_top": "Use of bombayshavingcompany.com shall in all respects be governed by the laws of India, regardless of the laws that might be applicable under principles of conflicts of law. These terms shall be governed by and constructed in accordance with the laws of India without reference to conflict of laws. Disputes arising in relation hereto shall be subject to the exclusive jurisdiction of the courts at New Delhi.",
+            "content_top": "<p>Cookies are pieces of text that may be provided to your computer through your web browser when you access a website. Your browser stores cookies in a manner associated with each website you visit. We use cookies to enable our servers to recognize your web browser and tell us how and when you visit the Site and otherwise use the Offerings through the Internet.<\/p>\n<p>Our cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser has accessed aspects of the Offerings and may associate that information with your Account if you have one.<\/p>\n<p>Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave cookies active, because they enable you to take advantage the most attractive features of the Offerings.<\/p>\n<p>This Privacy Policy covers cookies provided by our Site only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer. For example, third party websites to which a link points may set cookies on your computer.<\/p>",
             "content_bottom": "",
             "alignment_content": "left",
             "content_size": 13,
@@ -596,7 +596,7 @@
         "75d8ddc3-bc9a-4761-9716-c5feff32e899": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "INDEMNITY",
+            "sub_heading": "AGGREGATE INFORMATION",
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 5,
@@ -606,7 +606,7 @@
         "e0234581-cd2a-4bb4-a122-7aeb46404605": {
           "type": "content",
           "settings": {
-            "content_top": "bombayshavingcompany.com, its officers, directors, shareholders, parents, subsidiaries, affiliates, employees, or joint venture partner are not liable to you for any incidental, indirect, consequential, special, punitive, or exemplary damages and\/or costs of any kind, arising from your use of this website or your breach of these terms.",
+            "content_top": "We collect statistical information about how both unregistered and registered users, collectively, use the Offerings (“Aggregate Information”). Some of this information is derived from Personal Information. This statistical information is not Personal Information and cannot be tied back to you, your Account or your web browser.",
             "content_bottom": "",
             "alignment_content": "left",
             "content_size": 13,
@@ -658,7 +658,7 @@
         "2b4cf554-d6f5-44b2-8ba3-ef95576ccab0": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "LIMITATION OF LIABILITY",
+            "sub_heading": "EMAIL COMMUNICATION WITH US",
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 5,
@@ -668,7 +668,7 @@
         "3ea02cfb-f929-494e-bcce-ef416ceb68eb": {
           "type": "content",
           "settings": {
-            "content_top": "In any event the liability of bombayshavingcompany.com, for any loss or damage caused to you, whether direct or indirect, shall not exceed the amounts already paid by you to the bombayshavingcompany.com in relation to the purchase of Offerings through your Account. bombayshavingcompany.com will not be liable in any way for loss, damage, costs or expenses (including loss of profit) arising directly or indirectly from any failure or delay in performing any obligation under this Contract by reason of any event or circumstance outside the reasonable control of bombayshavingcompany.com, including (but not limited to), any strikes, industrial action, failure of power supplies or equipment, government action or Act of God. This limitation of liability section shall prevail over any conflicting or inconsistent provision contained in any of the documents comprising this Agreement. We suggest you take precautions to ensure that whatever you select for your use is free of such items as viruses, worms, Trojan horses and other items of destructive nature. While availing any of the payment method\/s offered by bombayshavingcompany.com, bombayshavingcompany.com is not responsible or takes no liability of any kind in respect to any loss or damage arising directly or indirectly to you out of the decline due to: Lack of authorization for any transaction\/s, or Exceeding the preset limit mutually agreed by you and between your \"Bank\/s\" and\/or Service Provider\/s, or Any payment issues arising out of the transaction, or Decline of transaction for any other reason\/s.",
+            "content_top": "As part of the Offerings, you may occasionally receive email and other communications from us, such as communications relating to your Account. Communications relating to your Account will only be sent for purposes important to the Offerings, such as password recovery.",
             "content_bottom": "",
             "alignment_content": "left",
             "content_size": 13,
@@ -720,7 +720,7 @@
         "2a11e757-2a06-4f50-a456-68b042e94141": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "PAID OFFERINGS",
+            "sub_heading": "FINANCIAL INFORMATION",
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 5,
@@ -730,7 +730,7 @@
         "7a2f3d8c-aaaa-45fc-8452-dc1a4a5a5d94": {
           "type": "content",
           "settings": {
-            "content_top": "Certain of our Offerings, including the purchase of any products offered by us, may be subject to payments now or in the future (the “Paid Offerings”). Please note that any payment terms presented to you in the process of using or signing up for a Paid Service are deemed part of this Agreement.",
+            "content_top": "As stated above, we do not currently collect financial information, as that information is collected and stored by our Payment Processor. However, we may from time to time request and receive some of your financial information from our Payment Processor for the purposes of completing transactions you have initiated through the Offerings, enrolling you in discount, rebate, and other programs in which you elect to participate, protecting against or identifying possible fraudulent transactions, and otherwise as needed to manage our business.",
             "content_bottom": "",
             "alignment_content": "left",
             "content_size": 13,
@@ -782,7 +782,7 @@
         "f871f117-674d-4db5-9341-d3ce2b1fb5ed": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "RECURRING BILLING",
+            "sub_heading": "INFORMATION SHARED WITH AGENTS",
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 5,
@@ -792,7 +792,7 @@
         "3357af71-e047-4cdf-b7bb-f95a09c5e69f": {
           "type": "content",
           "settings": {
-            "content_top": "We use a third-party payment processor (the “Payment Processor”) to bill you through a payment account linked to your Account on the Offerings (your “Billing Account”) for use of the Paid Offerings. The processing of payments will be subject to the terms, conditions and privacy policies of the Payment Processor in addition to this Agreement. We are not responsible for errors by the Payment Processor. By choosing to use Paid Offerings, you agree to pay us, through the Payment Processor, all charges at the prices then in effect for any use of such Paid Offerings in accordance with the applicable payment terms and you authorize us, through the Payment Processor, to charge your chosen payment provider (your “Payment Method”). You agree to make payments using that selected Payment Method. We reserve the right to correct any errors or mistakes that it makes even if it has already requested or received payment.",
+            "content_top": "We employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our “Agents”). They include but are not limited to, warehouse operators and delivery partners. We may need to share Personal Information with our Agents in order to provide our Offerings to you. Unless we tell you differently, our Agents do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information with our Agents.",
             "content_bottom": "",
             "alignment_content": "left",
             "content_size": 13,
@@ -844,7 +844,7 @@
         "bae67b3c-0541-42a3-b170-7d7d0dc5b4cf": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "AUTO-REPLENISHMENT FOR SUBSCRIPTION SERVICES",
+            "sub_heading": "INFORMATION DISCLOSED PURSUANT TO BUSINESS TRANSFERS",
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 5,
@@ -854,7 +854,7 @@
         "d454f037-1a99-4191-86a7-421ddb8b7d47": {
           "type": "content",
           "settings": {
-            "content_top": "Unless you opt out of auto-replenishment, which can be done through your Account Settings, any subscription services, such as any auto-replacing products (“Subscription Offerings”), you have signed up for will be automatically extended for successive renewal periods of the same duration as the subscription term originally selected, at the then-current non-promotional rate. You can change or resign your Subscription Service at any time. If you terminate a Subscription Service, you may use your subscription until the end of your then-current term; your subscription will not be renewed after your then-current term expires. All fees related to Subscription Offerings are fully earned upon payment.",
+            "content_top": "In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your Personal Information as set forth in this policy.",
             "content_bottom": "",
             "alignment_content": "left",
             "content_size": 13,
@@ -906,7 +906,7 @@
         "f891e901-3a46-4172-b693-24fe73d6b4d4": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "TERMINATION",
+            "sub_heading": "INFORMATION DISCLOSED FOR OUR PROTECTION AND PROTECTION OF OTHERS",
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 5,
@@ -916,7 +916,7 @@
         "6c694a51-ea84-4853-b583-cdef34b4335f": {
           "type": "content",
           "settings": {
-            "content_top": "We may terminate your access to all or any part of the Offerings at any time, with or without cause, with or without notice, effective immediately, which may result in the forfeiture and destruction of all information associated with your membership. If you wish to terminate your Account, you may do so by following the instructions on the Site or through the Offerings. Any fees paid hereunder are non-refundable. All provisions of these Terms & Conditions which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.",
+            "content_top": "We also reserve the right to access, read, preserve, and disclose any information as it reasonably believes is necessary to (i) satisfy any applicable law, regulation, legal process, to satisfy orders of courts, tribunals, authorities, or the like and\/or governmental request, (ii) enforce our Terms and Conditions, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam\/malware prevention.",
             "content_bottom": "",
             "alignment_content": "left",
             "content_size": 13,
@@ -968,7 +968,7 @@
         "02fb45fc-0881-46d3-a9cf-8e4d9322804e": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "OFFERS & PROMOTIONS",
+            "sub_heading": "INFORMATION WE SHARE WITH CONSENT",
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 5,
@@ -978,7 +978,7 @@
         "1bdcf8cb-f281-4eb1-aecc-3ddaefdfcf3f": {
           "type": "content",
           "settings": {
-            "content_top": "Bombay shaving company runs some time to time promotions to drive customer acquisitions. We offer some samplers\/ Freebies\/ Complimentary items time to time to our shoppers. These items are limited to 1 unit per customer. Minimum shopping value may be also applicable. Bombay Shaving Company reserves to cancel all those orders where customer has been able to get more than 1 unit of sampler\/ Freebie\/ Complimentary item or not meeting the minimum cart value for the same even after the order acceptance. Customer would be refunded the paid amount in case of pre-payment. Bombay shaving company reserves the right to cancel, accept and cancel any order even after the acceptance without stating any reason to the customer.",
+            "content_top": "Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.",
             "content_bottom": "",
             "alignment_content": "left",
             "content_size": 13,
@@ -1030,7 +1030,7 @@
         "292ee876-aa67-41dc-b42f-bd1c497d4598": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "RAZORPRENEUR",
+            "sub_heading": "SECURITY OF END USER INFORMATION",
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 5,
@@ -1040,7 +1040,7 @@
         "2ab8e005-1226-4bb8-8e9e-ecdae1faeba2": {
           "type": "content",
           "settings": {
-            "content_top": "<ul>\n<li>All terms and conditions are applicable as per the details on the Terms & Condition page.<\/li>\n<li>Standard cancellation policy is applicable for orders placed during this challenge. For details, please refer to our Cancellation Policy.<\/li>\n<li>Standard privacy policy is applicable on the collection of all information. For details, please refer to our Privacy Policy.<\/li>\n<li>You can reach out to our team by writing to us at razorpreneur@bombayshavingcompany.com. We are available between Monday to Friday, between 10:00 AM and 6:00 PM.<\/li>\n<li>Bombay Shaving company has complete control on deciding the ranking and rewards for this challenge, the criteria for evaluation includes, but is not limited to, the number of razors sold, qualitative evaluation of the process\/ideas followed by the users during the period of competition. Final decisions on the ranking and rewards will be will be decided by the Company at its sole discretion and will be subject to tax as per government rules.<\/li>\n<li>Only select institutes are eligible for participation in the campus program for the challenge and the rewards and internship opportunity are restricted to these colleges only. Final decisions on the list of institutes, rewards and prize money will be decided by the Bombay Shaving Company at its sole discretion.<\/li>\n<li>Rewards:\n      <ul> \n          <li>The winning Razorpreneur from the finale will get prize money worth INR 2 lakh.<\/li>\n<li>Seed capital for funding will be capped at INR 2 lakhs for each of the top Razorpreneurs.<\/li>\n<li>Chance to be eligible for pitching for additional of 1 crore will be decided by the Company at its sole discretion.<\/li>\n<li>The additional categories eligible for cash rewards of up to Rs 1 lakh will be decided by the company.<\/li>\n<li>Internship and mentorship opportunities will be decided at the sole discretion of Bombay Shaving Company.<\/li>\n<\/ul>\n<\/li>\n<li>Final decisions on the rewards and prize money will be will be decided by the Company at its sole discretion and will be subject to tax as per government rules.<\/li>\n<li>Cash on delivery is not allowed as a payment option for this competition.<\/li>\n<\/ul>",
+            "content_top": "<p>Your Account information will be protected by a password for your privacy and security. You need to prevent unauthorized access to your Account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your Account.<\/p>\n<p>We seek to protect Account information to ensure that it is kept private; however, we cannot guarantee the security of any Account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. We otherwise store all of our information, including your IP address information, using industry- standard techniques. We do not guarantee or warrant that such techniques will prevent unauthorized access to information about you that we store, Personal Information or otherwise.<\/p>",
             "content_bottom": "",
             "alignment_content": "left",
             "content_size": 13,
@@ -1092,7 +1092,7 @@
         "06e5e98b-d799-425e-9aa6-372a7a8c8d63": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "PAISAWAPSI SALE",
+            "sub_heading": "INFORMATION ACCESSIBLE TO END USER ASSOCIATED WITH END USER ACCOUNT",
             "font_weight_sub_heading": "700",
             "sub_heading_size": 18,
             "margin_top_sub_heading": 5,
@@ -1102,7 +1102,7 @@
         "191aedbd-6b6a-401f-9ca9-e3f0a601fb62": {
           "type": "content",
           "settings": {
-            "content_top": "<ul>\n<li>Cashback would be credited in the form of a 100% value dynamic coupon redeemable on BSC post delivery of the product<\/li>\n<li>Returns post delivery and receiving the cashback are not allowed<\/li>\n<li>Brand coupons are to be redeemed on Partner websites- Partner brands have full ownership of the coupons issued<\/li>\n<li>Freebie worth 300+ would be from liquidation stock which would be fresh for 90 days before expiry<\/li>\n<\/ul>",
+            "content_top": "If you are a registered user, you can access information associated with your Account by logging into the Offerings. Registered and unregistered users can access and delete cookies through their web browser settings.",
             "content_bottom": "",
             "alignment_content": "left",
             "content_size": 13,
@@ -1147,6 +1147,240 @@
         "rich_text_bg": "#ffffff",
         "rich_text_bg_gradient": ""
       }
+    },
+    "89f474d6-a028-4645-a6e3-aa2fab91ec2f": {
+      "type": "rich-text",
+      "blocks": {
+        "cbaca502-4e88-4398-9318-1e6c72df5dec": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "About Us",
+            "font_weight_sub_heading": "700",
+            "sub_heading_size": 14,
+            "margin_top_sub_heading": 10,
+            "sub_heading_color": "#000"
+          }
+        },
+        "4e224088-6e0a-402e-a05d-aed99c9c93f2": {
+          "type": "content",
+          "settings": {
+            "content_top": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "content_bottom": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "alignment_content": "center",
+            "content_size": 16,
+            "margin_top_content": 20,
+            "content_color": "#000",
+            "content_width": "800px",
+            "button_text_more": "Read More",
+            "button_text_less": "Read Less",
+            "button_text_font_size": 14,
+            "button_text_font_weight": "500",
+            "margin_top_button_text": 30,
+            "button_text_color": "#fff",
+            "button_text_border_color": "#000",
+            "button_text_bg_color": "#000",
+            "button_text_bg_color_gradient": "",
+            "button_text_color_hover": "#000",
+            "button_text_border_color_hover": "#000",
+            "button_text_bg_color_hover": "#fff",
+            "button_text_bg_color_hover_gradient": "",
+            "button_text_more_width": 270,
+            "pd_top_button_text": 12,
+            "pd_bottom_button_text": 12
+          }
+        }
+      },
+      "block_order": [
+        "cbaca502-4e88-4398-9318-1e6c72df5dec",
+        "4e224088-6e0a-402e-a05d-aed99c9c93f2"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "enable_border_top": false,
+        "enable_border_bottom": false,
+        "color_border_bottom": "#e8e8e8",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50,
+        "rich_text_bg": "#fff",
+        "rich_text_bg_gradient": ""
+      }
+    },
+    "081edbc1-ce5e-4fa9-9590-7f7b41f55ea4": {
+      "type": "rich-text",
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "enable_border_top": false,
+        "enable_border_bottom": false,
+        "color_border_bottom": "#e8e8e8",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50,
+        "rich_text_bg": "#fff",
+        "rich_text_bg_gradient": ""
+      }
+    },
+    "704f9d08-c84c-410c-a4c4-3cb87e557be1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16294247628954__704f9d08-c84c-410c-a4c4-3cb87e557be1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": 30,
+            "heading_size_mb": 30,
+            "heading_color": "#000"
+          }
+        },
+        "template--16294247628954__704f9d08-c84c-410c-a4c4-3cb87e557be1-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "text_size": 16,
+            "margin_top_text": 20,
+            "text_color": "#000",
+            "text_width": "800px"
+          }
+        },
+        "template--16294247628954__704f9d08-c84c-410c-a4c4-3cb87e557be1-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "margin_top_button": 30,
+            "button_link": "",
+            "button_color": "#fff",
+            "enable_underline_button": false,
+            "button_border_color": "#000",
+            "button_bg_color": "#000",
+            "button_bg_gradient": "",
+            "button_color_hover": "#000",
+            "button_border_color_hover": "#000",
+            "button_bg_color_hover": "#fff",
+            "button_bg_gradient_hover": "",
+            "button_width": "270px"
+          }
+        },
+        "template--16294247628954__704f9d08-c84c-410c-a4c4-3cb87e557be1-social_media-1": {
+          "type": "social_media",
+          "settings": {
+            "social_spacing_top": 0,
+            "social_spacing_bottom": 0,
+            "social_icon_color": "",
+            "social_icon_background_color": "",
+            "social_icon_background_gradient": "",
+            "social_icon_hover_color": "",
+            "social_icon_background_hover_color": "",
+            "social_icon_background_hover_gradient": "",
+            "social_icon_ring_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16294247628954__704f9d08-c84c-410c-a4c4-3cb87e557be1-heading-1",
+        "template--16294247628954__704f9d08-c84c-410c-a4c4-3cb87e557be1-text-1",
+        "template--16294247628954__704f9d08-c84c-410c-a4c4-3cb87e557be1-button-1",
+        "template--16294247628954__704f9d08-c84c-410c-a4c4-3cb87e557be1-social_media-1"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "enable_border_top": false,
+        "enable_border_bottom": false,
+        "color_border_bottom": "#e8e8e8",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50,
+        "rich_text_bg": "#fff",
+        "rich_text_bg_gradient": ""
+      }
+    },
+    "cdc555c3-9f70-47bb-a047-8e7bd1a8407d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16294247628954__cdc555c3-9f70-47bb-a047-8e7bd1a8407d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": 30,
+            "heading_size_mb": 30,
+            "heading_color": "#000"
+          }
+        },
+        "template--16294247628954__cdc555c3-9f70-47bb-a047-8e7bd1a8407d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "text_size": 16,
+            "margin_top_text": 20,
+            "text_color": "#000",
+            "text_width": "800px"
+          }
+        },
+        "template--16294247628954__cdc555c3-9f70-47bb-a047-8e7bd1a8407d-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "margin_top_button": 30,
+            "button_link": "",
+            "button_color": "#fff",
+            "enable_underline_button": false,
+            "button_border_color": "#000",
+            "button_bg_color": "#000",
+            "button_bg_gradient": "",
+            "button_color_hover": "#000",
+            "button_border_color_hover": "#000",
+            "button_bg_color_hover": "#fff",
+            "button_bg_gradient_hover": "",
+            "button_width": "270px"
+          }
+        },
+        "template--16294247628954__cdc555c3-9f70-47bb-a047-8e7bd1a8407d-social_media-1": {
+          "type": "social_media",
+          "settings": {
+            "social_spacing_top": 0,
+            "social_spacing_bottom": 0,
+            "social_icon_color": "",
+            "social_icon_background_color": "",
+            "social_icon_background_gradient": "",
+            "social_icon_hover_color": "",
+            "social_icon_background_hover_color": "",
+            "social_icon_background_hover_gradient": "",
+            "social_icon_ring_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16294247628954__cdc555c3-9f70-47bb-a047-8e7bd1a8407d-heading-1",
+        "template--16294247628954__cdc555c3-9f70-47bb-a047-8e7bd1a8407d-text-1",
+        "template--16294247628954__cdc555c3-9f70-47bb-a047-8e7bd1a8407d-button-1",
+        "template--16294247628954__cdc555c3-9f70-47bb-a047-8e7bd1a8407d-social_media-1"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "enable_border_top": false,
+        "enable_border_bottom": false,
+        "color_border_bottom": "#e8e8e8",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 50,
+        "mg_bottom_tablet": 50,
+        "mg_bottom_mobile": 50,
+        "rich_text_bg": "#fff",
+        "rich_text_bg_gradient": ""
+      }
     }
   },
   "order": [
@@ -1168,6 +1402,10 @@
     "98b16030-9b8d-4507-b670-4b8802077328",
     "9dc9178a-8264-4903-b988-a01656dc7e44",
     "d63a23ad-adc2-4d32-8925-ce693a1413cd",
-    "e6e8c4be-1263-461f-8d27-a2f1a017b107"
+    "e6e8c4be-1263-461f-8d27-a2f1a017b107",
+    "89f474d6-a028-4645-a6e3-aa2fab91ec2f",
+    "081edbc1-ce5e-4fa9-9590-7f7b41f55ea4",
+    "704f9d08-c84c-410c-a4c4-3cb87e557be1",
+    "cdc555c3-9f70-47bb-a047-8e7bd1a8407d"
   ]
 }
