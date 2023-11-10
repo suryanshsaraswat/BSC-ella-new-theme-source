@@ -1,6 +1,10 @@
 <style>
   img.image--desktop{display:block;max-width:100%}
   img.image--mobile{display:none;max-width:100%}
+  @media(max-width:450px){
+    img.image--desktop{display:none}
+  img.image--mobile{display:block;}
+  }
 </style>
 <div class="collection-banner">
   <img class="image--desktop" src="{{ section.settings.coll_desk_img | img_url:'master' }}" alt="{{ section.settings.coll_desk_img.alt }}" width="100%" height="100%">
