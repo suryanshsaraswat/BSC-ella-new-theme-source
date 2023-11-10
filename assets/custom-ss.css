@@ -100,4 +100,5 @@ a.card-title.link-underline.card-title-ellipsis {
     min-height: 40px;
 }
 .collection-content-2{justify-content:center}
+.facets-horizontal .facets__form{justify-content:center}
 .announcement-bar__message h1,.announcement-bar__message h2,.announcement-bar__message h3,.announcement-bar__message h4,.announcement-bar__message h5,.announcement-bar__message h6,.announcement-bar__message p,.announcement-bar__message span,.announcement-bar__message a{padding:0}
