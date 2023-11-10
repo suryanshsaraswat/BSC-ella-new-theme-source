@@ -1,5 +1,12 @@
 {
   "sections": {
+    "6ccfd55a-3ed7-4ecb-b8b7-0294fcae3436": {
+      "type": "collection-banner",
+      "settings": {
+        "coll_desk_img": "{{ collection.metafields.custom.desktop_banner.value }}",
+        "coll_mob_img": "{{ collection.metafields.custom.mobile_banner.value }}"
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "blocks": {
@@ -249,6 +256,7 @@
     }
   },
   "order": [
+    "6ccfd55a-3ed7-4ecb-b8b7-0294fcae3436",
     "banner",
     "product-grid",
     "product-recently-viewed"
