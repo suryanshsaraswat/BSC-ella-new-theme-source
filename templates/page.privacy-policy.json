@@ -1154,14 +1154,138 @@
         "cbaca502-4e88-4398-9318-1e6c72df5dec": {
           "type": "sub_heading",
           "settings": {
-            "sub_heading": "About Us",
+            "sub_heading": "ACCOUNT DELETION",
             "font_weight_sub_heading": "700",
-            "sub_heading_size": 14,
+            "sub_heading_size": 18,
+            "margin_top_sub_heading": 10,
+            "sub_heading_color": "#000000"
+          }
+        },
+        "4e224088-6e0a-402e-a05d-aed99c9c93f2": {
+          "type": "content",
+          "settings": {
+            "content_top": "Should you ever decide to delete your Account, you may do so by emailing our support team. If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Offerings, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public.",
+            "content_bottom": "",
+            "alignment_content": "left",
+            "content_size": 13,
+            "margin_top_content": 20,
+            "content_color": "#000000",
+            "content_width": "800px",
+            "button_text_more": "Read More",
+            "button_text_less": "Read Less",
+            "button_text_font_size": 14,
+            "button_text_font_weight": "500",
+            "margin_top_button_text": 30,
+            "button_text_color": "#ffffff",
+            "button_text_border_color": "#000000",
+            "button_text_bg_color": "#000000",
+            "button_text_bg_color_gradient": "",
+            "button_text_color_hover": "#000000",
+            "button_text_border_color_hover": "#000000",
+            "button_text_bg_color_hover": "#ffffff",
+            "button_text_bg_color_hover_gradient": "",
+            "button_text_more_width": 270,
+            "pd_top_button_text": 12,
+            "pd_bottom_button_text": 12
+          }
+        }
+      },
+      "block_order": [
+        "cbaca502-4e88-4398-9318-1e6c72df5dec",
+        "4e224088-6e0a-402e-a05d-aed99c9c93f2"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "enable_border_top": false,
+        "enable_border_bottom": false,
+        "color_border_bottom": "#e8e8e8",
+        "mg_top_desktop": 20,
+        "mg_top_tablet": 20,
+        "mg_top_mobile": 20,
+        "mg_bottom_desktop": 0,
+        "mg_bottom_tablet": 0,
+        "mg_bottom_mobile": 0,
+        "rich_text_bg": "#ffffff",
+        "rich_text_bg_gradient": ""
+      }
+    },
+    "081edbc1-ce5e-4fa9-9590-7f7b41f55ea4": {
+      "type": "rich-text",
+      "blocks": {
+        "fa6c0c21-014e-4cea-897d-2b8f6735de42": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "CHOICE TO END USER REGARDING INFORMATION SHARED",
+            "font_weight_sub_heading": "700",
+            "sub_heading_size": 18,
             "margin_top_sub_heading": 10,
             "sub_heading_color": "#000"
           }
         },
-        "4e224088-6e0a-402e-a05d-aed99c9c93f2": {
+        "3238e1e2-5401-4a73-8d69-08b03a9ce780": {
+          "type": "content",
+          "settings": {
+            "content_top": "<p>You can use many of the features of the Offerings without registering, thereby limiting the type of information that we collect.<\/p>\n<p>You can always opt not to disclose certain information to us, even though it may be needed to take advantage of some of our features.<\/p>\n<p>You can delete your Account. Please note that we will need to verify that you have the authority to delete the Account, and activity generated prior to deletion will remain stored by us and may be publicly accessible.<\/p>",
+            "content_bottom": "",
+            "alignment_content": "left",
+            "content_size": 13,
+            "margin_top_content": 20,
+            "content_color": "#000",
+            "content_width": "800px",
+            "button_text_more": "Read More",
+            "button_text_less": "Read Less",
+            "button_text_font_size": 14,
+            "button_text_font_weight": "500",
+            "margin_top_button_text": 30,
+            "button_text_color": "#fff",
+            "button_text_border_color": "#000",
+            "button_text_bg_color": "#000",
+            "button_text_bg_color_gradient": "",
+            "button_text_color_hover": "#000",
+            "button_text_border_color_hover": "#000",
+            "button_text_bg_color_hover": "#fff",
+            "button_text_bg_color_hover_gradient": "",
+            "button_text_more_width": 270,
+            "pd_top_button_text": 12,
+            "pd_bottom_button_text": 12
+          }
+        }
+      },
+      "block_order": [
+        "fa6c0c21-014e-4cea-897d-2b8f6735de42",
+        "3238e1e2-5401-4a73-8d69-08b03a9ce780"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "enable_border_top": false,
+        "enable_border_bottom": false,
+        "color_border_bottom": "#e8e8e8",
+        "mg_top_desktop": 20,
+        "mg_top_tablet": 20,
+        "mg_top_mobile": 20,
+        "mg_bottom_desktop": 0,
+        "mg_bottom_tablet": 0,
+        "mg_bottom_mobile": 0,
+        "rich_text_bg": "#ffffff",
+        "rich_text_bg_gradient": ""
+      }
+    },
+    "704f9d08-c84c-410c-a4c4-3cb87e557be1": {
+      "type": "rich-text",
+      "blocks": {
+        "53c76f3d-bf31-43ef-bdfe-fd59cf5d862d": {
+          "type": "sub_heading",
+          "settings": {
+            "sub_heading": "About Us",
+            "font_weight_sub_heading": "700",
+            "sub_heading_size": 18,
+            "margin_top_sub_heading": 10,
+            "sub_heading_color": "#000"
+          }
+        },
+        "e2420311-4891-4232-9bd7-61ce96ebbed3": {
           "type": "content",
           "settings": {
             "content_top": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
@@ -1191,8 +1315,8 @@
         }
       },
       "block_order": [
-        "cbaca502-4e88-4398-9318-1e6c72df5dec",
-        "4e224088-6e0a-402e-a05d-aed99c9c93f2"
+        "53c76f3d-bf31-43ef-bdfe-fd59cf5d862d",
+        "e2420311-4891-4232-9bd7-61ce96ebbed3"
       ],
       "settings": {
         "container": "container",
@@ -1200,171 +1324,61 @@
         "enable_border_top": false,
         "enable_border_bottom": false,
         "color_border_bottom": "#e8e8e8",
-        "mg_top_desktop": 50,
-        "mg_top_tablet": 50,
-        "mg_top_mobile": 50,
-        "mg_bottom_desktop": 50,
-        "mg_bottom_tablet": 50,
-        "mg_bottom_mobile": 50,
-        "rich_text_bg": "#fff",
-        "rich_text_bg_gradient": ""
-      }
-    },
-    "081edbc1-ce5e-4fa9-9590-7f7b41f55ea4": {
-      "type": "rich-text",
-      "settings": {
-        "container": "container",
-        "padding_full_width": 0,
-        "enable_border_top": false,
-        "enable_border_bottom": false,
-        "color_border_bottom": "#e8e8e8",
-        "mg_top_desktop": 50,
-        "mg_top_tablet": 50,
-        "mg_top_mobile": 50,
-        "mg_bottom_desktop": 50,
-        "mg_bottom_tablet": 50,
-        "mg_bottom_mobile": 50,
-        "rich_text_bg": "#fff",
-        "rich_text_bg_gradient": ""
-      }
-    },
-    "704f9d08-c84c-410c-a4c4-3cb87e557be1": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16294247628954__704f9d08-c84c-410c-a4c4-3cb87e557be1-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": 30,
-            "heading_size_mb": 30,
-            "heading_color": "#000"
-          }
-        },
-        "template--16294247628954__704f9d08-c84c-410c-a4c4-3cb87e557be1-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "text_size": 16,
-            "margin_top_text": 20,
-            "text_color": "#000",
-            "text_width": "800px"
-          }
-        },
-        "template--16294247628954__704f9d08-c84c-410c-a4c4-3cb87e557be1-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "margin_top_button": 30,
-            "button_link": "",
-            "button_color": "#fff",
-            "enable_underline_button": false,
-            "button_border_color": "#000",
-            "button_bg_color": "#000",
-            "button_bg_gradient": "",
-            "button_color_hover": "#000",
-            "button_border_color_hover": "#000",
-            "button_bg_color_hover": "#fff",
-            "button_bg_gradient_hover": "",
-            "button_width": "270px"
-          }
-        },
-        "template--16294247628954__704f9d08-c84c-410c-a4c4-3cb87e557be1-social_media-1": {
-          "type": "social_media",
-          "settings": {
-            "social_spacing_top": 0,
-            "social_spacing_bottom": 0,
-            "social_icon_color": "",
-            "social_icon_background_color": "",
-            "social_icon_background_gradient": "",
-            "social_icon_hover_color": "",
-            "social_icon_background_hover_color": "",
-            "social_icon_background_hover_gradient": "",
-            "social_icon_ring_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16294247628954__704f9d08-c84c-410c-a4c4-3cb87e557be1-heading-1",
-        "template--16294247628954__704f9d08-c84c-410c-a4c4-3cb87e557be1-text-1",
-        "template--16294247628954__704f9d08-c84c-410c-a4c4-3cb87e557be1-button-1",
-        "template--16294247628954__704f9d08-c84c-410c-a4c4-3cb87e557be1-social_media-1"
-      ],
-      "settings": {
-        "container": "container",
-        "padding_full_width": 0,
-        "enable_border_top": false,
-        "enable_border_bottom": false,
-        "color_border_bottom": "#e8e8e8",
-        "mg_top_desktop": 50,
-        "mg_top_tablet": 50,
-        "mg_top_mobile": 50,
-        "mg_bottom_desktop": 50,
-        "mg_bottom_tablet": 50,
-        "mg_bottom_mobile": 50,
-        "rich_text_bg": "#fff",
+        "mg_top_desktop": 20,
+        "mg_top_tablet": 20,
+        "mg_top_mobile": 20,
+        "mg_bottom_desktop": 0,
+        "mg_bottom_tablet": 0,
+        "mg_bottom_mobile": 0,
+        "rich_text_bg": "#ffffff",
         "rich_text_bg_gradient": ""
       }
     },
     "cdc555c3-9f70-47bb-a047-8e7bd1a8407d": {
       "type": "rich-text",
       "blocks": {
-        "template--16294247628954__cdc555c3-9f70-47bb-a047-8e7bd1a8407d-heading-1": {
-          "type": "heading",
+        "44ceb158-3e28-43b9-8cb7-42f11c359267": {
+          "type": "sub_heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": 30,
-            "heading_size_mb": 30,
-            "heading_color": "#000"
+            "sub_heading": "About Us",
+            "font_weight_sub_heading": "700",
+            "sub_heading_size": 14,
+            "margin_top_sub_heading": 10,
+            "sub_heading_color": "#000"
           }
         },
-        "template--16294247628954__cdc555c3-9f70-47bb-a047-8e7bd1a8407d-text-1": {
-          "type": "text",
+        "8ecdf560-d3d8-43f8-aad0-9892db7d7ad8": {
+          "type": "content",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
-            "text_size": 16,
-            "margin_top_text": 20,
-            "text_color": "#000",
-            "text_width": "800px"
-          }
-        },
-        "template--16294247628954__cdc555c3-9f70-47bb-a047-8e7bd1a8407d-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "margin_top_button": 30,
-            "button_link": "",
-            "button_color": "#fff",
-            "enable_underline_button": false,
-            "button_border_color": "#000",
-            "button_bg_color": "#000",
-            "button_bg_gradient": "",
-            "button_color_hover": "#000",
-            "button_border_color_hover": "#000",
-            "button_bg_color_hover": "#fff",
-            "button_bg_gradient_hover": "",
-            "button_width": "270px"
-          }
-        },
-        "template--16294247628954__cdc555c3-9f70-47bb-a047-8e7bd1a8407d-social_media-1": {
-          "type": "social_media",
-          "settings": {
-            "social_spacing_top": 0,
-            "social_spacing_bottom": 0,
-            "social_icon_color": "",
-            "social_icon_background_color": "",
-            "social_icon_background_gradient": "",
-            "social_icon_hover_color": "",
-            "social_icon_background_hover_color": "",
-            "social_icon_background_hover_gradient": "",
-            "social_icon_ring_color": ""
+            "content_top": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "content_bottom": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "alignment_content": "center",
+            "content_size": 16,
+            "margin_top_content": 20,
+            "content_color": "#000",
+            "content_width": "800px",
+            "button_text_more": "Read More",
+            "button_text_less": "Read Less",
+            "button_text_font_size": 14,
+            "button_text_font_weight": "500",
+            "margin_top_button_text": 30,
+            "button_text_color": "#fff",
+            "button_text_border_color": "#000",
+            "button_text_bg_color": "#000",
+            "button_text_bg_color_gradient": "",
+            "button_text_color_hover": "#000",
+            "button_text_border_color_hover": "#000",
+            "button_text_bg_color_hover": "#fff",
+            "button_text_bg_color_hover_gradient": "",
+            "button_text_more_width": 270,
+            "pd_top_button_text": 12,
+            "pd_bottom_button_text": 12
           }
         }
       },
       "block_order": [
-        "template--16294247628954__cdc555c3-9f70-47bb-a047-8e7bd1a8407d-heading-1",
-        "template--16294247628954__cdc555c3-9f70-47bb-a047-8e7bd1a8407d-text-1",
-        "template--16294247628954__cdc555c3-9f70-47bb-a047-8e7bd1a8407d-button-1",
-        "template--16294247628954__cdc555c3-9f70-47bb-a047-8e7bd1a8407d-social_media-1"
+        "44ceb158-3e28-43b9-8cb7-42f11c359267",
+        "8ecdf560-d3d8-43f8-aad0-9892db7d7ad8"
       ],
       "settings": {
         "container": "container",
@@ -1378,7 +1392,7 @@
         "mg_bottom_desktop": 50,
         "mg_bottom_tablet": 50,
         "mg_bottom_mobile": 50,
-        "rich_text_bg": "#fff",
+        "rich_text_bg": "#ffffff",
         "rich_text_bg_gradient": ""
       }
     }
