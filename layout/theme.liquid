@@ -106,7 +106,7 @@
             {%- if settings.layout_body == 'boxed' -%}        
                 </div>
             {%- endif -%}
-            
+            {% render 'seo-content-homepage' %}
             <div class="wrapper-footer">{% sections 'footer-group' %}</div>
 
             {% section 'halo-toolbar-mobile' %}
@@ -135,7 +135,6 @@
             {%- endif -%}
         </div>
         {% render 'halo-sidebar' %}
-        {% render 'seo-content-homepage' %}
     </body>
   <script>$( document ).ready(function() {$('#judgebutton').on('click', function() { var myVar = setInterval(function() {if (jdgm.$('.jdgm-rev-widg__reviews').data('masonry')) {jdgm.$('.jdgm-rev-widg__reviews').masonry('layout');}}, 200 ); function stopColor() {clearInterval(myVar);}});});</script>
   
