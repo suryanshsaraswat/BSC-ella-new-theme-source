@@ -77,14 +77,9 @@
                 {% endif %}
                     {%- if show_page_title -%}
                         <h1 class="page-header text-{{ page_title_alignment }}">
-                            {{ page.title | escape }} kk
+                            {{ page.title | escape }}
                         </h1>
                     {%- endif -%}
-                    {%- if contact_form_text != blank -%}
-                        <div class="contact-text text-{{ content_alignment }}">
-                            {{ contact_form_text }}
-                        </div>
-                    {%- endif %}
                 {% if bg_image != blank %}
                     </div>
                 {% endif %}
@@ -147,6 +142,12 @@
                             {{ contact_form_title | escape }}
                         </h2>
                     {%- endif %}
+                    {%- if contact_form_text != blank -%}
+                        <div class="contact-text text-{{ content_alignment }}">
+                            {{ contact_form_text }}
+                        </div>
+                    {%- endif %}
+
                     <div class="contact-item{% if show_contact_info %}{% if has_contact_info %} contact-itemLeft{% endif %}{% endif %}">
                         {% if contact_form_heading != blank %}
                             <h3 class="contact-form-heading page-subheader">
