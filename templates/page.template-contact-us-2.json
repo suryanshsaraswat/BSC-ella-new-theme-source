@@ -3,12 +3,12 @@
     "main": {
       "type": "main-contact-us-2",
       "settings": {
-        "show_breadcrumb": true,
+        "show_breadcrumb": false,
         "breadcrumb_alignment": "center",
         "breadcrumb_color": "#ffffff",
-        "show_page_title": true,
+        "show_page_title": false,
         "page_title_alignment": "center",
-        "contact_form_text": "We love to hear from you on our customer service, merchandise, website or any topics you want to share with us. Your comments and suggestions will be appreciated.",
+        "contact_form_text": "",
         "header_text_color": "#ffffff",
         "content_max_width": 540,
         "content_alignment": "center",
