@@ -127,5 +127,11 @@ a.card-title.link-underline.card-title-ellipsis {
     align-items: center;
     font-size: 15px;
 }
+.taring {
+    margin: 0 5px;
+}
+.revieew {
+    margin-left: 4px;
+}
 
 .announcement-bar__message h1,.announcement-bar__message h2,.announcement-bar__message h3,.announcement-bar__message h4,.announcement-bar__message h5,.announcement-bar__message h6,.announcement-bar__message p,.announcement-bar__message span,.announcement-bar__message a{padding:0}
