@@ -38,7 +38,7 @@
   <div class="pr-rating-flex">
     <div class="star-img">
       {% render 'rating-star' %}
-      <span class="taring">{{ product.metafields.reviews.rating.value }}</span>
+      <span class="taring">{{ product.metafields.reviews.rating.value }}</span><span class="divider">|</span><span class="revieew">{{ product.metafields.reviews.rating_count.value }} Reviews</span>
     </div>
   </div>
 </div>
