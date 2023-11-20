@@ -30,7 +30,7 @@
         "mg_bottom_desktop": 5,
         "mg_bottom_tablet": 5,
         "mg_bottom_mobile": 5,
-        "brand_bg": "#fff",
+        "brand_bg": "#ffffff",
         "brand_bg_gradient": "",
         "brand_title": "Buy Fragrances For Men Online",
         "color_title": "#232323",
@@ -65,10 +65,10 @@
     "82456f35-c0f4-4ad0-9b57-58b7d7fa80f8": {
       "type": "featured-collection",
       "blocks": {
-        "template--16310783049882__82456f35-c0f4-4ad0-9b57-58b7d7fa80f8-featured_collection-2": {
+        "1f30d42e-d18d-4017-b8b8-d1c09438880c": {
           "type": "featured_collection",
           "settings": {
-            "collection": "for-fragrances",
+            "collection": "",
             "content_align": "center",
             "title": "",
             "color_title": "#232323",
@@ -91,7 +91,7 @@
         }
       },
       "block_order": [
-        "template--16310783049882__82456f35-c0f4-4ad0-9b57-58b7d7fa80f8-featured_collection-2"
+        "1f30d42e-d18d-4017-b8b8-d1c09438880c"
       ],
       "custom_css": [
 
@@ -153,11 +153,11 @@
             "color_des": "#3c3c3c",
             "color_hover_des": "#4dac8b",
             "fontsize_des": 14,
-            "color_button": "#fff",
+            "color_button": "#ffffff",
             "border_color_button": "#4d4a46",
             "bg_color_button": "#4d4a46",
             "bg_color_gradient_button": "",
-            "color_button_hover": "#fff",
+            "color_button_hover": "#ffffff",
             "border_color_button_hover": "#4d4a46",
             "bg_color_button_hover": "#4d4a46",
             "bg_color_gradient_button_hover": "",
@@ -227,11 +227,11 @@
             "color_des": "#3c3c3c",
             "color_hover_des": "#4dac8b",
             "fontsize_des": 14,
-            "color_button": "#fff",
+            "color_button": "#ffffff",
             "border_color_button": "#4d4a46",
             "bg_color_button": "#4d4a46",
             "bg_color_gradient_button": "",
-            "color_button_hover": "#fff",
+            "color_button_hover": "#ffffff",
             "border_color_button_hover": "#4d4a46",
             "bg_color_button_hover": "#4d4a46",
             "bg_color_gradient_button_hover": "",
@@ -301,11 +301,11 @@
             "color_des": "#3c3c3c",
             "color_hover_des": "#4dac8b",
             "fontsize_des": 14,
-            "color_button": "#fff",
+            "color_button": "#ffffff",
             "border_color_button": "#4d4a46",
             "bg_color_button": "#4d4a46",
             "bg_color_gradient_button": "",
-            "color_button_hover": "#fff",
+            "color_button_hover": "#ffffff",
             "border_color_button_hover": "#4d4a46",
             "bg_color_button_hover": "#4d4a46",
             "bg_color_gradient_button_hover": "",
