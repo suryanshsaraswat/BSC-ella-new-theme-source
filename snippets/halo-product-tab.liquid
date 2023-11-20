@@ -91,7 +91,7 @@
                             assign content = current_variant.metafields.my_fields.long-description.value
                
                         else
-                            assign content = product.description
+                            assign content = product.metafields.my_fields.long-description.value
                         endif
 					else block.type == 'review'
 						assign content = product.metafields.my_fields.long-description.value
