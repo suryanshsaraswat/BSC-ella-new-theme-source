@@ -473,6 +473,57 @@
                 <div class="page-content" id="ProductContent">
             {%- endif -%}
                 <div class="productView-top">
+                  <div class="pr_mobile">
+                    <div class="mobile_title">
+                      <div class="productView-moreItem"
+                                            style="--spacing-top: {{ spacing_top | append: 'px' }};
+                                            --spacing-bottom: {{ spacing_bottom | append: 'px' }}"
+                                        >
+                                            {% render 'product-title',
+                                                block: block,
+                                                product: product,
+                                                check_show_share: check_show_share,
+                                                share_product_type: share_product_type,
+                                                share_product_script: share_product_script,
+                                                share_layout: check_show_share
+                                            %}
+                                        </div>
+                    </div>
+                    
+                    <div class="price_mobile">
+                      {% assign fontsize_text = block.settings.fontsize_text %}
+                                        <div class="productView-moreItem"
+                                            style="--spacing-top: {{ spacing_top | append: 'px' }};
+                                            --spacing-bottom: {{ spacing_bottom | append: 'px' }};
+                                            --fontsize-text: {{ fontsize_text | append: 'px' }}"
+                                        >
+                                            {% if has_product_combo %}
+                                                <div>
+                                                    {%- if combo_discount_rate > 0 -%}
+                                                        <span class="old-price bundle-old-price-in-main">
+                                                            {{ cart.total_price | money }}
+                                                        </span>
+                                                        <span class="bundle-price-in-main" data-bundle-product-price data-bundle-discount-rate="{{ combo_discount_rate }}">
+                                                            {%- assign compensation = 1 | minus: combo_discount_rate -%}
+                                                            {{ cart.total_price | times: compensation | money }}
+                                                        </span>
+                                                    {%- endif -%}
+                                                    <span class="price price-in-main" data-combo-product-total style="display: none">
+                                                        {{ cart.total_price | money }}
+                                                    </span>
+                                                </div>
+                                            {% else %}
+                                                <div class="productView-price no-js-hidden clearfix" id="product-price-{{ product.id }}">
+                                                    {%- render 'price',
+                                                        product: product,
+                                                        use_variant: true,
+                                                        price_class: 'price--medium'
+                                                    -%}
+                                                </div>
+                                            {% endif %}
+                                        </div>
+                    </div>
+                  </div>
                     <div class="halo-productView-left productView-images clearfix" data-image-gallery>
                         {%- if main_image_show_custom_cursor -%}
                             <div class="cursor-wrapper handleMouseLeave">
@@ -493,6 +544,7 @@
                                         serial: 1
                                     %}
                                 {%- endif -%}
+                                
                                 <div class="productView-nav style-{{ main_image_layout }} image-fit-{{ media_fit }}" 
                                     data-image-gallery-main
                                     data-arrows-desk="{{ main_image_arrows_desktop }}"
@@ -813,18 +865,21 @@
                                             %}
                                         </div>
                                     {%- when 'title' -%}
+                                  
                                         <div class="productView-moreItem"
                                             style="--spacing-top: {{ spacing_top | append: 'px' }};
                                             --spacing-bottom: {{ spacing_bottom | append: 'px' }}"
                                         >
-                                            {% render 'product-title',
+                                  <div class="mobile_displaynone">
+                                  {% render 'product-title',
                                                 block: block,
                                                 product: product,
                                                 check_show_share: check_show_share,
                                                 share_product_type: share_product_type,
                                                 share_product_script: share_product_script,
                                                 share_layout: check_show_share
-                                            %}
+                                            %}</div>
+                                            
                                         </div>
                                     {%- when 'meta' -%}
                                         {%- liquid 
@@ -915,7 +970,8 @@
                                             --spacing-bottom: {{ spacing_bottom | append: 'px' }};
                                             --fontsize-text: {{ fontsize_text | append: 'px' }}"
                                         >
-                                            {% if has_product_combo %}
+                                  <div class="mobile_displaynone">
+                                  {% if has_product_combo %}
                                                 <div>
                                                     {%- if combo_discount_rate > 0 -%}
                                                         <span class="old-price bundle-old-price-in-main">
@@ -938,7 +994,8 @@
                                                         price_class: 'price--medium'
                                                     -%}
                                                 </div>
-                                            {% endif %}
+                                            {% endif %}</div>
+                                            
                                         </div>
                                     {%- when 'countdown' -%}
                                         {%- liquid
@@ -1248,12 +1305,8 @@
                             {%- endfor -%}
                             {%- if show_tab -%}
                                 {%- if tab_layout == 'vertical' or tab_layout == 'vertical_sidebar' or tab_layout == 'popup' -%}
-                                    {% render 'halo-product-tab',
-                                        product: product,
-                                        section: section,
-                                        tab_layout: tab_layout,
-                                        tab_layout_mobile: tab_layout_mobile,
-                                        icon_style_layout: icon_style_layout
+                                    {% render 'product-tab-bsc'
+                                        
                                     %}
                                 {%- endif -%}
                             {%- endif -%}
