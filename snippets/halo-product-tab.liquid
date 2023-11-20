@@ -88,13 +88,13 @@
 					if block.type == 'description'
                         assign current_variant = product.selected_or_first_available_variant
                         if current_variant.metafields.c_f.variant_description != blank
-                            assign content = current_variant.metafields.my_fields.long-description
+                            assign content = current_variant.metafields.my_fields.long-description.value
                
                         else
                             assign content = product.description
                         endif
 					else block.type == 'review'
-						assign content = product.metafields.my_fields.long-description
+						assign content = product.metafields.my_fields.long-description.value
 					endif
 				endif
 
