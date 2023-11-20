@@ -87,7 +87,7 @@
             "font_size_countdown_text": 14,
             "color_countdown": "#232323",
             "color_countdown_mb": "#fff",
-            "countdown_margin_bottom": 35,
+            "countdown_margin_bottom": 24,
             "content_width": 475,
             "align": "center",
             "align_items": "center",
