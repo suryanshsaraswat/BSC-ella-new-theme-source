@@ -302,6 +302,11 @@
         "assurance-heading": ""
       }
     },
+    "30688ff7-9926-4f71-bf04-2000c8a00b84": {
+      "type": "product-tabs",
+      "settings": {
+      }
+    },
     "c5cac207-1eb8-44c1-9b84-0956ce5674a9": {
       "type": "aplus-banner",
       "blocks": {
@@ -482,6 +487,7 @@
   "order": [
     "main",
     "d78fa399-02a9-42cc-9faa-d8e46198d93c",
+    "30688ff7-9926-4f71-bf04-2000c8a00b84",
     "c5cac207-1eb8-44c1-9b84-0956ce5674a9",
     "1690346721ff9f874c",
     "product-recommendations",
