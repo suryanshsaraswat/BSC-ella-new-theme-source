@@ -302,11 +302,6 @@
         "assurance-heading": ""
       }
     },
-    "30688ff7-9926-4f71-bf04-2000c8a00b84": {
-      "type": "product-tabs",
-      "settings": {
-      }
-    },
     "c5cac207-1eb8-44c1-9b84-0956ce5674a9": {
       "type": "aplus-banner",
       "blocks": {
@@ -356,6 +351,11 @@
         "8b216306-0124-4d73-ab8c-5c1847d7375b",
         "da516b54-7848-4e57-989a-4eee0526b840"
       ],
+      "settings": {
+      }
+    },
+    "30688ff7-9926-4f71-bf04-2000c8a00b84": {
+      "type": "product-tabs",
       "settings": {
       }
     },
@@ -487,8 +487,8 @@
   "order": [
     "main",
     "d78fa399-02a9-42cc-9faa-d8e46198d93c",
-    "30688ff7-9926-4f71-bf04-2000c8a00b84",
     "c5cac207-1eb8-44c1-9b84-0956ce5674a9",
+    "30688ff7-9926-4f71-bf04-2000c8a00b84",
     "1690346721ff9f874c",
     "product-recommendations",
     "product-recently-viewed"
