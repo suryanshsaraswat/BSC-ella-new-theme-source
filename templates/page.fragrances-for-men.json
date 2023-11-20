@@ -1,0 +1,368 @@
+{
+  "sections": {
+    "8e29dea6-03ae-480a-976a-f6590a224730": {
+      "type": "aplus-banner",
+      "blocks": {
+        "4ff564a8-a445-4e79-b05d-71d524cae7a5": {
+          "type": "image",
+          "settings": {
+            "dekstop_a": "shopify:\/\/shop_images\/Perfumes.webp"
+          }
+        }
+      },
+      "block_order": [
+        "4ff564a8-a445-4e79-b05d-71d524cae7a5"
+      ],
+      "settings": {
+      }
+    },
+    "49764027-9d31-4a23-83a5-31385aa11cc5": {
+      "type": "custom-text-block",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "mg_top_desktop": 30,
+        "mg_top_tablet": 30,
+        "mg_top_mobile": 30,
+        "mg_bottom_desktop": 5,
+        "mg_bottom_tablet": 5,
+        "mg_bottom_mobile": 5,
+        "brand_bg": "#fff",
+        "brand_bg_gradient": "",
+        "brand_title": "Buy Fragrances For Men Online",
+        "color_title": "#232323",
+        "fontsize_title": 20,
+        "fontsize_title_mb": 16,
+        "brand_des": "",
+        "color_des": "#3c3c3c",
+        "fontsize_des": 16,
+        "title_align": "center",
+        "menu": "",
+        "grid_gap": 5,
+        "padding_vertical": 5,
+        "padding_hozi": 5,
+        "border_radius": 5,
+        "fontsize_tab": 16,
+        "color_tab": "#232323",
+        "border_color": "#f9ede1",
+        "bg_color_tab": "#f9ede1",
+        "bg_color_gradient_tab": "",
+        "color_active": "#232323",
+        "border_color_active": "#f9ede1",
+        "bg_color_active": "#f9ede1",
+        "bg_color_gradient_active": ""
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "82456f35-c0f4-4ad0-9b57-58b7d7fa80f8": {
+      "type": "featured-collection",
+      "blocks": {
+        "template--16310783049882__82456f35-c0f4-4ad0-9b57-58b7d7fa80f8-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "for-fragrances",
+            "content_align": "center",
+            "title": "",
+            "color_title": "#232323",
+            "fontsize_title": 20,
+            "color_des": "#3c3c3c",
+            "color_hover_des": "#4dac8b",
+            "fontsize_des": 14,
+            "color_button": "#fff",
+            "border_color_button": "#4d4a46",
+            "bg_color_button": "#4d4a46",
+            "bg_color_gradient_button": "",
+            "color_button_hover": "#fff",
+            "border_color_button_hover": "#4d4a46",
+            "bg_color_button_hover": "#4d4a46",
+            "bg_color_gradient_button_hover": "",
+            "btn_icon": "",
+            "btn_text": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16310783049882__82456f35-c0f4-4ad0-9b57-58b7d7fa80f8-featured_collection-2"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "column": "4",
+        "mg_top_desktop": 45,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 10,
+        "mg_bottom_tablet": 10,
+        "mg_bottom_mobile": 10,
+        "featured_collection_bg": "#f5f5f5",
+        "featured_collection_bg_gradient": "",
+        "featured_collection_block_title": "Fragrance collection",
+        "enable_border_title": false,
+        "color_title": "#202020",
+        "fontsize_title": 26,
+        "fontsize_title_mb": 22,
+        "featured_collection_block_btn_text": "",
+        "featured_collection_block_btn_link": "",
+        "btn_color": "#3c3c3c",
+        "fontsize_btn": 16,
+        "btn_icon": "",
+        "btn_icon_color": "#eb492f",
+        "title_align": "center",
+        "featured_collection_block_swipe_on_mobile": false
+      }
+    },
+    "ebdd2d4f-702a-4c7a-9443-076be8be31bf": {
+      "type": "aplus-banner",
+      "blocks": {
+        "fe757eb9-678d-41ff-b0bb-10206ccae275": {
+          "type": "image",
+          "settings": {
+            "dekstop_a": "shopify:\/\/shop_images\/Perfume_Kit_0d29c592-174d-43b9-8975-8ad4e9aa55da.webp"
+          }
+        }
+      },
+      "block_order": [
+        "fe757eb9-678d-41ff-b0bb-10206ccae275"
+      ],
+      "settings": {
+      }
+    },
+    "448c1f2a-b5cd-4750-97df-27a6b70a3bc0": {
+      "type": "featured-collection",
+      "blocks": {
+        "template--16310783049882__448c1f2a-b5cd-4750-97df-27a6b70a3bc0-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "content_align": "center",
+            "title": "",
+            "color_title": "#232323",
+            "fontsize_title": 20,
+            "color_des": "#3c3c3c",
+            "color_hover_des": "#4dac8b",
+            "fontsize_des": 14,
+            "color_button": "#fff",
+            "border_color_button": "#4d4a46",
+            "bg_color_button": "#4d4a46",
+            "bg_color_gradient_button": "",
+            "color_button_hover": "#fff",
+            "border_color_button_hover": "#4d4a46",
+            "bg_color_button_hover": "#4d4a46",
+            "bg_color_gradient_button_hover": "",
+            "btn_icon": "",
+            "btn_text": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16310783049882__448c1f2a-b5cd-4750-97df-27a6b70a3bc0-featured_collection-1"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "column": "3",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 10,
+        "mg_bottom_tablet": 10,
+        "mg_bottom_mobile": 10,
+        "featured_collection_bg": "#f5f5f5",
+        "featured_collection_bg_gradient": "",
+        "featured_collection_block_title": "Set of Perfumes",
+        "enable_border_title": false,
+        "color_title": "#202020",
+        "fontsize_title": 26,
+        "fontsize_title_mb": 22,
+        "featured_collection_block_btn_text": "",
+        "featured_collection_block_btn_link": "",
+        "btn_color": "#3c3c3c",
+        "fontsize_btn": 16,
+        "btn_icon": "",
+        "btn_icon_color": "#eb492f",
+        "title_align": "center",
+        "featured_collection_block_swipe_on_mobile": false
+      }
+    },
+    "d715a9c0-f2f6-4d4e-bc19-2b24f1349eb5": {
+      "type": "aplus-banner",
+      "blocks": {
+        "e1fcb01a-a2f3-4572-b781-24f2b3bebabf": {
+          "type": "image",
+          "settings": {
+            "dekstop_a": "shopify:\/\/shop_images\/Body-Sprays.webp"
+          }
+        }
+      },
+      "block_order": [
+        "e1fcb01a-a2f3-4572-b781-24f2b3bebabf"
+      ],
+      "settings": {
+      }
+    },
+    "55b06b88-886a-4de2-85d4-d2274ac452d7": {
+      "type": "featured-collection",
+      "blocks": {
+        "template--16310783049882__55b06b88-886a-4de2-85d4-d2274ac452d7-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "content_align": "center",
+            "title": "",
+            "color_title": "#232323",
+            "fontsize_title": 20,
+            "color_des": "#3c3c3c",
+            "color_hover_des": "#4dac8b",
+            "fontsize_des": 14,
+            "color_button": "#fff",
+            "border_color_button": "#4d4a46",
+            "bg_color_button": "#4d4a46",
+            "bg_color_gradient_button": "",
+            "color_button_hover": "#fff",
+            "border_color_button_hover": "#4d4a46",
+            "bg_color_button_hover": "#4d4a46",
+            "bg_color_gradient_button_hover": "",
+            "btn_icon": "",
+            "btn_text": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16310783049882__55b06b88-886a-4de2-85d4-d2274ac452d7-featured_collection-1"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "column": "3",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 10,
+        "mg_bottom_tablet": 10,
+        "mg_bottom_mobile": 10,
+        "featured_collection_bg": "#f5f5f5",
+        "featured_collection_bg_gradient": "",
+        "featured_collection_block_title": "<b>Body Sprays<\/b>",
+        "enable_border_title": false,
+        "color_title": "#202020",
+        "fontsize_title": 26,
+        "fontsize_title_mb": 22,
+        "featured_collection_block_btn_text": "",
+        "featured_collection_block_btn_link": "",
+        "btn_color": "#3c3c3c",
+        "fontsize_btn": 16,
+        "btn_icon": "",
+        "btn_icon_color": "#eb492f",
+        "title_align": "center",
+        "featured_collection_block_swipe_on_mobile": false
+      }
+    },
+    "6937c6df-cc77-498b-92ca-357c8f31fdf2": {
+      "type": "aplus-banner",
+      "blocks": {
+        "f7f62f5c-fa0c-4b45-a051-a57a2b51e633": {
+          "type": "image",
+          "settings": {
+            "dekstop_a": "shopify:\/\/shop_images\/Deodorants.webp"
+          }
+        }
+      },
+      "block_order": [
+        "f7f62f5c-fa0c-4b45-a051-a57a2b51e633"
+      ],
+      "settings": {
+      }
+    },
+    "48a3d873-a35b-4db1-8d45-699b36caee1f": {
+      "type": "featured-collection",
+      "blocks": {
+        "template--16310783049882__48a3d873-a35b-4db1-8d45-699b36caee1f-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "content_align": "center",
+            "title": "",
+            "color_title": "#232323",
+            "fontsize_title": 20,
+            "color_des": "#3c3c3c",
+            "color_hover_des": "#4dac8b",
+            "fontsize_des": 14,
+            "color_button": "#fff",
+            "border_color_button": "#4d4a46",
+            "bg_color_button": "#4d4a46",
+            "bg_color_gradient_button": "",
+            "color_button_hover": "#fff",
+            "border_color_button_hover": "#4d4a46",
+            "bg_color_button_hover": "#4d4a46",
+            "bg_color_gradient_button_hover": "",
+            "btn_icon": "",
+            "btn_text": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16310783049882__48a3d873-a35b-4db1-8d45-699b36caee1f-featured_collection-1"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "column": "3",
+        "mg_top_desktop": 50,
+        "mg_top_tablet": 50,
+        "mg_top_mobile": 50,
+        "mg_bottom_desktop": 10,
+        "mg_bottom_tablet": 10,
+        "mg_bottom_mobile": 10,
+        "featured_collection_bg": "#f5f5f5",
+        "featured_collection_bg_gradient": "",
+        "featured_collection_block_title": "<b>Deos<\/b>",
+        "enable_border_title": false,
+        "color_title": "#202020",
+        "fontsize_title": 26,
+        "fontsize_title_mb": 22,
+        "featured_collection_block_btn_text": "",
+        "featured_collection_block_btn_link": "",
+        "btn_color": "#3c3c3c",
+        "fontsize_btn": 16,
+        "btn_icon": "",
+        "btn_icon_color": "#eb492f",
+        "title_align": "center",
+        "featured_collection_block_swipe_on_mobile": false
+      }
+    },
+    "983e1927-b560-4bee-bc15-4de506d8bebe": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% render 'seo-content-category' %}"
+      }
+    }
+  },
+  "order": [
+    "8e29dea6-03ae-480a-976a-f6590a224730",
+    "49764027-9d31-4a23-83a5-31385aa11cc5",
+    "main",
+    "82456f35-c0f4-4ad0-9b57-58b7d7fa80f8",
+    "ebdd2d4f-702a-4c7a-9443-076be8be31bf",
+    "448c1f2a-b5cd-4750-97df-27a6b70a3bc0",
+    "d715a9c0-f2f6-4d4e-bc19-2b24f1349eb5",
+    "55b06b88-886a-4de2-85d4-d2274ac452d7",
+    "6937c6df-cc77-498b-92ca-357c8f31fdf2",
+    "48a3d873-a35b-4db1-8d45-699b36caee1f",
+    "983e1927-b560-4bee-bc15-4de506d8bebe"
+  ]
+}
