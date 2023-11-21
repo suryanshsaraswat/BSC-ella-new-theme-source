@@ -124,39 +124,6 @@
             "bin_bg_color_hover": "#232323",
             "bin_bg_color_hover_gradient": ""
           }
-        },
-        "02a1b9b5-e603-451a-9b42-04bda0122f06": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": ""
-          }
-        },
-        "b5652ccb-191f-48d6-a847-d01d2f3960d0": {
-          "type": "description",
-          "settings": {
-            "open_tab_mobile": true,
-            "title": "Additional Description",
-            "enable_btn_show_more": false,
-            "maximum_des_to_show": 300
-          }
-        },
-        "c1907bae-cb0e-425f-81e0-92e3489f7332": {
-          "type": "custom",
-          "settings": {
-            "open_tab_mobile": false,
-            "title": "How to Use",
-            "type": "metafield",
-            "content": "",
-            "enable_btn_show_more": false,
-            "maximum_des_to_show": 300,
-            "product_custom_source": "key_text",
-            "product_tab_key_metafield": "how-touse"
-          }
-        },
-        "b0dd2483-3dc8-4536-be9d-5f9bdb6dedc1": {
-          "type": "custm-faq",
-          "settings": {
-          }
         }
       },
       "block_order": [
@@ -169,11 +136,7 @@
         "4036f89b-c2c5-49a4-9d6b-2fd29ce7c46c",
         "faa2b3e6-c0a1-4269-baa6-d2605efe4c05",
         "5d8b9ff9-6a1c-4850-a6c2-e6cdbb8b7f7c",
-        "f1b31d90-1e43-4948-9fe3-97ba43f6fb34",
-        "02a1b9b5-e603-451a-9b42-04bda0122f06",
-        "b5652ccb-191f-48d6-a847-d01d2f3960d0",
-        "c1907bae-cb0e-425f-81e0-92e3489f7332",
-        "b0dd2483-3dc8-4536-be9d-5f9bdb6dedc1"
+        "f1b31d90-1e43-4948-9fe3-97ba43f6fb34"
       ],
       "settings": {
         "container": "container",
