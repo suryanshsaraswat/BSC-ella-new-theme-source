@@ -197,6 +197,13 @@
                 {% if settings.disable_product_card_border and settings.enable_custom_layout_card %}
                     </div>
                 {% endif %}
+                <div class="pr-rating">
+  <div class="pr-rating-flex">
+    <div class="star-img">
+      {% render 'rating-star' %}</div>
+      <div class="taring">{{ product.metafields.reviews.rating.value }}</div><div class="divider">|</div><div class="revieew">{{ product.metafields.reviews.rating_count.value }} Reviews</div>
+    </div>
+  </div>
 <!-- Start of Judge.me code -->
       <div style='{{ jm_style }}' class='jdgm-widget jdgm-preview-badge' data-id='{{ product_card_product.id }}' data-auto-install='false'>
         {{ product_card_product.metafields.judgeme.badge }}
