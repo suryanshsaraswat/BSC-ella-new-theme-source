@@ -204,11 +204,12 @@
                     <div class="taring">{{ product_card_product.metafields.reviews.rating.value }}</div><div class="divider">|</div><div class="revieew">{{ product_card_product.metafields.reviews.rating_count.value }} Reviews</div>
                   </div>
                 </div>
+              {% comment %}
 <!-- Start of Judge.me code -->
       <div style='{{ jm_style }}' class='jdgm-widget jdgm-preview-badge' data-id='{{ product_card_product.id }}' data-auto-install='false'>
         {{ product_card_product.metafields.judgeme.badge }}
       </div>
-      <!-- End of Judge.me code -->
+      <!-- End of Judge.me code -->{% endcomment %}
                 {%- if settings.show_review -%}
                     <div class="card-review clearfix halo-productReview">
                         <span class="shopify-product-reviews-badge" data-id="{{ product_card_product.id }}"></span>
