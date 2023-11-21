@@ -3,6 +3,8 @@
     "7d0b5fc0-a7f2-496e-b288-3bdc4c42cff1": {
       "type": "collection-banner",
       "settings": {
+        "coll_desk_img": "{{ collection.metafields.custom.desktop_banner.value }}",
+        "coll_mob_img": "{{ collection.metafields.custom.mobile_banner.value }}"
       }
     },
     "3d1a4d66-2046-4ee1-8ebb-ec6dc42bc7e5": {
