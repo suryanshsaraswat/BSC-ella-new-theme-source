@@ -190,8 +190,9 @@
                             <span data-change-title> {% if settings.style_text_color_varriant == '01' %}-{% endif %} {{ variant_selected }}</span>
                         {% endif %}
                     </span>
+                  <p>{{ product.metafields.custom.byline }}</p>
                 </a>
-                      <p>{{ product.metafields.custom.byline }}</p>
+                      
 
                 {% if settings.disable_product_card_border and settings.enable_custom_layout_card %}
                     </div>
