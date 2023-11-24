@@ -190,8 +190,8 @@
                             <span data-change-title> {% if settings.style_text_color_varriant == '01' %}-{% endif %} {{ variant_selected }}</span>
                         {% endif %}
                     </span>
-                 {% if product_card_product.metafields.custom.byline!=blank %} <p class="byline-card">{{ product_card_product.metafields.custom.byline }}</p>{% endif %}
                 </a>
+                {% if product_card_product.metafields.custom.byline!=blank %} <p class="byline-card">{{ product_card_product.metafields.custom.byline }}</p>{% endif %}
                       
 
                 {% if settings.disable_product_card_border and settings.enable_custom_layout_card %}
