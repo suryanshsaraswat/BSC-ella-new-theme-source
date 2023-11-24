@@ -176,7 +176,7 @@
         "zoomed_image": false,
         "media_fit": "unset",
         "product_image_popup": "fancybox",
-        "video_layout": "popup",
+        "video_layout": "thumbnail",
         "show_badge": true,
         "show_qty": false,
         "show_subtotal": false,
