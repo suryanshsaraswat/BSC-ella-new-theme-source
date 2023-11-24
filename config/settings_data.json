@@ -125,7 +125,7 @@
     "show_customer_login": true,
     "customer_login_btn_1": "1",
     "customer_login_btn_2": "2",
-    "show_hot_stock": false,
+    "show_hot_stock": true,
     "after_add_to_cart": "quick_cart",
     "enable_lazyload": true,
     "pagination_style": "1",
@@ -290,7 +290,6 @@
     "before_you_leave_collection": "milancelos",
     "before_you_leave_collection_limit": 3,
     "before_you_leave_btn": "1",
-    "show_notify_form": true,
     "notify_form_btn": "1",
     "show_ask_an_expert": false,
     "ask_an_expert_show": "all_page",
@@ -1373,6 +1372,22 @@
           "cancel_link_class": "",
           "reorder_header_text": "Reorder",
           "reorder_link_text": "Reorder"
+        }
+      },
+      "14403025053867589211": {
+        "type": "shopify:\/\/apps\/mobile-app-builder-appbrew\/blocks\/download-banner\/2879e6c8-bdd2-4938-9f0b-cfba31d8616b",
+        "disabled": false,
+        "settings": {
+          "textColour": "#000000",
+          "backgroundColour": "#f8f5f5",
+          "buttonBackgroundColour": "#000000",
+          "buttonTextColour": "#ffffff",
+          "heading": "Get the app now",
+          "description": "Enjoy exclusive offers on app",
+          "downloadButtonText": "Open in app",
+          "position": "bottom",
+          "playstoreurl": "<paste your play store link><\/paste>",
+          "appstoreurl": "<paste your ios app store link><\/paste>"
         }
       }
     }
