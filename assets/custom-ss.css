@@ -95,9 +95,9 @@ span.d-off {
     padding-top: 8px;
 }
 a.card-title.link-underline.card-title-ellipsis {
-    overflow: visible;
+    overflow: hidden;
     display: -webkit-box;
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: 2;
     line-height: 20px;
     -webkit-box-orient: vertical;
     min-height: 40px;
