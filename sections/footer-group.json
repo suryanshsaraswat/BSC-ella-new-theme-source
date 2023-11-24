@@ -18,8 +18,8 @@
           "type": "link_list",
           "settings": {
             "custom_width": "20",
-            "heading": "Information",
-            "menu": "customer-services",
+            "heading": "POLICIES & HELP",
+            "menu": "footermenu",
             "mg_bottom": 0
           }
         },
@@ -28,7 +28,7 @@
           "settings": {
             "custom_width": "20",
             "heading": "Customer Service",
-            "menu": "main-menu",
+            "menu": "customer-services",
             "mg_bottom": 0
           }
         },
