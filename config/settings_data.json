@@ -507,7 +507,7 @@
             "type": "menu-1",
             "settings": {
               "show_banner": false,
-              "heading": "Trimmer for men",
+              "heading": "Trimmers",
               "url": "shopify:\/\/pages\/trimmers-for-men",
               "menu": "",
               "label": "",
@@ -523,7 +523,7 @@
             "type": "menu-1",
             "settings": {
               "show_banner": false,
-              "heading": "Shave care for men",
+              "heading": "Shave care",
               "url": "",
               "menu": "for-shave-care",
               "label": "",
@@ -539,7 +539,7 @@
             "type": "menu-1",
             "settings": {
               "show_banner": false,
-              "heading": "Skin care for men",
+              "heading": "Skin care",
               "url": "",
               "menu": "for-skin-care",
               "label": "",
@@ -555,7 +555,7 @@
             "type": "menu-1",
             "settings": {
               "show_banner": false,
-              "heading": "Beard Care for men",
+              "heading": "Beard Care",
               "url": "",
               "menu": "for-beard-care",
               "label": "",
@@ -571,7 +571,7 @@
             "type": "menu-1",
             "settings": {
               "show_banner": false,
-              "heading": "Hair care for men",
+              "heading": "Hair care",
               "url": "",
               "menu": "for-hair-care",
               "label": "",
@@ -587,7 +587,7 @@
             "type": "menu-1",
             "settings": {
               "show_banner": false,
-              "heading": "Bath Care for men",
+              "heading": "Bath Care",
               "url": "",
               "menu": "for-bath-care",
               "label": "",
@@ -603,7 +603,7 @@
             "type": "menu-1",
             "settings": {
               "show_banner": false,
-              "heading": "Gifting Kits for men",
+              "heading": "Gifting Kits",
               "url": "shopify:\/\/pages\/gifts-for-men-online",
               "menu": "",
               "label": "",
