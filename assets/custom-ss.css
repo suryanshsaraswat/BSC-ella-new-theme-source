@@ -164,5 +164,10 @@ a.button.button-2.button-view-cart {
     padding-right: 5px;
     align-items:center
 }
+a.card-title.sidebar.link-underline.card-title-ellipsis {
+    padding-top: 10px;
+    padding-bottom: 0;
+    margin-bottom: -4px;
+}
 .button.button--primarybtn-sidebar svg{margin:0;color:#0d5ea8}
 .announcement-bar__message h1,.announcement-bar__message h2,.announcement-bar__message h3,.announcement-bar__message h4,.announcement-bar__message h5,.announcement-bar__message h6,.announcement-bar__message p,.announcement-bar__message span,.announcement-bar__message a{padding:0}
