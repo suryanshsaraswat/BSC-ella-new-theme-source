@@ -77,7 +77,7 @@
             {% form 'product', product_card_product, class: 'form', novalidate: 'novalidate', data-type: 'add-to-cart-form' %}
                             <input type="hidden" name="id" value="{{ product_card_product.variants.first.id }}">
                             {%- if product_card_product.available -%}
-                            <button type="submit" name="add" data-btn-addToCart class="product-form__submit button button--primary{% if first_inventory == 0 %} button-text-change{% endif %}btn-sidebar" id="product-sticky-add-to-cart">{% render 'cart-icon-01' %}</button>
+                            <button type="submit" name="add" data-btn-addToCart class="product-form__submit button button--primary{% if first_inventory == 0 %} button-text-change{% endif %}btn-sidebar" id="product-sticky-add-to-cart">{% render 'cart-icon-02' %}</button>
                             {%- else -%}
                             <button type="submit" name="add" data-btn-addToCart class="product-form__submit button button--primary" id="product-sticky-add-to-cart">
                                     SOLD OUT
