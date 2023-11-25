@@ -73,6 +73,18 @@
            index: index %}
         {%- endif -%}
         <a class="card-button" href="{{ product_card_product.url | within: collection }}">{{ 'products.product.details' | t }}</a>
+        <div class="btncart">
+            {% form 'product', razr_prod, class: 'form', novalidate: 'novalidate', data-type: 'add-to-cart-form' %}
+                            <input type="hidden" name="id" value="{{ razr_var.id }}">
+                            {%- if razr_var.available -%}
+                            <button type="submit" name="add" data-btn-addToCart class="product-form__submit button button--primary{% if first_inventory == 0 %} button-text-change{% endif %}" id="product-sticky-add-to-cart">ADD TO CART</button>
+                            {%- else -%}
+                            <button type="submit" name="add" data-btn-addToCart class="product-form__submit button button--primary" id="product-sticky-add-to-cart">
+                                    SOLD OUT
+                                </button>
+                            {%- endif -%}
+                        {% endform %}
+        </div>
 
       </div>
     </div>
