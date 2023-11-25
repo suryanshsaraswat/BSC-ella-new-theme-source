@@ -73,7 +73,9 @@
            index: index %}
         {%- endif -%}
         <a class="card-button" href="{{ product_card_product.url | within: collection }}">{{ 'products.product.details' | t }}</a>
-        <div class="btncart-sidebar">
+      </div>
+    </div>
+    <div class="btncart-sidebar">
             {% form 'product', product_card_product, class: 'form', novalidate: 'novalidate', data-type: 'add-to-cart-form' %}
                             <input type="hidden" name="id" value="{{ product_card_product.variants.first.id }}">
                             {%- if product_card_product.available -%}
@@ -85,8 +87,5 @@
                             {%- endif -%}
                         {% endform %}
         </div>
-
-      </div>
-    </div>
   </div>
 </div>
