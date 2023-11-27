@@ -52,7 +52,7 @@
 <div class="tab-content tab-content-2">
   <div class="accordion-container">
     <div class="faqs-pr">
-       {{ product.metafields.custom.how-to-use.value }}
+       {% if product.metafields.custom.how-to-use != blank %}{{ product.metafields.custom.how-to-use.value }}{% else %}{{ product.metafields.my_fields.faq.value }}{% endif %}
      </div>
 </div>
 </div>
