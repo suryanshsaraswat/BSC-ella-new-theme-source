@@ -769,9 +769,9 @@
         border-bottom: 1px solid #e6e6e6;
     }
 
-    .custom-mobile-menu .halo-sidebar-close svg {
+    /* .custom-mobile-menu .halo-sidebar-close svg {
         fill: var(--color-white) !important;
-    }
+    } */
 
     .custom-mobile-menu [data-navigation-mobile] .menu-lv__dropdownmenu-3.image-lower-circle img {
         border-radius: 50%;
