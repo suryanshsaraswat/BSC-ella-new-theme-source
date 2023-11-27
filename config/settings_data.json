@@ -163,6 +163,8 @@
     "new_badge_type": "manual",
     "show_sale_badge": true,
     "sale_badge_type": "discount",
+    "show_sold_out_badge": false,
+    "show_bundle_badge": false,
     "point_product_swatch_custom": "30px",
     "show_action": true,
     "show_quick_shop": false,
@@ -1327,6 +1329,16 @@
           "689dcf83-e8de-4e6f-afef-9a0d7e05371d",
           "0a8b6727-40b5-4893-8021-1e18b7c4395f"
         ],
+        "settings": {
+        }
+      },
+      "careers": {
+        "type": "careers",
+        "settings": {
+        }
+      },
+      "career-testimonials": {
+        "type": "career-testimonials",
         "settings": {
         }
       }
