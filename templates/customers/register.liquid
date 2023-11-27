@@ -1,4 +1,7 @@
-{% comment %}
+{% if shop.metafields.simply-otp-login.otp_login_enabled.value %}
+	{% section 'otp-login' %}
+{% else %}
+	{% comment %}
     This template will be automatically generated for you if the file doesn't exist,
     but where's the fun in having no control? Define your layout below.
 
@@ -127,3 +130,4 @@
     </div>
   </div>
 </div>
+{% endif %}

@@ -1,4 +1,7 @@
-{{ 'customer.css' | asset_url | stylesheet_tag }}
+{% if shop.metafields.simply-otp-login.otp_login_enabled.value %}
+	{% section 'otp-activate-login' %}
+{% else %}
+	{{ 'customer.css' | asset_url | stylesheet_tag }}
 
 <div class="customer activate">
   <svg style="display: none">
@@ -97,3 +100,5 @@
     </button>
   {%- endform -%}
 </div>
+
+{% endif %}
