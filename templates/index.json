@@ -794,7 +794,7 @@
           "type": "image",
           "settings": {
             "collection_img": "shopify:\/\/shop_images\/Razor_Range.png",
-            "container-color": "#1991e2",
+            "container-color": "#c0d52f",
             "collection-heading": "Razors",
             "collection-body": "Razors that are sensitive on your skin.",
             "collection-url": "shopify:\/\/pages\/razors-for-men",
@@ -805,11 +805,11 @@
         "07e6b57f-c1b1-49f3-adfc-fdda5501467d": {
           "type": "image",
           "settings": {
-            "collection_img": "shopify:\/\/shop_images\/Desktop_Playkits_1_1024x1024_ea952404-0eef-4e82-b5ef-8b0543934b5a.webp",
-            "container-color": "#0d5ea8",
-            "collection-heading": "Beard Care",
-            "collection-body": "The ultimate fusion of pleasure and endless adventures all packed into one delightful box.",
-            "collection-url": "shopify:\/\/collections\/mens-beardcare-products",
+            "collection_img": "shopify:\/\/shop_images\/Trimmer_Range.png",
+            "container-color": "#ffc518",
+            "collection-heading": "Trimmers",
+            "collection-body": "New drop of ultimate Beard, Head and Body Trimmers",
+            "collection-url": "shopify:\/\/pages\/trimmers-for-men",
             "layout_flex": "img_first",
             "button-label": "SHOP NOW"
           }
