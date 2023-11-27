@@ -38,8 +38,8 @@
   <div class="tabsss">
   <!-- Tabs -->
     <div class="tabbar">
-      <a href="#" class="tab" data-toggle-target = ".tab-content-1">Product Information</a>
-      <a href="#" class="tab" data-toggle-target=".tab-content-2">How to Use</a>
+      {% if product.metafields.my_fields.long-description!= blank %}<a href="#" class="tab" data-toggle-target = ".tab-content-1">Product Information</a>{% endif %}
+      {% if product.metafields.custom.how-to-use!= blank %}<a href="#" class="tab" data-toggle-target=".tab-content-2">How to Use</a>{% endif %}
       <a href="#" class="tab active" data-toggle-target=".tab-content-3">Reviews</a>
       
     </div>
