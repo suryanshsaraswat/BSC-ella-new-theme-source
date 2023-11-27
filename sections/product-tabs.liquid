@@ -38,13 +38,13 @@
   <div class="tabsss">
   <!-- Tabs -->
     <div class="tabbar">
-      {% if product.metafields.my_fields.long-description!= blank %}<a href="#" class="tab active" data-toggle-target = ".tab-content-1">Product Information</a>{% endif %}
-      {% if product.metafields.custom.how-to-use!= blank %}<a href="#" class="tab" data-toggle-target=".tab-content-2">How to Use</a>{% endif %}
-      <a href="#" class="tab" data-toggle-target=".tab-content-3">Reviews</a>
+      <a href="#" class="tab" data-toggle-target = ".tab-content-1">Product Information</a>
+      <a href="#" class="tab" data-toggle-target=".tab-content-2">How to Use</a>
+      <a href="#" class="tab active" data-toggle-target=".tab-content-3">Reviews</a>
       
     </div>
 <!-- Content -->
-<div class="tab-content tab-content-1 active">
+<div class="tab-content tab-content-1">
   <div class="pr-info">
     {{ product.metafields.my_fields.long-description.value }}
   </div>
@@ -56,7 +56,7 @@
      </div>
 </div>
 </div>
-<div class="tab-content tab-content-3">
+<div class="tab-content tab-content-3 active">
   <!-- Start of Judge.me code --> 
     <div style='clear:both'></div>
     <div id='judgeme_product_reviews' class='jdgm-widget jdgm-review-widget' data-id='{{ product.id }}'>
