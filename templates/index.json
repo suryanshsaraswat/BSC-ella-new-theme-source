@@ -793,11 +793,11 @@
         "8a15e607-9a0a-4f5f-8324-96fa2bc98bf9": {
           "type": "image",
           "settings": {
-            "collection_img": "shopify:\/\/shop_images\/Desktop_Bites_and_Kisses_1_1024x1024_337f412e-ff10-4891-abc6-aa464953dc87.webp",
+            "collection_img": "shopify:\/\/shop_images\/Razor_Range.png",
             "container-color": "#1991e2",
-            "collection-heading": "Shave Care",
-            "collection-body": "Don't hold back; dare to play and let your fantasies take flight with Durex Playthings!",
-            "collection-url": "shopify:\/\/collections\/shave",
+            "collection-heading": "Razors",
+            "collection-body": "Razors that are sensitive on your skin.",
+            "collection-url": "shopify:\/\/pages\/razors-for-men",
             "layout_flex": "text_first",
             "button-label": "View Collection"
           }
