@@ -441,9 +441,10 @@
                                         </div>
                                     {%- endif -%}
                                     <div class="action-group">
-                                        <button class="button button-1 button-checkout" {% if settings.show_global_checkbox %} disabled="disabled" {% endif %} id="cart-checkout" data-href="{{ routes.cart_url | split: '/cart' | first }}/checkout">
+                                        <!-- <button class="button button-1 button-checkout" {% if settings.show_global_checkbox %} disabled="disabled" {% endif %} id="cart-checkout" data-href="{{ routes.cart_url | split: '/cart' | first }}/checkout">
                                             {{ 'sections.cart.proceed_to_checkout' | t }}
-                                        </button>
+                                        </button> -->
+                                      {% render 'gokwik-checkout' %}
                                         {% if continue_button_action == "1" %}
                                             <a class="button button-2 button-continue"{% if custom_button_link == blank %} role="link" aria-disabled="true"{% else %} href="{{ custom_button_link }}"{% endif %} role="button">
                                                 {{ 'general.continue_shopping' | t }}
