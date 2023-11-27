@@ -1266,7 +1266,7 @@
             "settings": {
               "mobile_nav": "shopify:\/\/shop_images\/shaving.png",
               "text": "Shave Care",
-              "linkurl": "shopify:\/\/pages\/shaving-products-for-men",
+              "linkurl": "shopify:\/\/collections\/shave-care-products",
               "linkopen": false
             }
           },
