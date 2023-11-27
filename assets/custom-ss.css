@@ -176,4 +176,13 @@ a.card-title.sidebar.link-underline.card-title-ellipsis {
 @media(max-width:450px){
   .productView{padding-bottom:0px!important}
 }
+span.badge.custom-badge.new-arriavl {
+    position: absolute;
+    top: 28px;
+    z-index: 1;
+    left: 5px;
+    background-color: #0d5ea8;
+    padding: 0px 9px;
+    color: #fff;
+}
 .announcement-bar__message h1,.announcement-bar__message h2,.announcement-bar__message h3,.announcement-bar__message h4,.announcement-bar__message h5,.announcement-bar__message h6,.announcement-bar__message p,.announcement-bar__message span,.announcement-bar__message a{padding:0}
