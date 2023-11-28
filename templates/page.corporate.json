@@ -635,6 +635,76 @@
         "color_des": "#3c3c3c",
         "fontsize_des": 16
       }
+    },
+    "c1b16f56-c09c-44fa-8a8c-1bc77f346066": {
+      "type": "customer-review-block",
+      "blocks": {
+        "1c1ce147-d8d1-440e-bd6d-f1df01b88eaf": {
+          "type": "review",
+          "settings": {
+            "heading": "",
+            "sub_heading": "",
+            "rating": "star5",
+            "name": "",
+            "date": "",
+            "body": "No more sore, painful chin as this after shave balm gives the ultimate soothing effect and its long lasting rehydration makes your day. Just take a dollop of balm and massage only the shaved area for a few seconds till it dries."
+          }
+        }
+      },
+      "block_order": [
+        "1c1ce147-d8d1-440e-bd6d-f1df01b88eaf"
+      ],
+      "settings": {
+        "container": "container",
+        "padding_full_width": 0,
+        "section_style": "style_1",
+        "mg_top_desktop": 15,
+        "mg_top_tablet": 15,
+        "mg_top_mobile": 15,
+        "mg_bottom_desktop": 15,
+        "mg_bottom_tablet": 15,
+        "mg_bottom_mobile": 15,
+        "review_bg": "#fafafa",
+        "review_bg_gradient": "",
+        "review_title": "Customers of Bombay Shaving COmpany",
+        "color_title": "#232323",
+        "mg_bottom_title": 18,
+        "fontsize_title": 16,
+        "fontsize_title_mb": 16,
+        "review_des": "",
+        "color_des": "#3c3c3c",
+        "margin_bottom_des": 35,
+        "fontsize_des": 16,
+        "title_align": "center",
+        "block_layout_style": "layout1",
+        "review_rows": "1",
+        "show_arrow": true,
+        "avatar_margin_bottom": 10,
+        "color_heading": "#202020",
+        "fontsize_heading": 20,
+        "heading_margin_bottom": 14,
+        "heading_font_weight": "400",
+        "color_sub_heading": "#808080",
+        "fontsize_sub_heading": 13,
+        "sub_heading_margin_bottom": 20,
+        "color_name": "#202020",
+        "fontsize_name": 14,
+        "color_date": "#808080",
+        "fontsize_date": 13,
+        "color_body": "#202020",
+        "fontsize_body": 16,
+        "body_margin_bottom": 24,
+        "color_icon": "#fff",
+        "bg_color_icon": "#cbcbcb",
+        "star_margin_bottom": 0,
+        "show_avatar": true,
+        "start_position": "below_title",
+        "star_color": "",
+        "scroll_height": 4,
+        "scroll_track_bg": "#f1f1f1",
+        "scroll_thumb_color": "#000",
+        "scroll_thumb_hover_color": "#444"
+      }
     }
   },
   "order": [
@@ -642,6 +712,7 @@
     "e1e65576-1fc5-4f14-9d75-4210c15ecdc2",
     "3fdb96c3-08f1-48bf-8056-b132357897e1",
     "af42ada3-d15e-4943-a503-9997a92b8505",
-    "71772b18-064f-42fa-a12f-5cc4d984a7b4"
+    "71772b18-064f-42fa-a12f-5cc4d984a7b4",
+    "c1b16f56-c09c-44fa-8a8c-1bc77f346066"
   ]
 }
