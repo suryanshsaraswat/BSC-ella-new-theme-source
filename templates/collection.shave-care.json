@@ -296,7 +296,7 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/Cartridges_d12fc6b9-43ac-44c2-92a0-7c78f51320e6.jpg",
             "banner_height": "auto",
-            "enable_image_zoom": true,
+            "enable_image_zoom": false,
             "banner_border_radius": 0,
             "content_align": "center",
             "align_items": "center",
