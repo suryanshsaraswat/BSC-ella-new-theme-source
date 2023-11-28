@@ -69,7 +69,7 @@
             "heading": "Talk about your brand",
             "heading_size": 30,
             "heading_size_mb": 30,
-            "heading_color": "#000"
+            "heading_color": "#000000"
           }
         },
         "template--16247966433434__a3878923-0187-42b4-9c45-aeffaf0f6ddf-text-1": {
@@ -78,7 +78,7 @@
             "text": "<p>We’re reimagining hair removal for men in India with products that delight, deliver, and empower you every day. Express yourself freely, and play with your hair - shave, trim, spray - do it your way. Our painless, easy-to-use, and customizable products are designed with you in mind. No fancy jargon or complex formulas – just simple and effective solutions. But you may ask what’s the catch? Frankly, there’s none. These products are good for your skin, good for your wallet, and good for the planet too. Join us and redefine your grooming journey today.<\/p>",
             "text_size": 16,
             "margin_top_text": 2,
-            "text_color": "#000",
+            "text_color": "#000000",
             "text_width": "1200px"
           }
         }
@@ -99,7 +99,7 @@
         "mg_bottom_desktop": 50,
         "mg_bottom_tablet": 50,
         "mg_bottom_mobile": 50,
-        "rich_text_bg": "#fff",
+        "rich_text_bg": "#ffffff",
         "rich_text_bg_gradient": ""
       }
     },
@@ -108,21 +108,11 @@
       "blocks": {
         "112b55b9-41f7-458f-8073-3bb19770822d": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/1200px-HNI_logo.svg_49104737-9bed-468d-95c0-4ab65c80d5d8.png",
             "title": "",
-            "color_text": "#000",
-            "color_text_hover": "#3e8cc4",
-            "description": "",
-            "color_des": "#3c3c3c",
-            "link": ""
-          }
-        },
-        "51d75352-4d30-4d9c-af6a-a55deb1342f7": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "color_text": "#000",
+            "color_text": "#000000",
             "color_text_hover": "#3e8cc4",
             "description": "",
             "color_des": "#3c3c3c",
@@ -132,8 +122,9 @@
         "b086697f-dbb1-4630-86ac-7798ec94c8fa": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Investors_0000_Singularity_1_76ad49b2-7faa-4470-9851-295551899dd1.jpg",
             "title": "",
-            "color_text": "#000",
+            "color_text": "#000000",
             "color_text_hover": "#3e8cc4",
             "description": "",
             "color_des": "#3c3c3c",
@@ -143,8 +134,9 @@
         "b259fa63-8f34-41f2-be22-8cd04f151799": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Investors_0002_Patni_Invetments_1_d349ea24-8cb3-4cda-8c71-395b5ea0bb3a.jpg",
             "title": "",
-            "color_text": "#000",
+            "color_text": "#000000",
             "color_text_hover": "#3e8cc4",
             "description": "",
             "color_des": "#3c3c3c",
@@ -154,8 +146,9 @@
         "38d26cb3-9cf4-4b91-8413-fd7353ee6fbb": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Investors_0005_Sixth_Sense_9a4bbb00-f8da-4acf-8dfe-016047dd1189.jpg",
             "title": "",
-            "color_text": "#000",
+            "color_text": "#000000",
             "color_text_hover": "#3e8cc4",
             "description": "",
             "color_des": "#3c3c3c",
@@ -165,6 +158,55 @@
         "fae0d81b-42d8-4afb-800b-23c8be492f65": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Investors_0003_Malabar_Investments_d7c300e7-7195-4d41-a393-c73afb43d5ed.jpg",
+            "title": "",
+            "color_text": "#000000",
+            "color_text_hover": "#3e8cc4",
+            "description": "",
+            "color_des": "#3c3c3c",
+            "link": ""
+          }
+        },
+        "9a0364db-1b60-44ec-95c5-93623bd79d0a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Investors_0006_Colgate_Palmolive_2945b8c5-029b-49f8-9b9f-09d8d4b5a76c.jpg",
+            "title": "",
+            "color_text": "#000",
+            "color_text_hover": "#3e8cc4",
+            "description": "",
+            "color_des": "#3c3c3c",
+            "link": ""
+          }
+        },
+        "a4977699-4ed9-4196-82a4-f362139cbeb9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Investors_0004_Reckitt_eb588324-b607-4da0-9056-07cc97685dd6.jpg",
+            "title": "",
+            "color_text": "#000",
+            "color_text_hover": "#3e8cc4",
+            "description": "",
+            "color_des": "#3c3c3c",
+            "link": ""
+          }
+        },
+        "93ee137e-a3ba-4e8e-b891-039eaa9d2239": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Investors_0001_Gil_Investments_1_2ad622db-f370-4d74-a438-49a9e0f7f607.jpg",
+            "title": "",
+            "color_text": "#000",
+            "color_text_hover": "#3e8cc4",
+            "description": "",
+            "color_des": "#3c3c3c",
+            "link": ""
+          }
+        },
+        "ddee38d9-d0be-4738-bd04-2b84580f564e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Investors_0007_Firesideventures_f0e47f61-ab1e-428a-a6f7-c2089ca18c4e.jpg",
             "title": "",
             "color_text": "#000",
             "color_text_hover": "#3e8cc4",
@@ -176,11 +218,14 @@
       },
       "block_order": [
         "112b55b9-41f7-458f-8073-3bb19770822d",
-        "51d75352-4d30-4d9c-af6a-a55deb1342f7",
         "b086697f-dbb1-4630-86ac-7798ec94c8fa",
         "b259fa63-8f34-41f2-be22-8cd04f151799",
         "38d26cb3-9cf4-4b91-8413-fd7353ee6fbb",
-        "fae0d81b-42d8-4afb-800b-23c8be492f65"
+        "fae0d81b-42d8-4afb-800b-23c8be492f65",
+        "9a0364db-1b60-44ec-95c5-93623bd79d0a",
+        "a4977699-4ed9-4196-82a4-f362139cbeb9",
+        "93ee137e-a3ba-4e8e-b891-039eaa9d2239",
+        "ddee38d9-d0be-4738-bd04-2b84580f564e"
       ],
       "settings": {
         "container": "container",
@@ -220,8 +265,8 @@
         "brand_rows": "5",
         "enable_arrows": true,
         "enable_dots": false,
-        "enable_center_mode": false,
-        "style_position_arrows": "none",
+        "enable_center_mode": true,
+        "style_position_arrows": "arrows_1",
         "position_horizontal_arrow": 15,
         "color_arrow": "",
         "arrow_background": "",
@@ -231,7 +276,7 @@
         "arrow_background_hover": "",
         "arrow_background_gradient_hover": "",
         "arrow_border_hover": "",
-        "brand_rows_mb": "1",
+        "brand_rows_mb": "2",
         "item_distance": 15,
         "margin_bottom_image": 0,
         "brand_item_border": "none",
