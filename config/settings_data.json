@@ -1409,6 +1409,13 @@
           "playstoreurl": "<paste your play store link><\/paste>",
           "appstoreurl": "<paste your ios app store link><\/paste>"
         }
+      },
+      "10605408327587305396": {
+        "type": "shopify:\/\/apps\/eg-auto-add-to-cart\/blocks\/app-embed\/0f7d4f74-1e89-4820-aec4-6564d7e535d2",
+        "disabled": false,
+        "settings": {
+          "version": "v3"
+        }
       }
     }
   }
