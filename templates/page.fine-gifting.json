@@ -101,10 +101,104 @@
             "vertical_pos_3": 0,
             "lookbook_pos_3": "right"
           }
+        },
+        "ba92d02a-4ef2-4801-b1c9-3f5edd009917": {
+          "type": "image",
+          "settings": {
+            "image_slide": "shopify:\/\/shop_images\/Desktop_1_1_2000x_985dc0a9-8e19-48b0-ab50-11f89a17658d.jpg",
+            "image_slide_mb": "shopify:\/\/shop_images\/Mobile_1_1_4e774ea0-ebb5-4558-b4cf-ff326f11a1d8_1_x800_1.jpg",
+            "alignment": "left",
+            "enable_custom_position": false,
+            "custom_horizontal": "",
+            "custom_vertical": "",
+            "enable_position_outside_image": false,
+            "text_alignment": "center",
+            "enable_border_line": false,
+            "padding_vertical": 30,
+            "content_width": 475,
+            "bg_color_content": "",
+            "border_color_content": "",
+            "profile_name": "",
+            "profile_name_color": "",
+            "profile_name_fs": 20,
+            "profile_name_fs_mb": 20,
+            "profile_name_fw": "normal",
+            "profile_title": "",
+            "profile_title_color": "",
+            "profile_title_fs": 20,
+            "profile_title_fs_mb": 20,
+            "profile_title_fw": "normal",
+            "profile_spacing_bottom": 50,
+            "sub_heading": "",
+            "letter_spacing_sub_title": "",
+            "font_size_sub_heading": 30,
+            "sub_heading_spacing_bottom": 20,
+            "font_weight_sub_heading": "400",
+            "border_sub_heading": "none",
+            "sub_title_position": "sub_title_above",
+            "color_sub_heading": "#fff",
+            "heading": "Cosmopolis",
+            "letter_spacing_heading": "",
+            "enable_border_heading": false,
+            "font_style_heading": "normal",
+            "font_size_heading": 40,
+            "line_height_heading": 40,
+            "heading_spacing_bottom": 8,
+            "color_heading": "#232323",
+            "slide-des": "",
+            "font_size_des": 12,
+            "des_spacing_bottom": 35,
+            "color_des": "#232323",
+            "sub_heading_mb": "",
+            "font_size_sub_heading_mb": 20,
+            "sub_heading_spacing_bottom_mb": 20,
+            "font_weight_sub_heading_mb": "400",
+            "border_sub_heading_mb": "none",
+            "color_sub_heading_mb": "#fff",
+            "heading_mb": "",
+            "font_style_heading_mb": "normal",
+            "font_size_heading_mb": 24,
+            "line_height_heading_mb": 24,
+            "heading_spacing_bottom_mb": 8,
+            "color_heading_mb": "#fff",
+            "slide-des-mb": "",
+            "font_size_des_mb": 12,
+            "des_spacing_bottom_mb": 35,
+            "color_des_mb": "#fff",
+            "enable_icon_button": false,
+            "enable_button_link": false,
+            "button_slide": "",
+            "link": "https:\/\/bombayshavingcompany.com\/apps\/gbb\/builder\/1",
+            "button_style": "button_1",
+            "button_slide_2": "",
+            "link_2": "",
+            "min_width_banner_button": 270,
+            "color_button": "#fff",
+            "border_button": "#232323",
+            "bg_button": "#232323",
+            "bg_button_gradient": "",
+            "color_button_hover": "#fff",
+            "border_button_hover": "#232323",
+            "bg_button_hover": "#232323",
+            "bg_button_gradient_hover": "",
+            "lb_product_1": "",
+            "horizontal_pos_1": 0,
+            "vertical_pos_1": 0,
+            "lookbook_pos_1": "right",
+            "lb_product_2": "",
+            "horizontal_pos_2": 0,
+            "vertical_pos_2": 0,
+            "lookbook_pos_2": "right",
+            "lb_product_3": "",
+            "horizontal_pos_3": 0,
+            "vertical_pos_3": 0,
+            "lookbook_pos_3": "right"
+          }
         }
       },
       "block_order": [
-        "template--16248334450842__d8540cb1-3fb3-4c02-ac10-6a75357e82de-image-1"
+        "template--16248334450842__d8540cb1-3fb3-4c02-ac10-6a75357e82de-image-1",
+        "ba92d02a-4ef2-4801-b1c9-3f5edd009917"
       ],
       "settings": {
         "container": "fullwidth",
@@ -170,24 +264,6 @@
     "27290d80-e209-45fb-b5f4-e60f751ff07d": {
       "type": "gifting-prod-block",
       "blocks": {
-        "d06a011a-94c8-4c30-9344-0d77ffaf7609": {
-          "type": "Product",
-          "settings": {
-            "featured_product": "premium-shaving-kit-for-men",
-            "featured_image-1": "shopify:\/\/shop_images\/6PSS_81ae8c21-391d-481e-9fe1-8f4ad9f3f675.jpg",
-            "featured_image-2": "shopify:\/\/shop_images\/1_option_2_2c2e0961-848d-4b15-b995-cc897fada6e0.jpg",
-            "labelll": ""
-          }
-        },
-        "e970bd0a-5d37-4f6b-8414-650c9f6e7e4e": {
-          "type": "Product",
-          "settings": {
-            "featured_product": "precision-safety-razor-for-men",
-            "featured_image-1": "shopify:\/\/shop_images\/Artboard_21_1.jpg",
-            "featured_image-2": "shopify:\/\/shop_images\/Artboard_31_1.jpg",
-            "labelll": ""
-          }
-        },
         "88f316e6-0431-499f-9166-c99061be71ee": {
           "type": "Product",
           "settings": {
@@ -215,21 +291,21 @@
             "labelll": ""
           }
         },
-        "5c600dd7-ce0c-49bc-a80d-ce7f7c97053b": {
-          "type": "Product",
-          "settings": {
-            "featured_product": "wanderlust-perfume-collection-3-perfume-combo",
-            "featured_image-1": "shopify:\/\/shop_images\/Wander_lust_37a32035-ed00-4577-916c-71acf38c674a.jpg",
-            "featured_image-2": "shopify:\/\/shop_images\/card_2_f20e34dd-8c83-4754-aaab-19caa5b79365.jpg",
-            "labelll": ""
-          }
-        },
         "f84aa1d6-e7c8-44c6-acd7-4845129e8b2a": {
           "type": "Product",
           "settings": {
             "featured_product": "globetrotter-fragrance-gift-set-for-men",
             "featured_image-1": "shopify:\/\/shop_images\/Globrtrtter_Kit_bd708ddf-d471-47a1-8668-3f99442b9125.jpg",
             "featured_image-2": "shopify:\/\/shop_images\/2_7d37548f-06c6-4b9f-8a00-839e6a09fb6d.jpg",
+            "labelll": ""
+          }
+        },
+        "5c600dd7-ce0c-49bc-a80d-ce7f7c97053b": {
+          "type": "Product",
+          "settings": {
+            "featured_product": "wanderlust-perfume-collection-3-perfume-combo",
+            "featured_image-1": "shopify:\/\/shop_images\/Wander_lust_37a32035-ed00-4577-916c-71acf38c674a.jpg",
+            "featured_image-2": "shopify:\/\/shop_images\/card_2_f20e34dd-8c83-4754-aaab-19caa5b79365.jpg",
             "labelll": ""
           }
         },
@@ -251,27 +327,35 @@
             "labelll": ""
           }
         },
-        "1a6e706f-2f28-4164-8015-50fc62fde0ec": {
+        "d06a011a-94c8-4c30-9344-0d77ffaf7609": {
           "type": "Product",
           "settings": {
-            "featured_product": "beard-care-kit",
-            "featured_image-1": "shopify:\/\/shop_images\/Artboard_1_a4c0cec7-c5b3-45d7-ad7a-6be491d4c05e.jpg",
-            "featured_image-2": "shopify:\/\/shop_images\/Artboard_2_1dbcbc43-4519-47c7-a531-0b2b05bb8fbe.jpg",
+            "featured_product": "premium-shaving-kit-for-men",
+            "featured_image-1": "shopify:\/\/shop_images\/6PSS_81ae8c21-391d-481e-9fe1-8f4ad9f3f675.jpg",
+            "featured_image-2": "shopify:\/\/shop_images\/1_option_2_2c2e0961-848d-4b15-b995-cc897fada6e0.jpg",
+            "labelll": ""
+          }
+        },
+        "e970bd0a-5d37-4f6b-8414-650c9f6e7e4e": {
+          "type": "Product",
+          "settings": {
+            "featured_product": "precision-safety-razor-for-men",
+            "featured_image-1": "shopify:\/\/shop_images\/Artboard_21_1.jpg",
+            "featured_image-2": "shopify:\/\/shop_images\/Artboard_31_1.jpg",
             "labelll": ""
           }
         }
       },
       "block_order": [
-        "d06a011a-94c8-4c30-9344-0d77ffaf7609",
-        "e970bd0a-5d37-4f6b-8414-650c9f6e7e4e",
         "88f316e6-0431-499f-9166-c99061be71ee",
         "cf788479-cc4a-4dc9-9069-01a45d24b98a",
         "70ba2949-9b1f-4b06-86d8-c4c19aea0ddf",
-        "5c600dd7-ce0c-49bc-a80d-ce7f7c97053b",
         "f84aa1d6-e7c8-44c6-acd7-4845129e8b2a",
+        "5c600dd7-ce0c-49bc-a80d-ce7f7c97053b",
         "6e8d144f-382d-4b63-9623-69b61b51071f",
         "9bc83133-5b03-4f93-8448-485d8acd7501",
-        "1a6e706f-2f28-4164-8015-50fc62fde0ec"
+        "d06a011a-94c8-4c30-9344-0d77ffaf7609",
+        "e970bd0a-5d37-4f6b-8414-650c9f6e7e4e"
       ],
       "settings": {
         "headtext": ""
@@ -304,7 +388,7 @@
             "font_weight_sub_title": "700",
             "sub_title_position": "sub_title_above",
             "color_sub_title": "#232323",
-            "color_sub_title_mb": "#fff",
+            "color_sub_title_mb": "#ffffff",
             "heading": "",
             "letter_spacing_heading": "",
             "enable_style_italic": false,
@@ -313,17 +397,17 @@
             "margin_bottom_heading": 20,
             "font_weight_heading": "600",
             "color_heading": "#232323",
-            "color_heading_mb": "#fff",
+            "color_heading_mb": "#ffffff",
             "border_title": "border_s1",
             "border_color_title": "#232323",
-            "border_color_title_mobile": "#fff",
+            "border_color_title_mobile": "#ffffff",
             "text": "",
             "font_size_des": 12,
             "font_size_des_mb": 12,
             "line_height_des": 26,
             "margin_bottom_des": 35,
             "color_des": "#232323",
-            "color_des_mb": "#fff",
+            "color_des_mb": "#ffffff",
             "countdown": "",
             "hide_countdown_fc": "countdown",
             "countdown_style": "round",
@@ -331,7 +415,7 @@
             "font_size_countdown_number": 30,
             "font_size_countdown_text": 14,
             "color_countdown": "#232323",
-            "color_countdown_mb": "#fff",
+            "color_countdown_mb": "#ffffff",
             "countdown_margin_bottom": 35,
             "content_width": 475,
             "align": "center",
@@ -344,29 +428,30 @@
             "btn_icon": "",
             "button_1_width": 235,
             "enable_button_custom_border": false,
-            "button_color": "#fff",
+            "button_color": "#ffffff",
             "button_border": "#232323",
             "button_background": "#232323",
             "button_background_gradient": "",
-            "button_color_hover": "#fff",
+            "button_color_hover": "#ffffff",
             "button_border_hover": "#232323",
             "button_background_hover": "#232323",
             "button_background_gradient_hover": "",
             "btn_text_2": "",
             "link_2": "",
             "btn_icon_2": "",
-            "button_color_2": "#fff",
+            "button_color_2": "#ffffff",
             "button_border_2": "#232323",
             "button_background_2": "#232323",
             "button_background_2_gradient": "",
-            "button_color_hover_2": "#fff",
+            "button_color_hover_2": "#ffffff",
             "button_border_hover_2": "#232323",
             "button_background_hover_2": "#232323",
             "button_background_gradient_hover_2": "",
+            "video_link": "",
             "adaptive_height_video": "56",
             "icon_style": "style_1",
-            "color_icon": "#fff",
-            "bg_color_icon": "#000",
+            "color_icon": "#ffffff",
+            "bg_color_icon": "#000000",
             "enable_custom_video_icon_position": false,
             "video_icon_horizontal_position": "",
             "video_icon_vertical_position": "",
