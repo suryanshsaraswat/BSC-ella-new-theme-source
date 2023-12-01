@@ -133,7 +133,8 @@
           "type": "banner",
           "settings": {
             "enable_image": true,
-            "banner_height": "full_height",
+            "image": "shopify:\/\/shop_images\/Flo4_Mobile_copy_2_a92cfc71-6d45-42ed-bc41-710c438ad5fe.webp",
+            "banner_height": "auto",
             "enable_image_zoom": true,
             "banner_border_radius": 0,
             "content_align": "center",
