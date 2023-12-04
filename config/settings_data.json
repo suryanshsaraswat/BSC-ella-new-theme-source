@@ -144,7 +144,7 @@
     "product_block_image_ratio": "square",
     "portrait_height": "130",
     "show_image_swap": true,
-    "show_image_loading": true,
+    "show_image_loading": false,
     "image_loading_text": "Bombay Shaving Company",
     "show_vendor": false,
     "display_item_size": false,
