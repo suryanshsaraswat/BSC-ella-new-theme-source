@@ -188,4 +188,7 @@ position: absolute;
     background-color: #0d5ea8;
     padding: 0 9px;
     color: #fff;}
+recently-viewed-popup#halo-recently-viewed-popup {
+    display: none;
+}
 .announcement-bar__message h1,.announcement-bar__message h2,.announcement-bar__message h3,.announcement-bar__message h4,.announcement-bar__message h5,.announcement-bar__message h6,.announcement-bar__message p,.announcement-bar__message span,.announcement-bar__message a{padding:0}
