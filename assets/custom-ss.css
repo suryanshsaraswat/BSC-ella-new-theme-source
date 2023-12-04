@@ -20,6 +20,9 @@ div#shopify-section-template--16129472299162__9de6c008-597e-4b4d-b585-63a59f43db
 .sale_label {margin-left: 19px;background-color: red;padding: 0px 8px;color: #fff;font-size: 14px;}
 @media(max-width:450px){
   .pr_mobile{display:block; padding:15px 0}
+  button#product-add-to-cart {
+    display: none;
+}
   .mobile_displaynone {display: none;}
   .mobile_title>.productView-moreItem>.productView-title>span {font-size: 20px;font-weight: 700;}
   .price-item.price-item--sale {font-size: 20px !important;}
