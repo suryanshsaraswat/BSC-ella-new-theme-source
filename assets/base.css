@@ -823,6 +823,7 @@ option.soldout {
     .haloCalculatorShipping .progress.progress-free + .message {
         color: #0d5ea8;
       font-weight:500;
+      font-size:14px
       
     }
 
