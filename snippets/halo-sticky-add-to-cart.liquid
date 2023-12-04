@@ -148,6 +148,7 @@
                                         class="product-form__submit button button--primary{% if first_inventory == 0 %} button-text-change{% endif %}"
                                         id="show-sticky-product">
                                            <div class="atc-button-text">
+                                            {% unless product.template_suffix == 'varianted-product' %}
                                              {% if product.compare_at_price > product.price %}
                                                <div class="pr_price d">
                                                   MRP: <span class="com-subdeud">{{ product.price | money_with_currency }}</span>
@@ -156,6 +157,7 @@
                                                {% else %}
                                                <div class="pr_price no-d">MRP: {{ product.compare_at_price | money_with_currency }}</div>
                                                {% endif %}
+                                              {% endunless %}
                                              <div class="atc-text"> <div class="cart-icon">{% render 'cart-icon-01' %}</div>{{ 'products.product.add_to_cart' | t }}</div>
                                              
                                            </div>
