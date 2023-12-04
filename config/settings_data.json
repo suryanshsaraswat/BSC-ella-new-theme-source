@@ -127,7 +127,7 @@
     "customer_login_btn_2": "2",
     "show_hot_stock": true,
     "after_add_to_cart": "quick_cart",
-    "enable_lazyload": true,
+    "enable_lazyload": false,
     "pagination_style": "1",
     "trust_image_product_1": "shopify:\/\/shop_images\/image-trust_9cf48f22-6c8a-4a39-b604-64b168dc56be.jpg",
     "trust_image_product_3": "shopify:\/\/shop_images\/security-image-3.png",
