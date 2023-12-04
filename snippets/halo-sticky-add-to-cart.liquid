@@ -158,7 +158,7 @@
                                                <div class="pr_price no-d">MRP: {{ product.compare_at_price | money_with_currency }}</div>
                                                {% endif %}
                                               {% endunless %}
-                                             <div class="atc-text"> <div class="cart-icon">{% render 'cart-icon-01' %}</div>{{ 'products.product.add_to_cart' | t }}</div>
+                                             <div class="atc-text"> {% if product.available %}<div class="cart-icon">{% render 'cart-icon-01' %}</div>{{ 'products.product.add_to_cart' | t }}{% else %}Sold Out{% endif %}</div>
                                              
                                            </div>
                                     </button>
