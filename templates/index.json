@@ -1248,15 +1248,18 @@
       "block_order": [
         "f8b58f38-af24-4f6a-af57-7dc4b4dbe8d4"
       ],
+      "custom_css": [
+        ".slideshow {margin-bottom: -30px;}"
+      ],
       "settings": {
         "container": "fullwidth",
         "padding_full_width": 0,
         "mg_top_desktop": 0,
-        "mg_top_tablet": 20,
+        "mg_top_tablet": 0,
         "mg_top_mobile": 0,
-        "mg_bottom_desktop": 20,
-        "mg_bottom_tablet": 20,
-        "mg_bottom_mobile": 20,
+        "mg_bottom_desktop": 0,
+        "mg_bottom_tablet": 0,
+        "mg_bottom_mobile": 0,
         "image_banner_title": "",
         "enable_border_title": false,
         "color_title": "#202020",
