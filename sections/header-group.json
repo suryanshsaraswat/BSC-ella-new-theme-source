@@ -460,6 +460,25 @@
             "bg_mega_menu_bottom": "#f8f8f8"
           }
         },
+        "25562dc0-20cb-443b-89b3-ca2b91530ff5": {
+          "type": "megamenu_style_5",
+          "settings": {
+            "layout_block": "custom_width",
+            "header_custom_width_size": 1200,
+            "mega_tyle": "style1",
+            "item": "BLOGS",
+            "column": 3,
+            "menu_text_left": "",
+            "menu_text_left_sale": "",
+            "show_banner_1": false,
+            "banner_url_1": "",
+            "product_limit": 4,
+            "show_product": false,
+            "product_title": "Featured Products",
+            "product_collection": "",
+            "bg_mega_menu_bottom": "#f8f8f8"
+          }
+        },
         "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-2": {
           "type": "header_icons",
           "settings": {
@@ -495,6 +514,7 @@
         "69808827-38aa-4897-bedd-94847c3b092f",
         "2d7ada73-6bfa-450e-9915-cd9b3e3c3b83",
         "35a78c4e-5d64-42fc-95b1-c6506b165f91",
+        "25562dc0-20cb-443b-89b3-ca2b91530ff5",
         "sections--14682829619277__9c03747e-b054-4db8-8194-5a35c71f82ca-1680876693acfad79f-2"
       ],
       "settings": {
