@@ -150,11 +150,19 @@
                                            <div class="atc-button-text">
                                              {% if product.compare_at_price > product.price %}
                                                <div class="pr_price d">
-                                                  MRP: <span class="com-subdeud" style="margin-left:5px">{{ product.price | money_with_currency }}</span>{% render 'price' %}
+                                                  {%- render 'price',
+                                                        product: product,
+                                                        use_variant: true,
+                                                        price_class: 'price--medium'
+                                                    -%}
                                                  <span class="d-off">{{ product.compare_at_price | minus: product.price | times: 100 | divided_by: product.compare_at_price | replace: '0,', ''| append: "%"}} Off</span>
                                                </div>
                                                {% else %}
-                                               <div class="pr_price no-d">MRP: {{ product.compare_at_price | money_with_currency }}</div>
+                                               <div class="pr_price no-d">{%- render 'price',
+                                                        product: product,
+                                                        use_variant: true,
+                                                        price_class: 'price--medium'
+                                                    -%}</div>
                                                {% endif %}
                                              <div class="atc-text"> <div class="cart-icon">{% render 'cart-icon-01' %}</div>{{ 'products.product.add_to_cart' | t }}</div>
                                              
