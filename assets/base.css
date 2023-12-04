@@ -780,6 +780,7 @@ option.soldout {
 
     .haloCalculatorShipping .progress.progress-free .progress_shipping{
         border-color: var(--free-shipping-bg-4);
+        
     }
 
     .haloCalculatorShipping .progress.progress-30 .progress_shipping{
@@ -820,7 +821,9 @@ option.soldout {
     }
     
     .haloCalculatorShipping .progress.progress-free + .message {
-        color: var(--free-shipping-bg-4);
+        color: #0d5ea8;
+      font-weight:500;
+      
     }
 
     .haloCalculatorShipping .message .text{
