@@ -15,20 +15,10 @@
             "btn_bg_color_gradient": "linear-gradient(46deg, rgba(52, 133, 236, 1) 13%, rgba(170, 248, 219, 1) 86%)"
           }
         },
-        "a68003ee-9e15-4323-8ccc-6de0886a31bb": {
-          "type": "announcement",
-          "settings": {
-            "text": "",
-            "btn_color": "#f84248",
-            "btn_border_color": "#ffffff",
-            "btn_bg_color": "#ffffff",
-            "btn_bg_color_gradient": ""
-          }
-        },
         "6971e150-cc58-4208-97e1-6224cd7a9464": {
           "type": "announcement",
           "settings": {
-            "text": "<p style=\"padding:0\">Welcome to our store<\/p>",
+            "text": "<a href=\"\/products\/sensi-smart-3\"><p style=\"padding:0\">Sensitive on skin RAZORS starting @99<\/p><\/a>",
             "btn_color": "#f84248",
             "btn_border_color": "#ffffff",
             "btn_bg_color": "#ffffff",
@@ -38,7 +28,6 @@
       },
       "block_order": [
         "announcement-bar-0",
-        "a68003ee-9e15-4323-8ccc-6de0886a31bb",
         "6971e150-cc58-4208-97e1-6224cd7a9464"
       ],
       "settings": {
