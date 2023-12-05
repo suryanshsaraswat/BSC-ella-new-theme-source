@@ -207,5 +207,8 @@ span.custom-icon.style-rectangle img {
 .productView-desc.halo-text-format ul li {
     color: #000!important;
 }
+.pr-rating-flex {
+    padding-bottom: 10px;
+}
 span.menu-lv-2__action.link.focus-inset span.text{padding-left:10px}
 .announcement-bar__message h1,.announcement-bar__message h2,.announcement-bar__message h3,.announcement-bar__message h4,.announcement-bar__message h5,.announcement-bar__message h6,.announcement-bar__message p,.announcement-bar__message span,.announcement-bar__message a{padding:0}
