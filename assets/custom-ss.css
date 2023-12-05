@@ -208,6 +208,12 @@ span.custom-icon.style-rectangle img {
     color: #000!important;
     font-size:15px
 }
+.pr-info {
+    font-size: 15px;
+    padding: 0 50px;
+    font-weight: 500;
+    letter-spacing: 0.2px;
+}
 .pr-rating-flex {
     padding-bottom: 10px;
 }
