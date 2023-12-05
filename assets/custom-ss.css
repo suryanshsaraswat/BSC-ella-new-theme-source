@@ -217,6 +217,8 @@ span.custom-icon.style-rectangle img {
 .pr-rating-flex {
     padding-bottom: 10px;
 }
-
+@media(max-width:450px){
+  .pr-info {padding:0 20px}
+}
 span.menu-lv-2__action.link.focus-inset span.text{padding-left:10px}
 .announcement-bar__message h1,.announcement-bar__message h2,.announcement-bar__message h3,.announcement-bar__message h4,.announcement-bar__message h5,.announcement-bar__message h6,.announcement-bar__message p,.announcement-bar__message span,.announcement-bar__message a{padding:0}
