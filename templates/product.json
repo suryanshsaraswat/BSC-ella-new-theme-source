@@ -99,6 +99,12 @@
             "spacing_bottom": 8
           }
         },
+        "67d5f013-e5d8-44f9-a3b2-af97a0d70078": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% render 'engraving' %}"
+          }
+        },
         "f1b31d90-1e43-4948-9fe3-97ba43f6fb34": {
           "type": "buy_buttons",
           "settings": {
@@ -136,6 +142,7 @@
         "4036f89b-c2c5-49a4-9d6b-2fd29ce7c46c",
         "faa2b3e6-c0a1-4269-baa6-d2605efe4c05",
         "5d8b9ff9-6a1c-4850-a6c2-e6cdbb8b7f7c",
+        "67d5f013-e5d8-44f9-a3b2-af97a0d70078",
         "f1b31d90-1e43-4948-9fe3-97ba43f6fb34"
       ],
       "settings": {
