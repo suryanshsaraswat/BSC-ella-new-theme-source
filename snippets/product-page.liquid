@@ -1079,6 +1079,7 @@
                                                 %}
                                             </div>
                                         {% endunless %}
+                                  {% render 'engraving' %}
                                     {%- when 'quantity_selector' -%}
                                         {% unless has_product_combo %}
                                             {%- if check_show_qty == 'show_qty_1' -%}
