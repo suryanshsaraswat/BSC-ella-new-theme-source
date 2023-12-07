@@ -824,7 +824,7 @@
         "mg_bottom_desktop": 20,
         "mg_bottom_tablet": 20,
         "mg_bottom_mobile": 20,
-        "product_block_layout": "grid",
+        "product_block_layout": "slider",
         "product_bg": "#ffffff",
         "product_bg_gradient": "",
         "style_block_header": "style1",
