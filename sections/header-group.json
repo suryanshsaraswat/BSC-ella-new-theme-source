@@ -18,7 +18,7 @@
         "6971e150-cc58-4208-97e1-6224cd7a9464": {
           "type": "announcement",
           "settings": {
-            "text": "<a href=\"\/products\/sensi-smart-3\"><p style=\"padding:0\">Sensitive on skin RAZORS starting @99<\/p><\/a>",
+            "text": "<a href=\"\/collections\/grooming-galore\"><p style=\"padding:0\">Sensitive on skin RAZORS starting @99<\/p><\/a>",
             "btn_color": "#f84248",
             "btn_border_color": "#ffffff",
             "btn_bg_color": "#ffffff",
@@ -28,7 +28,7 @@
         "90597819-a9a3-4373-a611-6adf26032368": {
           "type": "announcement",
           "settings": {
-            "text": "<p>Trimmers starting at @599<\/p>",
+            "text": "<a href=\"\/pages\/trimmers-for-men\"><p>Trimmers starting at @599<\/p><\/a>",
             "btn_color": "#f84248",
             "btn_border_color": "#ffffff",
             "btn_bg_color": "#ffffff",
