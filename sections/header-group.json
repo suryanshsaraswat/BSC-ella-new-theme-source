@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "<p><a href=\"\/collections\/diwali-sale\">Get free shipping above orders Rs.199<\/a><\/p>",
+            "text": "<p><a href=\"\/collections\/grooming-galore\">Get free shipping above orders Rs.199<\/a><\/p>",
             "btn_color": "#cc0e14",
             "btn_border_color": "#2da116",
             "btn_bg_color": "#727272",
@@ -18,7 +18,7 @@
         "6971e150-cc58-4208-97e1-6224cd7a9464": {
           "type": "announcement",
           "settings": {
-            "text": "<a href=\"\/collections\/grooming-galore\"><p style=\"padding:0\">Sensitive on skin RAZORS starting @99<\/p><\/a>",
+            "text": "<a href=\"\/products\/sensi-smart-3\"><p style=\"padding:0\">Sensitive on skin RAZORS starting @99<\/p><\/a>",
             "btn_color": "#f84248",
             "btn_border_color": "#ffffff",
             "btn_bg_color": "#ffffff",
