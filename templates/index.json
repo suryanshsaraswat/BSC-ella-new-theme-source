@@ -6,8 +6,8 @@
         "eb881620-018e-4971-95e9-7e0a015dcd16": {
           "type": "image",
           "settings": {
-            "image_slide": "shopify:\/\/shop_images\/6pss.png",
-            "image_slide_mb": "shopify:\/\/shop_images\/6_PSS_mobile.png",
+            "image_slide": "shopify:\/\/shop_images\/6pss_2.webp",
+            "image_slide_mb": "shopify:\/\/shop_images\/6_PSS_mobile.webp",
             "alignment": "left",
             "enable_custom_position": false,
             "custom_horizontal": "10",
@@ -99,8 +99,8 @@
         "019803d1-84e6-4108-869e-d036746ad531": {
           "type": "image",
           "settings": {
-            "image_slide": "shopify:\/\/shop_images\/Transformer.png",
-            "image_slide_mb": "shopify:\/\/shop_images\/Transformer_Mobile.png",
+            "image_slide": "shopify:\/\/shop_images\/Transformer.webp",
+            "image_slide_mb": "shopify:\/\/shop_images\/Transformer_Mobile.webp",
             "alignment": "left",
             "enable_custom_position": false,
             "custom_horizontal": "",
@@ -192,8 +192,8 @@
         "5c6dfd41-93a9-4449-b10a-647242e58420": {
           "type": "image",
           "settings": {
-            "image_slide": "shopify:\/\/shop_images\/sensi_luxe.png",
-            "image_slide_mb": "shopify:\/\/shop_images\/sensi_luxe_mobile.png",
+            "image_slide": "shopify:\/\/shop_images\/sensi_luxe.webp",
+            "image_slide_mb": "shopify:\/\/shop_images\/sensi_luxe_mobile.webp",
             "alignment": "left",
             "enable_custom_position": false,
             "custom_horizontal": "",
@@ -1245,6 +1245,8 @@
         "df1d971b-ba3f-4b1d-8d03-876ace30211a": {
           "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
+            "title_color": "",
+            "alignment": "center",
             "html_area": ""
           }
         }
